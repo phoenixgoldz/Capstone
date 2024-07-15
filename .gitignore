@@ -64,3 +64,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 *.ini
 *.runtime-xml
+*.json
