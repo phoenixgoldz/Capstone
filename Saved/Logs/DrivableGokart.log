@@ -1130,3 +1130,87 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.15-05.08.32:265][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
 [2024.07.15-05.08.32:268][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
 [2024.07.15-05.08.36:426][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.07.15-05.09.30:437][778]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.15-05.09.35:186][180]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.07.15-05.09.35:186][180]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.15-05.09.35:187][180]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.15-05.09.35:195][180]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.15-05.09.35:195][180]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.15-05.09.35:201][180]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.07.15-05.09.35:203][180]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.07.15-05.09.36:176][180]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.07.15-05.09.36:186][180]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.07.15-05.09.36:187][180]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.07.15-05.10.09:481][796]LogDerivedDataCache: C:/Users/Trevor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.103 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1834 files in 2932 folders with total size 154 MiB.
+[2024.07.15-05.10.30:580][450]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.07.15-05.10.30:580][450]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.07.15-05.10.41:157][204]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.07.15-05.11.07:067][641]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.07.15-05.15.33:807][487]LogInterchangeEngine: [Pending] Importing
+[2024.07.15-05.15.33:807][487]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Trevor/Downloads/checkeredflag.png]
+[2024.07.15-05.15.33:847][488]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.07.15-05.15.33:860][488]LogInterchangeEngine: [Pending] Importing
+[2024.07.15-05.15.34:103][488]LogTexture: Display: Building textures: /Game/Images/checkeredflag.checkeredflag (TFO_AutoDXT, 1200x1200 x1x1x1) (Required Memory Estimate: 186.068359 MB), EncodeSpeed: Fast
+[2024.07.15-05.15.34:161][488]LogInterchangeEngine: [Success] Import Done
+[2024.07.15-05.15.34:360][489]LogInterchangeEngine: [Success] Import Done
+[2024.07.15-05.16.10:560][863]LogShaderCompilers: Display: ================================================
+[2024.07.15-05.16.10:560][863]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.15-05.16.10:560][863]LogShaderCompilers: Display: Total job queries 6, among them cache hits 0 (0.00%)
+[2024.07.15-05.16.10:560][863]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2024.07.15-05.16.10:560][863]LogShaderCompilers: Display: RAM used: 10.19 KiB of 3.20 GiB budget. Usage: 0.00%
+[2024.07.15-05.16.10:561][863]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.15-05.16.10:561][863]LogShaderCompilers: Display: Shaders Compiled: 4
+[2024.07.15-05.16.10:561][863]LogShaderCompilers: Display: Jobs assigned 6, completed 4 (66.67%)
+[2024.07.15-05.16.10:561][863]LogShaderCompilers: Display: Average time worker was idle: 327.25 s
+[2024.07.15-05.16.10:561][863]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2024.07.15-05.16.10:561][863]LogShaderCompilers: Display: Job execution time: average 0.63 s, max 0.82 s
+[2024.07.15-05.16.10:561][863]LogShaderCompilers: Display: Job life time (pending + execution): average 0.68 s, max 0.82
+[2024.07.15-05.16.10:561][863]LogShaderCompilers: Display: Shader code size: average 5.206 KiB, min 3.59 KiB, max 9.832 KiB
+[2024.07.15-05.16.10:561][863]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.47 s
+[2024.07.15-05.16.10:561][863]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.07.15-05.16.10:561][863]LogShaderCompilers: Display: Average processing rate: 2.73 jobs/sec
+[2024.07.15-05.16.10:561][863]LogShaderCompilers: Display: Total thread time: 1.509 s
+[2024.07.15-05.16.10:561][863]LogShaderCompilers: Display: Total thread preprocess time: 0.22 s
+[2024.07.15-05.16.10:561][863]LogShaderCompilers: Display: Percentage time preprocessing: 14.56%
+[2024.07.15-05.16.10:561][863]LogShaderCompilers: Display: Effective parallelization: 1.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.07.15-05.16.10:561][863]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.07.15-05.16.10:561][863]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2024.07.15-05.16.10:561][863]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2024.07.15-05.16.10:561][863]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.07.15-05.16.10:561][863]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 65.35% of total time (compiled    3 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2024.07.15-05.16.10:561][863]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 34.65% of total time (compiled    1 times, average 0.52 sec, max 0.52 sec, min 0.52 sec)
+[2024.07.15-05.16.10:561][863]LogShaderCompilers: Display: ================================================
+[2024.07.15-05.16.55:421][282]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Images/checkeredflag.checkeredflag
+[2024.07.15-05.16.55:741][282]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2024.07.15-05.17.52:621][200]LogInterchangeEngine: [Pending] Importing
+[2024.07.15-05.17.52:621][200]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Trevor/Downloads/checkeredflag.png]
+[2024.07.15-05.17.52:644][200]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.07.15-05.17.52:663][201]LogTexture: Display: Building textures: /Game/Images/checkeredflag.checkeredflag (BGRA8, 1200x554 x1x1x1) (Required Memory Estimate: 19.505249 MB), EncodeSpeed: Final
+[2024.07.15-05.17.52:686][201]LogInterchangeEngine: [Success] Import Done
+[2024.07.15-05.17.52:700][201]LogInterchangeEngine: [Success] Import Done
+[2024.07.15-05.17.52:784][202]LogInterchangeEngine: [Success] Import Done
+[2024.07.15-05.19.33:189][250]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.15-05.20.24:621][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.07.15-05.20.24:627][109]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.15-05.20.24:746][109]LogPackageLocalizationCache: Processed 44 localized package path(s) for 1 prioritized culture(s) in 0.012689 seconds
+[2024.07.15-05.20.24:767][109]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget
+[2024.07.15-05.20.24:768][109]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/MainMenuWidget5E21B1CC433160AE345B839BE02C251C.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.uasset'
+[2024.07.15-05.20.24:773][109]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/checkeredflag" FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/checkeredflag.uasset" SILENT=true
+[2024.07.15-05.20.24:794][109]LogSavePackage: Moving output files for package: /Game/Images/checkeredflag
+[2024.07.15-05.20.24:794][109]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/checkeredflag72599692426A0EDF5092E6B720B6EDA1.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/checkeredflag.uasset'
+[2024.07.15-05.20.24:806][109]LogFileHelpers: InternalPromptForCheckoutAndSave took 180 ms
+[2024.07.15-05.20.24:810][109]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.15-05.20.24:810][109]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.07.15-05.20.24:811][109]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/checkeredflag.checkeredflag
+[2024.07.15-05.20.26:120][190]BlueprintLog: New page: Compile MainMenuWidget
+[2024.07.15-05.20.26:168][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.07.15-05.20.34:759][699]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.07.15-05.21.32:445][370]BlueprintLog: New page: Compile MainMenuWidget
+[2024.07.15-05.21.32:475][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.07.15-05.21.32:626][370]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.15-05.21.32:763][370]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget
+[2024.07.15-05.21.32:764][370]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/MainMenuWidget3D7073B84B026CB71082D6AAA5D9BF78.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.uasset'
+[2024.07.15-05.21.32:774][370]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 328 ms)
+[2024.07.15-05.21.32:783][370]AssetCheck: New page: Asset Save: MainMenuWidget
+[2024.07.15-05.21.32:783][370]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.07.15-05.21.34:236][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
