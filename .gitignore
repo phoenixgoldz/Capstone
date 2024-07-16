@@ -65,3 +65,6 @@ DerivedDataCache/*
 *.ini
 *.runtime-xml
 *.json
+*.log
+*.log
+*.json
