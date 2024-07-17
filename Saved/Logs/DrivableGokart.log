@@ -1222,3 +1222,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.17-16.50.41:805][113]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 763 ms)
 [2024.07.17-16.50.41:806][113]AssetCheck: New page: Asset Save: BP-StartCountDown
 [2024.07.17-16.50.41:806][113]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Blueprints/BP-StartCountDown.BP-StartCountDown
+[2024.07.17-16.51.28:226][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
