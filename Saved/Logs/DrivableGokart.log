@@ -3357,3 +3357,150 @@ Script Stack (0 frames) :
 [2024.07.17-06.20.46:086][425]LogSlate: Window 'BP_PlayerStart' being destroyed
 [2024.07.17-06.20.46:103][425]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
 [2024.07.17-06.20.46:103][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.17-06.24.43:305][531]LogMaterial: Warning: [AssetLog] C:\Users\Trevor\Desktop\CapstoneTest\Capstone\Content\CandyRushGrandPrix\MiniMapTexture\MiniMap_TextureRenderTarget2D_Mat1.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Linear Color, should be Color for /Game/CandyRushGrandPrix/MiniMapTexture/MiniMap_TextureRenderTarget2D.MiniMap_TextureRenderTarget2D
+
+[2024.07.17-06.25.00:921][320]LogTexture: Display: Building textures: /Game/CandyRushGrandPrix/MiniMapTexture/upArrow.upArrow (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2024.07.17-06.25.29:154][239]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/CandyRushGrandPrix/MiniMapTexture/MiniMap_TextureRenderTarget2D_Mat.MiniMap_TextureRenderTarget2D_Mat
+[2024.07.17-06.25.29:160][239]LogMaterial: Warning: [AssetLog] /Engine/Transient.MiniMap_TextureRenderTarget2D_Mat: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Linear Color, should be Color for /Game/CandyRushGrandPrix/MiniMapTexture/MiniMap_TextureRenderTarget2D.MiniMap_TextureRenderTarget2D
+
+[2024.07.17-06.25.29:179][239]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.17-06.25.29:179][239]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.17-06.25.29:433][239]LogMaterial: Warning: [AssetLog] /Engine/Transient.MiniMap_TextureRenderTarget2D_Mat: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Linear Color, should be Color for /Game/CandyRushGrandPrix/MiniMapTexture/MiniMap_TextureRenderTarget2D.MiniMap_TextureRenderTarget2D
+
+[2024.07.17-06.25.29:437][239]LogMaterial: Warning: [AssetLog] /Engine/Transient.MiniMap_TextureRenderTarget2D_Mat: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Linear Color, should be Color for /Game/CandyRushGrandPrix/MiniMapTexture/MiniMap_TextureRenderTarget2D.MiniMap_TextureRenderTarget2D
+
+[2024.07.17-06.25.29:501][239]MaterialEditorStats: Error: [SM5] (Node TextureSample) Sampler type is Linear Color, should be Color for /Game/CandyRushGrandPrix/MiniMapTexture/MiniMap_TextureRenderTarget2D.MiniMap_TextureRenderTarget2D
+[2024.07.17-06.26.02:128][635]LogMaterialEditor: Saving and Compiling material MiniMap_TextureRenderTarget2D_Mat
+[2024.07.17-06.26.02:132][635]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.17-06.26.02:213][635]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/MiniMapTexture/MiniMap_TextureRenderTarget2D_Mat
+[2024.07.17-06.26.02:214][635]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/MiniMap_TextureRenderTarget2D_Ma6A06D10447E2DE22332E588F9C87346F.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/MiniMapTexture/MiniMap_TextureRenderTarget2D_Mat.uasset'
+[2024.07.17-06.26.02:228][635]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 7.30 sec)
+[2024.07.17-06.26.02:229][635]AssetCheck: New page: Asset Save: MiniMap_TextureRenderTarget2D_Mat
+[2024.07.17-06.26.02:229][635]LogContentValidation: Display: Validating /Script/Engine.Material /Game/CandyRushGrandPrix/MiniMapTexture/MiniMap_TextureRenderTarget2D_Mat.MiniMap_TextureRenderTarget2D_Mat
+[2024.07.17-06.26.11:846][271]LogMaterial: Warning: [AssetLog] /Engine/Transient.MiniMap_TextureRenderTarget2D_Mat: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Linear Color, should be Color for /Game/CandyRushGrandPrix/MiniMapTexture/MiniMap_TextureRenderTarget2D.MiniMap_TextureRenderTarget2D
+
+[2024.07.17-06.26.20:944][873]LogMaterial: Warning: [AssetLog] /Engine/Transient.MiniMap_TextureRenderTarget2D_Mat: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Linear Color, should be Color for /Game/CandyRushGrandPrix/MiniMapTexture/MiniMap_TextureRenderTarget2D.MiniMap_TextureRenderTarget2D
+
+[2024.07.17-06.26.22:656][  7]LogMaterialEditor: Applying material MiniMap_TextureRenderTarget2D_Mat
+[2024.07.17-06.26.25:487][  7]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2024.07.17-06.26.25:974][  7]LogMaterial: Warning: [AssetLog] /Engine/Transient.MiniMap_TextureRenderTarget2D_Mat: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Linear Color, should be Color for /Game/CandyRushGrandPrix/MiniMapTexture/MiniMap_TextureRenderTarget2D.MiniMap_TextureRenderTarget2D
+
+[2024.07.17-06.26.26:002][  7]LogMaterial: Warning: [AssetLog] C:\Users\Trevor\Desktop\CapstoneTest\Capstone\Content\CandyRushGrandPrix\MiniMapTexture\MiniMap_TextureRenderTarget2D_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Linear Color, should be Color for /Game/CandyRushGrandPrix/MiniMapTexture/MiniMap_TextureRenderTarget2D.MiniMap_TextureRenderTarget2D
+
+[2024.07.17-06.26.26:034][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.07.17-06.26.26:222][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.07.17-06.26.40:635][ 94]LogMaterial: Warning: [AssetLog] /Engine/Transient.MiniMap_TextureRenderTarget2D_Mat: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Linear Color, should be Color for /Game/CandyRushGrandPrix/MiniMapTexture/MiniMap_TextureRenderTarget2D.MiniMap_TextureRenderTarget2D
+
+[2024.07.17-06.26.47:002][538]LogMaterial: Warning: [AssetLog] /Engine/Transient.MiniMap_TextureRenderTarget2D_Mat: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Sampler type is Linear Color, should be Color for /Game/CandyRushGrandPrix/MiniMapTexture/MiniMap_TextureRenderTarget2D.MiniMap_TextureRenderTarget2D
+
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display: ================================================
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display: Total job queries 28, among them cache hits 4 (14.29%)
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display: Tracking 23 distinct input hashes that result in 18 distinct outputs (78.26%)
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display: RAM used: 46.90 KiB of 3.20 GiB budget. Usage: 0.00%
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display: Shaders Compiled: 3
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display: Jobs assigned 4, completed 3 (75.00%)
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display: Average time worker was idle: 373.14 s
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.06 s
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display: Job execution time: average 1.65 s, max 2.27 s
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display: Job life time (pending + execution): average 1.71 s, max 2.32
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display: Shader code size: average 5.466 KiB, min 2.648 KiB, max 9.832 KiB
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.90 s
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display: Average processing rate: 1.04 jobs/sec
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display: Total thread time: 2.71 s
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display: Total thread preprocess time: 1.23 s
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display: Percentage time preprocessing: 45.37%
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display: Effective parallelization: 0.94 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 1.29 sec, max 1.29 sec, min 1.29 sec)
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.71 sec, max 1.14 sec, min 0.29 sec)
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 52.58% of total time (compiled    2 times, average 0.71 sec, max 1.14 sec, min 0.29 sec)
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 47.42% of total time (compiled    1 times, average 1.29 sec, max 1.29 sec, min 1.29 sec)
+[2024.07.17-06.26.47:729][575]LogShaderCompilers: Display: ================================================
+[2024.07.17-06.26.49:593][705]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2024.07.17-06.26.49:593][705]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+[2024.07.17-06.26.49:593][705]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2024.07.17-06.26.49:593][705]MaterialEditorStats: Texture samplers: 0/16
+[2024.07.17-06.26.49:593][705]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.07.17-06.26.49:593][705]MaterialEditorStats: Shader Count: 0
+[2024.07.17-06.26.49:824][718]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2024.07.17-06.26.49:824][718]MaterialEditorStats: Default UI Vertex Shader: 26 instructions
+[2024.07.17-06.26.49:824][718]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2024.07.17-06.26.49:824][718]MaterialEditorStats: Texture samplers: 0/16
+[2024.07.17-06.26.49:824][718]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.07.17-06.26.49:824][718]MaterialEditorStats: Shader Count: 1
+[2024.07.17-06.26.49:938][725]MaterialEditorStats: Default UI Pixel Shader: 22 instructions
+[2024.07.17-06.26.49:938][725]MaterialEditorStats: Default UI Vertex Shader: 26 instructions
+[2024.07.17-06.26.49:938][725]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2024.07.17-06.26.49:938][725]MaterialEditorStats: Texture samplers: 0/16
+[2024.07.17-06.26.49:938][725]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.07.17-06.26.49:938][725]MaterialEditorStats: Shader Count: 2
+[2024.07.17-06.26.51:387][827]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2024.07.17-06.26.51:387][827]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+[2024.07.17-06.26.51:387][827]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2024.07.17-06.26.51:387][827]MaterialEditorStats: Texture samplers: 0/16
+[2024.07.17-06.26.51:387][827]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.07.17-06.26.51:387][827]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.17-06.26.51:387][827]MaterialEditorStats: Shader Count: 0
+[2024.07.17-06.26.51:588][839]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2024.07.17-06.26.51:588][839]MaterialEditorStats: Default UI Vertex Shader: 26 instructions
+[2024.07.17-06.26.51:588][839]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2024.07.17-06.26.51:588][839]MaterialEditorStats: Texture samplers: 0/16
+[2024.07.17-06.26.51:588][839]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.07.17-06.26.51:588][839]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.17-06.26.51:588][839]MaterialEditorStats: Shader Count: 1
+[2024.07.17-06.26.51:698][846]MaterialEditorStats: Default UI Pixel Shader: 25 instructions
+[2024.07.17-06.26.51:698][846]MaterialEditorStats: Default UI Vertex Shader: 26 instructions
+[2024.07.17-06.26.51:698][846]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2024.07.17-06.26.51:698][846]MaterialEditorStats: Texture samplers: 1/16
+[2024.07.17-06.26.51:698][846]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.07.17-06.26.51:698][846]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.17-06.26.51:698][846]MaterialEditorStats: Shader Count: 2
+[2024.07.17-06.26.55:313][120]LogMaterialEditor: Applying material MiniMap_TextureRenderTarget2D_Mat
+[2024.07.17-06.26.55:399][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.07.17-06.26.55:489][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.07.17-06.26.55:506][120]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2024.07.17-06.26.55:506][120]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+[2024.07.17-06.26.55:506][120]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2024.07.17-06.26.55:506][120]MaterialEditorStats: Texture samplers: 0/16
+[2024.07.17-06.26.55:506][120]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.07.17-06.26.55:506][120]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.17-06.26.55:506][120]MaterialEditorStats: Shader Count: 0
+[2024.07.17-06.26.55:570][121]MaterialEditorStats: Default UI Pixel Shader: 25 instructions
+[2024.07.17-06.26.55:570][121]MaterialEditorStats: Default UI Vertex Shader: 26 instructions
+[2024.07.17-06.26.55:570][121]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2024.07.17-06.26.55:570][121]MaterialEditorStats: Texture samplers: 1/16
+[2024.07.17-06.26.55:570][121]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.07.17-06.26.55:570][121]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.17-06.26.55:570][121]MaterialEditorStats: Shader Count: 2
+[2024.07.17-06.26.56:840][209]LogMaterialEditor: Saving and Compiling material MiniMap_TextureRenderTarget2D_Mat
+[2024.07.17-06.26.56:843][209]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.17-06.26.57:936][209]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/MiniMapTexture/MiniMap_TextureRenderTarget2D_Mat
+[2024.07.17-06.26.57:938][209]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/MiniMap_TextureRenderTarget2D_MaD26498A94DC351522618F0A622BEE296.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/MiniMapTexture/MiniMap_TextureRenderTarget2D_Mat.uasset'
+[2024.07.17-06.26.57:969][209]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.12 sec (total: 8.43 sec)
+[2024.07.17-06.26.57:971][209]AssetCheck: New page: Asset Save: MiniMap_TextureRenderTarget2D_Mat
+[2024.07.17-06.26.57:971][209]LogContentValidation: Display: Validating /Script/Engine.Material /Game/CandyRushGrandPrix/MiniMapTexture/MiniMap_TextureRenderTarget2D_Mat.MiniMap_TextureRenderTarget2D_Mat
+[2024.07.17-06.26.57:973][209]MaterialEditorStats: Default UI Pixel Shader: 25 instructions
+[2024.07.17-06.26.57:973][209]MaterialEditorStats: Default UI Vertex Shader: 26 instructions
+[2024.07.17-06.26.57:974][209]MaterialEditorStats: Instanced UI Vertex Shader: 26 instructions
+[2024.07.17-06.26.57:974][209]MaterialEditorStats: Texture samplers: 2/16
+[2024.07.17-06.26.57:974][209]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.07.17-06.26.57:974][209]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.17-06.26.57:974][209]MaterialEditorStats: Shader Count: 11
+[2024.07.17-06.27.06:683][777]LogSlate: Window 'MiniMap_TextureRenderTarget2D_Mat' being destroyed
+[2024.07.17-06.27.06:716][777]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.07.17-06.27.06:716][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.17-06.27.10:033][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
