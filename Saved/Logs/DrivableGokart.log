@@ -2572,3 +2572,196 @@ Script Stack (2 frames) :
 [2024.07.18-16.43.36:543][732]AssetCheck: New page: Asset Save: CottonCandySkies
 [2024.07.18-16.43.36:543][732]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/CottonCandySkies.CottonCandySkies
 [2024.07.18-16.44.01:983][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.07.18-16.45.20:317][697]Cmd: DUPLICATE
+[2024.07.18-16.45.20:317][697]Cmd: ACTOR DUPLICATE
+[2024.07.18-16.45.20:362][697]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.18-16.45.46:155][995]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.18-16.45.46:261][995]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/BP_PlayerStart
+[2024.07.18-16.45.46:262][995]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_PlayerStartA2A1A950428CA3BF53CEAB9597E8A5B1.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_PlayerStart.uasset'
+[2024.07.18-16.45.46:298][995]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 6.26 sec)
+[2024.07.18-16.45.46:299][995]AssetCheck: New page: Asset Save: BP_PlayerStart
+[2024.07.18-16.45.46:299][995]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_PlayerStart.BP_PlayerStart
+[2024.07.18-16.45.47:266][ 49]BlueprintLog: New page: Compile BP_PlayerStart
+[2024.07.18-16.45.47:314][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.07.18-16.45.51:409][226]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.18-16.45.54:842][431]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.18-16.45.56:084][483]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.18-16.45.56:093][483]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.18-16.45.56:093][483]PIE: New page: PIE session: CottonCandySkies (Jul 18, 2024, 4:45:56 AM)
+[2024.07.18-16.45.56:093][483]LogPlayLevel: Creating play world package: /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies
+[2024.07.18-16.45.56:171][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078295s)
+[2024.07.18-16.45.56:171][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CandyRushGrandPrix/Levels/CottonCandySkies.CottonCandySkies to /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies.CottonCandySkies (0.078336s)
+[2024.07.18-16.45.56:188][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.07.18-16.45.56:191][483]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.18-16.45.56:191][483]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.18-16.45.56:191][483]LogAIModule: Creating AISystem for world CottonCandySkies
+[2024.07.18-16.45.56:192][483]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2024.07.18-16.45.56:192][483]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.07.18-16.45.56:192][483]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.18-16.45.56:192][483]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.18-16.45.56:192][483]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.18-16.45.56:192][483]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.18-16.45.56:192][483]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.18-16.45.56:192][483]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.18-16.45.56:192][483]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.18-16.45.56:192][483]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.18-16.45.56:192][483]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.18-16.45.56:192][483]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.18-16.45.56:192][483]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.18-16.45.56:195][483]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.18-16.45.56:225][483]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.18-16.45.56:225][483]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.18-16.45.56:225][483]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.18-16.45.56:225][483]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.18-16.45.56:225][483]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.07.18-16.45.56:225][483]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.07.18-16.45.56:228][483]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.07.18-16.45.56:228][483]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.07.18-16.45.56:228][483]LogInit: FAudioDevice initialized with ID 13.
+[2024.07.18-16.45.56:228][483]LogAudio: Display: Audio Device (ID: 13) registered with world 'CottonCandySkies'.
+[2024.07.18-16.45.56:228][483]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.07.18-16.45.56:231][483]LogLoad: Game class is 'GM_RacingGame_C'
+[2024.07.18-16.45.56:239][483]LogWorld: Bringing World /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies.CottonCandySkies up for play (max tick rate 60) at 2024.07.18-10.45.56
+[2024.07.18-16.45.56:240][483]LogWorld: Bringing up level for play took: 0.008696
+[2024.07.18-16.45.56:241][483]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2024.07.18-16.45.56:245][483]LogPlayerManagement: Error: AsyncLoadOrCreateSaveGameForLocalPlayer called with null or remote player controller!
+[2024.07.18-16.45.56:245][483]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2024.07.18-16.45.56:245][483]LogScript: Warning: Accessed None trying to read property Target
+	BP_PlayerStart_C /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies.CottonCandySkies:PersistentLevel.BP_PlayerStart_C_0
+	Function /Game/CandyRushGrandPrix/Blueprints/BP_PlayerStart.BP_PlayerStart_C:ExecuteUbergraph_BP_PlayerStart:01C9
+[2024.07.18-16.45.56:245][483]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Get Camera View Graph:  EventGraph Function:  Execute Ubergraph BP Player Start Blueprint:  BP_PlayerStart
+[2024.07.18-16.45.56:245][483]LogScript: Warning: Accessed None
+	BP_PlayerStart_C /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies.CottonCandySkies:PersistentLevel.BP_PlayerStart_C_0
+	Function /Game/CandyRushGrandPrix/Blueprints/BP_PlayerStart.BP_PlayerStart_C:ExecuteUbergraph_BP_PlayerStart:01DE
+[2024.07.18-16.45.56:245][483]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Get Camera View Graph:  EventGraph Function:  Execute Ubergraph BP Player Start Blueprint:  BP_PlayerStart
+[2024.07.18-16.45.56:248][483]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2024.07.18-16.45.56:248][483]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [BP-Kart2_C]
+[2024.07.18-16.45.56:248][483]LogScript: Warning: Accessed None trying to read property Target
+	BP_PlayerStart_C /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies.CottonCandySkies:PersistentLevel.BP_PlayerStart_C_1
+	Function /Game/CandyRushGrandPrix/Blueprints/BP_PlayerStart.BP_PlayerStart_C:ExecuteUbergraph_BP_PlayerStart:01C9
+[2024.07.18-16.45.56:248][483]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Get Camera View Graph:  EventGraph Function:  Execute Ubergraph BP Player Start Blueprint:  BP_PlayerStart
+[2024.07.18-16.45.56:248][483]LogScript: Warning: Accessed None
+	BP_PlayerStart_C /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies.CottonCandySkies:PersistentLevel.BP_PlayerStart_C_1
+	Function /Game/CandyRushGrandPrix/Blueprints/BP_PlayerStart.BP_PlayerStart_C:ExecuteUbergraph_BP_PlayerStart:01DE
+[2024.07.18-16.45.56:248][483]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Get Camera View Graph:  EventGraph Function:  Execute Ubergraph BP Player Start Blueprint:  BP_PlayerStart
+[2024.07.18-16.45.56:249][483]PIE: Server logged in
+[2024.07.18-16.45.56:250][483]PIE: Play in editor total start time 0.157 seconds.
+[2024.07.18-16.46.06:343][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.18-16.46.06:343][645]LogWorld: BeginTearingDown for /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies
+[2024.07.18-16.46.06:343][645]LogWorld: UWorld::CleanupWorld for CottonCandySkies, bSessionEnded=true, bCleanupResources=true
+[2024.07.18-16.46.06:344][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.18-16.46.06:395][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.18-16.46.06:402][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.18-16.46.06:417][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.18-16.46.06:418][645]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.07.18-16.46.06:419][645]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.07.18-16.46.06:422][645]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.07.18-16.46.06:434][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.07.18-16.46.06:786][646]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2024.07.18-16.46.13:399][709]LogSlate: Window 'Message Log' being destroyed
+[2024.07.18-16.46.13:538][709]LogSlate: Window 'Message Log' being destroyed
+[2024.07.18-16.46.17:336][754]Cmd: DELETE
+[2024.07.18-16.46.17:336][754]Cmd: ACTOR DELETE
+[2024.07.18-16.46.17:352][754]LogEditorActor: Deleted Actor: BP_PlayerStart_C
+[2024.07.18-16.46.17:369][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.07.18-16.46.17:375][754]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2024.07.18-16.46.27:426][980]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.18-16.46.30:677][126]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.07.18-16.46.35:113][171]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.07.18-16.46.35:115][171]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.07.18-16.46.35:116][171]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/CandyRushGrandPrix/Levels/CottonCandySkies.CottonCandySkies:PersistentLevel.PlayerStart_3
+[2024.07.18-16.46.35:116][171]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.18-16.46.35:116][171]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/CandyRushGrandPrix/Levels/CottonCandySkies.CottonCandySkies:PersistentLevel.PlayerStart_3
+[2024.07.18-16.46.35:117][171]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.18-16.46.35:156][171]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.07.18-16.46.35:156][171]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.07.18-16.46.35:157][171]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/CandyRushGrandPrix/Levels/CottonCandySkies.CottonCandySkies:PersistentLevel.PlayerStart_4
+[2024.07.18-16.46.35:157][171]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.18-16.46.35:157][171]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/CandyRushGrandPrix/Levels/CottonCandySkies.CottonCandySkies:PersistentLevel.PlayerStart_4
+[2024.07.18-16.46.35:157][171]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.18-16.46.36:614][216]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.07.18-16.46.36:614][216]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2024.07.18-16.46.36:617][216]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/CandyRushGrandPrix/Levels/CottonCandySkies.CottonCandySkies:PersistentLevel.PlayerStart_9
+[2024.07.18-16.46.36:617][216]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.18-16.46.36:618][216]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/CandyRushGrandPrix/Levels/CottonCandySkies.CottonCandySkies:PersistentLevel.PlayerStart_9
+[2024.07.18-16.46.36:618][216]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.18-16.46.38:234][297]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.18-16.46.44:278][658]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.18-16.46.46:321][780]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.18-16.46.57:518][450]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.18-16.47.00:044][601]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.18-16.47.01:678][696]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.18-16.47.03:554][808]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.07.18-16.47.04:825][869]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.18-16.47.04:834][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.18-16.47.04:834][869]PIE: New page: PIE session: CottonCandySkies (Jul 18, 2024, 4:47:04 AM)
+[2024.07.18-16.47.04:834][869]LogPlayLevel: Creating play world package: /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies
+[2024.07.18-16.47.04:918][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.083277s)
+[2024.07.18-16.47.04:918][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CandyRushGrandPrix/Levels/CottonCandySkies.CottonCandySkies to /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies.CottonCandySkies (0.083320s)
+[2024.07.18-16.47.04:939][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.07.18-16.47.04:943][869]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.18-16.47.04:943][869]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.18-16.47.04:943][869]LogAIModule: Creating AISystem for world CottonCandySkies
+[2024.07.18-16.47.04:944][869]LogPlayLevel: PIE: World Init took: (0.001305s)
+[2024.07.18-16.47.04:944][869]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.07.18-16.47.04:944][869]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.18-16.47.04:944][869]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.18-16.47.04:944][869]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.18-16.47.04:944][869]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.18-16.47.04:944][869]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.18-16.47.04:944][869]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.18-16.47.04:944][869]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.18-16.47.04:944][869]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.18-16.47.04:945][869]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.18-16.47.04:945][869]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.18-16.47.04:945][869]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.18-16.47.04:947][869]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.18-16.47.04:981][869]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.18-16.47.04:981][869]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.18-16.47.04:981][869]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.18-16.47.04:981][869]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.18-16.47.04:982][869]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.07.18-16.47.04:982][869]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.07.18-16.47.04:984][869]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.07.18-16.47.04:984][869]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.07.18-16.47.04:984][869]LogInit: FAudioDevice initialized with ID 14.
+[2024.07.18-16.47.04:984][869]LogAudio: Display: Audio Device (ID: 14) registered with world 'CottonCandySkies'.
+[2024.07.18-16.47.04:984][869]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.07.18-16.47.04:987][869]LogLoad: Game class is 'GM_RacingGame_C'
+[2024.07.18-16.47.04:996][869]LogWorld: Bringing World /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies.CottonCandySkies up for play (max tick rate 60) at 2024.07.18-10.47.04
+[2024.07.18-16.47.04:996][869]LogWorld: Bringing up level for play took: 0.009262
+[2024.07.18-16.47.04:998][869]LogOnline: OSS: Created online subsystem instance for: :Context_83
+[2024.07.18-16.47.05:003][869]LogPlayerManagement: Error: AsyncLoadOrCreateSaveGameForLocalPlayer called with null or remote player controller!
+[2024.07.18-16.47.05:003][869]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2024.07.18-16.47.05:003][869]LogScript: Warning: Accessed None trying to read property Target
+	BP_PlayerStart_C /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies.CottonCandySkies:PersistentLevel.BP_PlayerStart_C_0
+	Function /Game/CandyRushGrandPrix/Blueprints/BP_PlayerStart.BP_PlayerStart_C:ExecuteUbergraph_BP_PlayerStart:01C9
+[2024.07.18-16.47.05:003][869]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Target". Node:  Get Camera View Graph:  EventGraph Function:  Execute Ubergraph BP Player Start Blueprint:  BP_PlayerStart
+[2024.07.18-16.47.05:003][869]LogScript: Warning: Accessed None
+	BP_PlayerStart_C /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies.CottonCandySkies:PersistentLevel.BP_PlayerStart_C_0
+	Function /Game/CandyRushGrandPrix/Blueprints/BP_PlayerStart.BP_PlayerStart_C:ExecuteUbergraph_BP_PlayerStart:01DE
+[2024.07.18-16.47.05:003][869]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Get Camera View Graph:  EventGraph Function:  Execute Ubergraph BP Player Start Blueprint:  BP_PlayerStart
+[2024.07.18-16.47.05:004][869]PIE: Server logged in
+[2024.07.18-16.47.05:005][869]PIE: Play in editor total start time 0.171 seconds.
+[2024.07.18-16.47.06:933][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.18-16.47.06:933][899]LogWorld: BeginTearingDown for /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies
+[2024.07.18-16.47.06:934][899]LogWorld: UWorld::CleanupWorld for CottonCandySkies, bSessionEnded=true, bCleanupResources=true
+[2024.07.18-16.47.06:936][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.18-16.47.07:006][899]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.18-16.47.07:013][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.18-16.47.07:034][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.18-16.47.07:036][899]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.07.18-16.47.07:036][899]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.07.18-16.47.07:039][899]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.07.18-16.47.07:052][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.07.18-16.47.07:374][900]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2024.07.18-16.47.18:890][ 10]LogSlate: Window 'Message Log' being destroyed
+[2024.07.18-16.47.21:145][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.07.18-16.47.21:154][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.18-16.47.21:410][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.07.18-16.47.21:555][ 29]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/CottonCandySkies
+[2024.07.18-16.47.21:556][ 29]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/CottonCandySkies8A6029D24845C080BDE225B3F26D7496.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/CottonCandySkies.umap'
+[2024.07.18-16.47.21:568][ 29]LogFileHelpers: Saving map 'CottonCandySkies' took 0.208
+[2024.07.18-16.47.21:674][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave took 520 ms (total: 6.79 sec)
+[2024.07.18-16.47.21:677][ 29]AssetCheck: New page: Asset Save: CottonCandySkies
+[2024.07.18-16.47.21:677][ 29]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/CottonCandySkies.CottonCandySkies
