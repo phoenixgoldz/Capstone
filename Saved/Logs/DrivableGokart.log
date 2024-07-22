@@ -1455,3 +1455,65 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.22-16.28.01:307][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave took 185 ms (total: 1.07 sec)
 [2024.07.22-16.28.01:310][ 98]AssetCheck: New page: Asset Save: GoKartSelection
 [2024.07.22-16.28.01:310][ 98]LogContentValidation: Display: Validating /Script/Engine.World /Game/Gokart/Maps/GoKartSelection.GoKartSelection
+[2024.07.22-16.28.36:620][457]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-16.28.36:683][458]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-16.29.27:456][979]LogShaderCompilers: Display: ================================================
+[2024.07.22-16.29.27:456][979]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.22-16.29.27:456][979]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2024.07.22-16.29.27:456][979]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2024.07.22-16.29.27:456][979]LogShaderCompilers: Display: RAM used: 6.62 KiB of 1.60 GiB budget. Usage: 0.00%
+[2024.07.22-16.29.27:456][979]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.22-16.29.27:456][979]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.07.22-16.29.27:456][979]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.07.22-16.29.27:456][979]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.07.22-16.29.27:456][979]LogShaderCompilers: Display: ================================================
+[2024.07.22-16.29.30:471][ 93]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/CandyRushGrandPrix/Models/CandyObj/CandyObj_c_h_16) ...
+[2024.07.22-16.36.19:071][100]BlueprintLog: New page: Compile CCMachine
+[2024.07.22-16.36.19:755][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.07.22-16.36.19:784][100]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.22-16.36.19:921][100]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-16.36.19:964][100]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Models/Candy/CottonMachine/CCMachine
+[2024.07.22-16.36.19:965][100]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/CCMachine02B21C05462C423FAE3563B75461F0E0.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Models/Candy/CottonMachine/CCMachine.uasset'
+[2024.07.22-16.36.20:021][100]LogFileHelpers: InternalPromptForCheckoutAndSave took 236 ms (total: 1.31 sec)
+[2024.07.22-16.36.20:032][100]AssetCheck: New page: Asset Save: CCMachine
+[2024.07.22-16.36.20:032][100]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Models/Candy/CottonMachine/CCMachine.CCMachine
+[2024.07.22-16.36.36:414][942]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.22-16.36.43:762][362]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.22-16.36.50:236][745]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.22-16.37.00:255][328]LogViewport: Scene viewport resized to 762x429, mode Windowed.
+[2024.07.22-16.37.02:394][407]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.22-16.37.54:755][133]BlueprintLog: New page: Compile CCMachine
+[2024.07.22-16.37.54:846][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.07.22-16.37.54:869][133]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.22-16.37.55:006][133]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Models/Candy/CottonMachine/CCMachine
+[2024.07.22-16.37.55:007][133]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/CCMachineBC8E8FA24EB165F1153033B200FD84AA.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Models/Candy/CottonMachine/CCMachine.uasset'
+[2024.07.22-16.37.55:048][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 1.49 sec)
+[2024.07.22-16.37.55:071][133]AssetCheck: New page: Asset Save: CCMachine
+[2024.07.22-16.37.55:071][133]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Models/Candy/CottonMachine/CCMachine.CCMachine
+[2024.07.22-16.37.57:331][168]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.22-16.37.57:487][168]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Models/Candy/CottonMachine/CCMachine
+[2024.07.22-16.37.57:487][168]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/CCMachine64E995984185D34F2483E8AD6BFAD6CE.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Models/Candy/CottonMachine/CCMachine.uasset'
+[2024.07.22-16.37.57:585][168]LogFileHelpers: InternalPromptForCheckoutAndSave took 253 ms (total: 1.74 sec)
+[2024.07.22-16.37.57:587][168]AssetCheck: New page: Asset Save: CCMachine
+[2024.07.22-16.37.57:587][168]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Models/Candy/CottonMachine/CCMachine.CCMachine
+[2024.07.22-16.38.01:111][210]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-16.38.01:171][210]LogShaderCompilers: Display: ================================================
+[2024.07.22-16.38.01:171][210]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.22-16.38.01:171][210]LogShaderCompilers: Display: Total job queries 22, among them cache hits 8 (36.36%)
+[2024.07.22-16.38.01:171][210]LogShaderCompilers: Display: Tracking 14 distinct input hashes that result in 14 distinct outputs (100.00%)
+[2024.07.22-16.38.01:171][210]LogShaderCompilers: Display: RAM used: 21.97 KiB of 1.60 GiB budget. Usage: 0.00%
+[2024.07.22-16.38.01:171][210]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.22-16.38.01:171][210]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.07.22-16.38.01:171][210]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.07.22-16.38.01:171][210]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.07.22-16.38.01:171][210]LogShaderCompilers: Display: ================================================
+[2024.07.22-16.38.02:730][227]LogSlate: Window 'Open Asset' being destroyed
+[2024.07.22-16.38.04:773][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.07.22-16.38.04:782][259]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.22-16.38.05:000][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.07.22-16.38.05:038][259]LogSavePackage: Moving output files for package: /Game/Gokart/Maps/GoKartSelection
+[2024.07.22-16.38.05:038][259]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/GoKartSelection0BE0F7C649C34BB25E27B1818B9CCA6F.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Gokart/Maps/GoKartSelection.umap'
+[2024.07.22-16.38.05:049][259]LogFileHelpers: Saving map 'GoKartSelection' took 0.105
+[2024.07.22-16.38.05:090][259]LogFileHelpers: InternalPromptForCheckoutAndSave took 308 ms (total: 2.05 sec)
+[2024.07.22-16.38.05:093][259]AssetCheck: New page: Asset Save: GoKartSelection
+[2024.07.22-16.38.05:093][259]LogContentValidation: Display: Validating /Script/Engine.World /Game/Gokart/Maps/GoKartSelection.GoKartSelection
