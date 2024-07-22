@@ -1446,3 +1446,12 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.22-16.22.50:808][936]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2024.07.22-16.22.52:658][971]LogViewport: Scene viewport resized to 1285x782, mode Windowed.
 [2024.07.22-16.23.20:745][342]LogViewport: Scene viewport resized to 762x429, mode Windowed.
+[2024.07.22-16.28.01:116][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.07.22-16.28.01:121][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.22-16.28.01:251][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.07.22-16.28.01:278][ 98]LogSavePackage: Moving output files for package: /Game/Gokart/Maps/GoKartSelection
+[2024.07.22-16.28.01:278][ 98]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/GoKartSelectionF72D5B654670D8B3A5CBF3937B7E7164.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Gokart/Maps/GoKartSelection.umap'
+[2024.07.22-16.28.01:286][ 98]LogFileHelpers: Saving map 'GoKartSelection' took 0.075
+[2024.07.22-16.28.01:307][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave took 185 ms (total: 1.07 sec)
+[2024.07.22-16.28.01:310][ 98]AssetCheck: New page: Asset Save: GoKartSelection
+[2024.07.22-16.28.01:310][ 98]LogContentValidation: Display: Validating /Script/Engine.World /Game/Gokart/Maps/GoKartSelection.GoKartSelection
