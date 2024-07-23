@@ -4412,3 +4412,42 @@ Script Stack (2 frames) :
 [2024.07.23-07.13.22:671][889]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/MP-KartSelection.MP-KartSelection
 [2024.07.23-07.13.28:855][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
 [2024.07.23-07.13.50:545][530]LogDerivedDataCache: C:/Users/Trevor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.149 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6362 files in 8364 folders with total size 863 MiB.
+[2024.07.23-07.14.39:492][ 89]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/CandyRushGrandPrix/Levels/MP-KartSelection.MP-KartSelection:PersistentLevel.MP-KartSelection
+[2024.07.23-07.14.39:493][ 89]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.23-07.14.39:493][ 89]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.23-07.14.57:308][273]BlueprintLog: New page: Compile MP-KartSelection
+[2024.07.23-07.14.57:345][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.07.23-07.14.57:360][273]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.23-07.14.57:518][273]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.07.23-07.14.57:549][273]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/MP-KartSelection
+[2024.07.23-07.14.57:550][273]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/MP-KartSelectionBFFB3FF64FD6B2F54EABFBA83C3E7539.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Levels/MP-KartSelection.umap'
+[2024.07.23-07.14.57:559][273]LogFileHelpers: Saving map 'MP-KartSelection' took 0.102
+[2024.07.23-07.14.57:571][273]LogFileHelpers: InternalPromptForCheckoutAndSave took 211 ms (total: 8.24 sec)
+[2024.07.23-07.14.57:573][273]AssetCheck: New page: Asset Save: MP-KartSelection
+[2024.07.23-07.14.57:573][273]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/MP-KartSelection.MP-KartSelection
+[2024.07.23-07.14.58:788][359]AssetReimport: New page: Outstanding source content changes 7:14:58 PM
+[2024.07.23-07.14.58:842][360]LogAudioEditor: Performing atomic reimport of [C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Audio/Full Throttle Rush.wav]
+[2024.07.23-07.14.58:915][360]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Audio/Full Throttle Rush.wav)
+[2024.07.23-07.15.01:491][360]LogAudioEditor: -- imported successfully
+[2024.07.23-07.15.05:213][438]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/Full_Throttle_Rush.Full_Throttle_Rush: Chunk0=28 bytes, Chunk1-N=256k
+[2024.07.23-07.15.07:077][583]AssetReimport: Reimported asset Full_Throttle_Rush from C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Audio/Full Throttle Rush.wav.
+[2024.07.23-07.15.13:403][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.07.23-07.15.13:408][890]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.23-07.15.13:534][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Full_Throttle_Rush" FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Audio/Full_Throttle_Rush.uasset" SILENT=true
+[2024.07.23-07.15.13:591][890]LogSavePackage: Moving output files for package: /Game/Audio/Full_Throttle_Rush
+[2024.07.23-07.15.13:591][890]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/Full_Throttle_RushD8AE45324363ACBC1040D689A25FCCDA.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Audio/Full_Throttle_Rush.uasset'
+[2024.07.23-07.15.13:605][890]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 8.43 sec)
+[2024.07.23-07.15.13:607][890]AssetCheck: New page: Asset Save: Full_Throttle_Rush
+[2024.07.23-07.15.13:608][890]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Full_Throttle_Rush.Full_Throttle_Rush
+[2024.07.23-07.16.18:528][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.07.23-07.16.18:534][322]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.23-07.16.18:706][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.07.23-07.16.18:739][322]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/MP-KartSelection
+[2024.07.23-07.16.18:740][322]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/MP-KartSelectionEB09DE304CBFB14F17847DA834C9AEC7.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Levels/MP-KartSelection.umap'
+[2024.07.23-07.16.18:750][322]LogFileHelpers: Saving map 'MP-KartSelection' took 0.095
+[2024.07.23-07.16.18:760][322]LogFileHelpers: InternalPromptForCheckoutAndSave took 225 ms (total: 8.66 sec)
+[2024.07.23-07.16.18:763][322]AssetCheck: New page: Asset Save: MP-KartSelection
+[2024.07.23-07.16.18:763][322]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/MP-KartSelection.MP-KartSelection
+[2024.07.23-07.16.19:295][369]LogSlate: Window 'MP-KartSelection' being destroyed
+[2024.07.23-07.16.19:311][369]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2024.07.23-07.16.19:311][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
