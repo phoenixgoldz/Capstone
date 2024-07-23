@@ -3599,3 +3599,816 @@ Script Stack (2 frames) :
 [2024.07.23-06.50.49:771][371]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Candy_Rush_Remix.Candy_Rush_Remix
 [2024.07.23-06.50.49:771][371]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Full_Throttle_Rush.Full_Throttle_Rush
 [2024.07.23-06.50.49:771][371]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Sugar_Symphony.Sugar_Symphony
+[2024.07.23-06.55.49:193][501]LogShaderCompilers: Display: ================================================
+[2024.07.23-06.55.49:193][501]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.23-06.55.49:193][501]LogShaderCompilers: Display: Total job queries 166, among them cache hits 39 (23.49%)
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display: Tracking 124 distinct input hashes that result in 74 distinct outputs (59.68%)
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display: RAM used: 312.22 KiB of 3.20 GiB budget. Usage: 0.01%
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display: Shaders Compiled: 77
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display: Jobs assigned 80, completed 77 (96.25%)
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display: Average time worker was idle: 500.08 s
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.81 s
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display: Job execution time: average 0.93 s, max 1.85 s
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display: Job life time (pending + execution): average 1.01 s, max 1.95
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display: Shader code size: average 5.381 KiB, min 456 B, max 23.274 KiB
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.84 s
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display: Jobs were issued in 74 batches (only local compilation was used), average 1.08 jobs/batch
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display: Average processing rate: 4.86 jobs/sec
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display: Total thread time: 42.199 s
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display: Total thread preprocess time: 5.121 s
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display: Percentage time preprocessing: 12.14%
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display: Effective parallelization: 2.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.99 sec, max 1.03 sec, min 0.96 sec)
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.95 sec, max 0.99 sec, min 0.91 sec)
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display:               TBasePassVSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.95 sec, max 0.95 sec, min 0.95 sec)
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.94 sec, max 0.94 sec, min 0.94 sec)
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.94 sec, max 0.97 sec, min 0.92 sec)
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.02% of total time (compiled   14 times, average 0.57 sec, max 0.89 sec, min 0.39 sec)
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.71% of total time (compiled   14 times, average 0.50 sec, max 0.87 sec, min 0.33 sec)
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.03% of total time (compiled    7 times, average 0.48 sec, max 0.70 sec, min 0.38 sec)
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display:                                                  FHitProxyVS - 6.71% of total time (compiled    4 times, average 0.71 sec, max 0.92 sec, min 0.42 sec)
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.71% of total time (compiled    2 times, average 0.99 sec, max 1.03 sec, min 0.96 sec)
+[2024.07.23-06.55.49:194][501]LogShaderCompilers: Display: ================================================
+[2024.07.23-06.56.14:008][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.07.23-06.56.14:133][780]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.23-06.56.14:140][780]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CandyRushGrandPrix/Levels/MP-KartSelection.MP-KartSelection
+[2024.07.23-06.56.14:140][780]Cmd: MAP LOAD FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Levels/MP-KartSelection.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.07.23-06.56.14:140][780]LightingResults: New page: Lighting Build
+[2024.07.23-06.56.14:141][780]LoadErrors: New page: Loading map: MP-KartSelection.umap
+[2024.07.23-06.56.14:243][780]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2024.07.23-06.56.14:243][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-06.56.14:280][780]LogWorld: UWorld::CleanupWorld for GoKartSelection, bSessionEnded=true, bCleanupResources=true
+[2024.07.23-06.56.14:280][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-06.56.14:280][780]MapCheck: New page: Map Check
+[2024.07.23-06.56.14:280][780]LightingResults: New page: Lighting Build
+[2024.07.23-06.56.14:292][780]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.23-06.56.14:297][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.07.23-06.56.14:306][780]LogWorld: UWorld::CleanupWorld for MP-KartSelection, bSessionEnded=true, bCleanupResources=true
+[2024.07.23-06.56.14:307][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-06.56.14:330][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.07.23-06.56.14:348][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.07.23-06.56.14:365][780]LogAudio: Display: Audio Device (ID: 1) registered with world 'MP-KartSelection'.
+[2024.07.23-06.56.14:365][780]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.23-06.56.14:365][780]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.23-06.56.14:366][780]LogAIModule: Creating AISystem for world MP-KartSelection
+[2024.07.23-06.56.14:408][780]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.23-06.56.14:440][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.07.23-06.56.14:449][780]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.23-06.56.14:449][780]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.16ms to complete.
+[2024.07.23-06.56.15:875][935]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.23-06.56.15:886][935]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.23-06.56.15:886][935]PIE: New page: PIE session: MP-KartSelection (Jul 22, 2024, 6:56:15 PM)
+[2024.07.23-06.56.15:913][935]LogPlayLevel: Creating play world package: /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MP-KartSelection
+[2024.07.23-06.56.15:928][935]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015195s)
+[2024.07.23-06.56.15:928][935]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CandyRushGrandPrix/Levels/MP-KartSelection.MP-KartSelection to /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MP-KartSelection.MP-KartSelection (0.015288s)
+[2024.07.23-06.56.15:943][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.07.23-06.56.15:946][935]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.23-06.56.15:946][935]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.23-06.56.15:946][935]LogAIModule: Creating AISystem for world MP-KartSelection
+[2024.07.23-06.56.15:947][935]LogPlayLevel: PIE: World Init took: (0.001198s)
+[2024.07.23-06.56.15:947][935]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.07.23-06.56.15:947][935]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.23-06.56.15:947][935]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.23-06.56.15:947][935]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.23-06.56.15:947][935]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.23-06.56.15:947][935]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.23-06.56.15:947][935]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.23-06.56.15:947][935]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.23-06.56.15:947][935]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.23-06.56.15:948][935]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.23-06.56.15:948][935]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.23-06.56.15:948][935]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.23-06.56.15:950][935]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.23-06.56.15:985][935]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.23-06.56.15:985][935]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.23-06.56.15:985][935]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.23-06.56.15:985][935]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.23-06.56.15:986][935]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.07.23-06.56.15:986][935]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.07.23-06.56.15:988][935]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.07.23-06.56.15:988][935]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.07.23-06.56.15:988][935]LogInit: FAudioDevice initialized with ID 21.
+[2024.07.23-06.56.15:988][935]LogAudio: Display: Audio Device (ID: 21) registered with world 'MP-KartSelection'.
+[2024.07.23-06.56.15:988][935]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.07.23-06.56.15:992][935]LogLoad: Game class is 'GM-Selection_C'
+[2024.07.23-06.56.15:993][935]LogWorld: Bringing World /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MP-KartSelection.MP-KartSelection up for play (max tick rate 0) at 2024.07.23-00.56.15
+[2024.07.23-06.56.15:994][935]LogWorld: Bringing up level for play took: 0.001853
+[2024.07.23-06.56.15:996][935]LogOnline: OSS: Created online subsystem instance for: :Context_76
+[2024.07.23-06.56.15:998][935]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.07.23-06.56.15:998][935]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.07.23-06.56.15:998][935]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.07.23-06.56.15:998][935]PIE: Server logged in
+[2024.07.23-06.56.15:999][935]PIE: Play in editor total start time 0.113 seconds.
+[2024.07.23-06.56.23:304][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.23-06.56.23:304][789]LogWorld: BeginTearingDown for /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MP-KartSelection
+[2024.07.23-06.56.23:304][789]LogWorld: UWorld::CleanupWorld for MP-KartSelection, bSessionEnded=true, bCleanupResources=true
+[2024.07.23-06.56.23:305][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-06.56.23:310][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.23-06.56.23:317][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-06.56.23:330][789]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.23-06.56.23:331][789]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.07.23-06.56.23:331][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.07.23-06.56.23:335][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.07.23-06.56.23:342][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.23-06.56.23:345][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.07.23-06.56.23:384][790]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2024.07.23-06.56.27:947][287]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.23-06.56.27:952][287]LogObjectTools: Deleting 1 worlds: /Game/Gokart/Maps/GoKartSelection.GoKartSelection
+[2024.07.23-06.56.27:952][287]LogObjectTools: Currently 44 active worlds: /Game/CandyRushGrandPrix/Levels/MP-KartSelection.MP-KartSelection, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14, /Engine/Transient.World_15, /Engine/Transient.World_16, /Engine/Transient.World_17, /Engine/Transient.World_18, /Engine/Transient.World_19, /Engine/Transient.World_20, /Engine/Transient.World_21, /Engine/Transient.World_22, /Engine/Transient.World_23, /Engine/Transient.World_24, /Engine/Transient.World_25, /Engine/Transient.World_26, /Engine/Transient.World_27, /Engine/Transient.World_28, /Engine/Transient.World_29, /Engine/Transient.World_30, /Engine/Transient.World_31, /Engine/Transient.World_34, /Engine/Transient.World_35, /Engine/Transient.World_36, /Engine/Transient.World_39, /Engine/Transient.World_40, /Engine/Transient.World_41, /Engine/Transient.World_42, /Engine/Transient.World_43, /Engine/Transient.World_44, /Engine/Transient.World_45, /Engine/Transient.World_56, /Engine/Transient.World_57
+[2024.07.23-06.56.27:966][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.07.23-06.56.29:210][287]LogSlate: Window 'Delete Assets' being destroyed
+[2024.07.23-06.56.29:223][287]LogWorld: UWorld::CleanupWorld for GoKartSelection, bSessionEnded=true, bCleanupResources=true
+[2024.07.23-06.56.29:223][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-06.56.29:254][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.07.23-06.56.29:271][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.07.23-06.56.29:285][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.07.23-06.57.02:845][185]LogContentBrowser: Attempting asset rename: MP-KartSelection -> MP-KartSelection
+[2024.07.23-06.57.08:267][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.07.23-06.57.08:381][795]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.23-06.57.08:383][795]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu
+[2024.07.23-06.57.08:384][795]Cmd: MAP LOAD FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.07.23-06.57.08:384][795]LightingResults: New page: Lighting Build
+[2024.07.23-06.57.08:384][795]LoadErrors: New page: Loading map: MainMenu.umap
+[2024.07.23-06.57.08:423][795]LogWorld: UWorld::CleanupWorld for MP-KartSelection, bSessionEnded=true, bCleanupResources=true
+[2024.07.23-06.57.08:423][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-06.57.08:423][795]MapCheck: New page: Map Check
+[2024.07.23-06.57.08:423][795]LightingResults: New page: Lighting Build
+[2024.07.23-06.57.08:437][795]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.23-06.57.08:440][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.07.23-06.57.08:442][795]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.07.23-06.57.08:442][795]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-06.57.08:459][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.07.23-06.57.08:474][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.07.23-06.57.08:485][795]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2024.07.23-06.57.08:485][795]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.23-06.57.08:485][795]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.23-06.57.08:485][795]LogAIModule: Creating AISystem for world MainMenu
+[2024.07.23-06.57.08:520][795]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.23-06.57.08:537][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.07.23-06.57.08:546][795]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.23-06.57.08:546][795]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.117ms to complete.
+[2024.07.23-06.57.12:369][191]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2024.07.23-06.57.12:369][191]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.23-06.57.12:370][191]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.23-06.57.18:013][739]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2024.07.23-06.57.18:013][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-06.57.18:029][739]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2024.07.23-06.57.18:029][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-06.57.20:948][ 53]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.07.23-06.57.20:948][ 53]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.23-06.57.20:948][ 53]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.23-06.57.20:956][ 53]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.23-06.57.20:956][ 53]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.23-06.57.34:157][276]BlueprintLog: New page: Compile MainMenuWidget
+[2024.07.23-06.57.34:211][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.07.23-06.57.34:253][276]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.23-06.57.34:370][276]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget
+[2024.07.23-06.57.34:372][276]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/MainMenuWidgetB59888C74910E95EF924DEB9D6D4D2E3.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.uasset'
+[2024.07.23-06.57.34:381][276]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 6.58 sec)
+[2024.07.23-06.57.34:403][276]AssetCheck: New page: Asset Save: MainMenuWidget
+[2024.07.23-06.57.34:403][276]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.07.23-06.58.09:021][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.07.23-06.58.09:142][843]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.23-06.58.09:150][843]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CandyRushGrandPrix/Levels/MP-KartSelection.MP-KartSelection
+[2024.07.23-06.58.09:150][843]Cmd: MAP LOAD FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Levels/MP-KartSelection.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.07.23-06.58.09:150][843]LightingResults: New page: Lighting Build
+[2024.07.23-06.58.09:150][843]LoadErrors: New page: Loading map: MP-KartSelection.umap
+[2024.07.23-06.58.09:253][843]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2024.07.23-06.58.09:253][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-06.58.09:293][843]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.07.23-06.58.09:293][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-06.58.09:293][843]MapCheck: New page: Map Check
+[2024.07.23-06.58.09:293][843]LightingResults: New page: Lighting Build
+[2024.07.23-06.58.09:304][843]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.23-06.58.09:307][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.07.23-06.58.09:314][843]LogWorld: UWorld::CleanupWorld for MP-KartSelection, bSessionEnded=true, bCleanupResources=true
+[2024.07.23-06.58.09:314][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-06.58.09:336][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.07.23-06.58.09:364][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.07.23-06.58.09:381][843]LogAudio: Display: Audio Device (ID: 1) registered with world 'MP-KartSelection'.
+[2024.07.23-06.58.09:381][843]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.23-06.58.09:381][843]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.23-06.58.09:382][843]LogAIModule: Creating AISystem for world MP-KartSelection
+[2024.07.23-06.58.09:425][843]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.23-06.58.09:439][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.07.23-06.58.09:449][843]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.23-06.58.09:449][843]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.138ms to complete.
+[2024.07.23-06.58.13:689][268]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/CandyRushGrandPrix/Levels/MP-KartSelection.MP-KartSelection:PersistentLevel.MP-KartSelection
+[2024.07.23-06.58.13:689][268]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.23-06.58.13:689][268]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.23-06.58.30:643][523]BlueprintLog: New page: Compile MP-KartSelection
+[2024.07.23-06.58.30:682][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.07.23-06.58.30:699][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.23-06.58.30:845][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.07.23-06.58.30:875][523]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/MP-KartSelection
+[2024.07.23-06.58.30:876][523]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/MP-KartSelectionF0B7740B40E41291809C898EA268A3D6.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Levels/MP-KartSelection.umap'
+[2024.07.23-06.58.30:885][523]LogFileHelpers: Saving map 'MP-KartSelection' took 0.097
+[2024.07.23-06.58.30:894][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 195 ms (total: 6.77 sec)
+[2024.07.23-06.58.30:896][523]AssetCheck: New page: Asset Save: MP-KartSelection
+[2024.07.23-06.58.30:896][523]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/MP-KartSelection.MP-KartSelection
+[2024.07.23-06.58.37:233][ 67]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.23-06.58.37:244][ 67]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.23-06.58.37:244][ 67]PIE: New page: PIE session: MP-KartSelection (Jul 22, 2024, 6:58:37 PM)
+[2024.07.23-06.58.37:245][ 67]LogPlayLevel: Creating play world package: /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MP-KartSelection
+[2024.07.23-06.58.37:255][ 67]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010822s)
+[2024.07.23-06.58.37:255][ 67]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CandyRushGrandPrix/Levels/MP-KartSelection.MP-KartSelection to /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MP-KartSelection.MP-KartSelection (0.010876s)
+[2024.07.23-06.58.37:273][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.07.23-06.58.37:275][ 67]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.23-06.58.37:275][ 67]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.23-06.58.37:276][ 67]LogAIModule: Creating AISystem for world MP-KartSelection
+[2024.07.23-06.58.37:276][ 67]LogPlayLevel: PIE: World Init took: (0.001201s)
+[2024.07.23-06.58.37:276][ 67]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.07.23-06.58.37:276][ 67]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.23-06.58.37:276][ 67]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.23-06.58.37:276][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.23-06.58.37:276][ 67]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.23-06.58.37:277][ 67]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.23-06.58.37:277][ 67]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.23-06.58.37:277][ 67]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.23-06.58.37:277][ 67]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.23-06.58.37:277][ 67]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.23-06.58.37:277][ 67]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.23-06.58.37:277][ 67]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.23-06.58.37:281][ 67]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.23-06.58.37:315][ 67]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.23-06.58.37:315][ 67]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.23-06.58.37:315][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.23-06.58.37:315][ 67]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.23-06.58.37:316][ 67]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.07.23-06.58.37:316][ 67]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.07.23-06.58.37:318][ 67]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.07.23-06.58.37:318][ 67]LogInit: FAudioDevice initialized with ID 22.
+[2024.07.23-06.58.37:319][ 67]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.07.23-06.58.37:319][ 67]LogAudio: Display: Audio Device (ID: 22) registered with world 'MP-KartSelection'.
+[2024.07.23-06.58.37:319][ 67]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.07.23-06.58.37:322][ 67]LogLoad: Game class is 'GM-Selection_C'
+[2024.07.23-06.58.37:323][ 67]LogWorld: Bringing World /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MP-KartSelection.MP-KartSelection up for play (max tick rate 0) at 2024.07.23-00.58.37
+[2024.07.23-06.58.37:323][ 67]LogWorld: Bringing up level for play took: 0.001518
+[2024.07.23-06.58.37:325][ 67]LogOnline: OSS: Created online subsystem instance for: :Context_81
+[2024.07.23-06.58.37:327][ 67]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.07.23-06.58.37:327][ 67]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.07.23-06.58.37:327][ 67]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.07.23-06.58.37:328][ 67]PIE: Server logged in
+[2024.07.23-06.58.37:328][ 67]PIE: Play in editor total start time 0.085 seconds.
+[2024.07.23-06.58.45:021][729]LogNet: Browse: /Game/CandyRushGrandPrix/Levels/CottonCandySkies
+[2024.07.23-06.58.45:021][729]LogLoad: LoadMap: /Game/CandyRushGrandPrix/Levels/CottonCandySkies
+[2024.07.23-06.58.45:021][729]LogWorld: BeginTearingDown for /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MP-KartSelection
+[2024.07.23-06.58.45:022][729]LogWorld: UWorld::CleanupWorld for MP-KartSelection, bSessionEnded=true, bCleanupResources=true
+[2024.07.23-06.58.45:022][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-06.58.45:060][729]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.23-06.58.45:063][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.07.23-06.58.45:186][729]LogAudio: Display: Audio Device (ID: 22) registered with world 'CottonCandySkies'.
+[2024.07.23-06.58.45:186][729]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.23-06.58.45:186][729]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.23-06.58.45:186][729]LogAIModule: Creating AISystem for world CottonCandySkies
+[2024.07.23-06.58.45:187][729]LogPlayLevel: PIE: World Init took: (0.001152s)
+[2024.07.23-06.58.45:187][729]LogLoad: Game class is 'GM_RacingGame_C'
+[2024.07.23-06.58.45:213][729]LogWorld: Bringing World /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies.CottonCandySkies up for play (max tick rate 0) at 2024.07.23-00.58.45
+[2024.07.23-06.58.45:214][729]LogWorld: Bringing up level for play took: 0.026219
+[2024.07.23-06.58.45:219][729]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.07.23-06.58.45:219][729]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.07.23-06.58.45:221][729]LogPlayerManagement: Error: AsyncLoadOrCreateSaveGame called with empty slot name!
+[2024.07.23-06.58.45:221][729]LogLoad: Took 0.199443 seconds to LoadMap(/Game/CandyRushGrandPrix/Levels/CottonCandySkies)
+[2024.07.23-06.58.52:954][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.23-06.58.52:954][315]LogWorld: BeginTearingDown for /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies
+[2024.07.23-06.58.52:954][315]LogWorld: UWorld::CleanupWorld for CottonCandySkies, bSessionEnded=true, bCleanupResources=true
+[2024.07.23-06.58.52:956][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-06.58.52:960][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.23-06.58.52:966][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-06.58.53:000][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.23-06.58.53:001][315]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.07.23-06.58.53:001][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.07.23-06.58.53:004][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.07.23-06.58.53:019][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.07.23-06.58.53:074][316]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2024.07.23-06.59.05:007][319]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.23-06.59.05:162][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.07.23-06.59.05:196][319]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/MP-KartSelection
+[2024.07.23-06.59.05:197][319]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/MP-KartSelectionAB93EBE44F4CD8EC191888838BE2AF50.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Levels/MP-KartSelection.umap'
+[2024.07.23-06.59.05:205][319]LogFileHelpers: Saving map 'MP-KartSelection' took 0.101
+[2024.07.23-06.59.05:214][319]LogFileHelpers: InternalPromptForCheckoutAndSave took 207 ms (total: 6.98 sec)
+[2024.07.23-06.59.05:216][319]AssetCheck: New page: Asset Save: MP-KartSelection
+[2024.07.23-06.59.05:216][319]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/MP-KartSelection.MP-KartSelection
+[2024.07.23-06.59.07:003][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.07.23-06.59.25:687][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.07.23-06.59.25:802][ 64]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.23-06.59.25:805][ 64]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu
+[2024.07.23-06.59.25:805][ 64]Cmd: MAP LOAD FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.07.23-06.59.25:805][ 64]LightingResults: New page: Lighting Build
+[2024.07.23-06.59.25:805][ 64]LoadErrors: New page: Loading map: MainMenu.umap
+[2024.07.23-06.59.25:873][ 64]LogSlate: Window 'MP-KartSelection' being destroyed
+[2024.07.23-06.59.25:889][ 64]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2024.07.23-06.59.25:889][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-06.59.25:927][ 64]LogWorld: UWorld::CleanupWorld for MP-KartSelection, bSessionEnded=true, bCleanupResources=true
+[2024.07.23-06.59.25:927][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-06.59.25:927][ 64]MapCheck: New page: Map Check
+[2024.07.23-06.59.25:927][ 64]LightingResults: New page: Lighting Build
+[2024.07.23-06.59.25:938][ 64]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.23-06.59.25:942][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.07.23-06.59.25:947][ 64]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.07.23-06.59.25:947][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-06.59.25:962][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.07.23-06.59.25:975][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.07.23-06.59.25:985][ 64]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2024.07.23-06.59.25:986][ 64]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.23-06.59.25:986][ 64]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.23-06.59.25:986][ 64]LogAIModule: Creating AISystem for world MainMenu
+[2024.07.23-06.59.26:030][ 64]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.23-06.59.26:046][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.07.23-06.59.26:054][ 64]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.23-06.59.26:054][ 64]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.116ms to complete.
+[2024.07.23-07.01.39:525][311]LogViewport: Scene viewport resized to 876x383, mode Windowed.
+[2024.07.23-07.01.41:044][311]LogViewport: Scene viewport resized to 1290x563, mode Windowed.
+[2024.07.23-07.02.21:261][407]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.23-07.02.21:273][407]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.23-07.02.21:273][407]PIE: New page: PIE session: MainMenu (Jul 22, 2024, 7:02:21 PM)
+[2024.07.23-07.02.21:303][407]LogPlayLevel: Creating play world package: /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu
+[2024.07.23-07.02.21:306][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003074s)
+[2024.07.23-07.02.21:306][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu to /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu.MainMenu (0.003143s)
+[2024.07.23-07.02.21:324][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.07.23-07.02.21:331][407]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.23-07.02.21:331][407]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.23-07.02.21:333][407]LogAIModule: Creating AISystem for world MainMenu
+[2024.07.23-07.02.21:333][407]LogPlayLevel: PIE: World Init took: (0.001435s)
+[2024.07.23-07.02.21:333][407]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.07.23-07.02.21:333][407]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.23-07.02.21:333][407]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.23-07.02.21:333][407]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.23-07.02.21:333][407]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.23-07.02.21:333][407]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.23-07.02.21:333][407]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.23-07.02.21:333][407]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.23-07.02.21:333][407]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.23-07.02.21:333][407]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.23-07.02.21:333][407]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.23-07.02.21:333][407]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.23-07.02.21:336][407]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.23-07.02.21:372][407]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.23-07.02.21:373][407]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.23-07.02.21:373][407]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.23-07.02.21:373][407]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.23-07.02.21:374][407]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.07.23-07.02.21:374][407]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.07.23-07.02.21:377][407]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.07.23-07.02.21:377][407]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.07.23-07.02.21:377][407]LogInit: FAudioDevice initialized with ID 23.
+[2024.07.23-07.02.21:377][407]LogAudio: Display: Audio Device (ID: 23) registered with world 'MainMenu'.
+[2024.07.23-07.02.21:377][407]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.07.23-07.02.21:380][407]LogLoad: Game class is 'GM_MainMenu_C'
+[2024.07.23-07.02.21:381][407]LogWorld: Bringing World /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.07.23-01.02.21
+[2024.07.23-07.02.21:381][407]LogWorld: Bringing up level for play took: 0.000813
+[2024.07.23-07.02.21:384][407]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2024.07.23-07.02.21:385][407]LogPlayerManagement: Error: AsyncLoadOrCreateSaveGameForLocalPlayer called with null or remote player controller!
+[2024.07.23-07.02.21:386][407]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2024.07.23-07.02.21:386][407]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.07.23-07.02.21:386][407]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.07.23-07.02.21:386][407]PIE: Server logged in
+[2024.07.23-07.02.21:387][407]PIE: Play in editor total start time 0.115 seconds.
+[2024.07.23-07.02.37:431][305]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [Scalability]
+[2024.07.23-07.02.37:431][305]LogConfig: Set CVar [[r.SkeletalMeshLODBias:1]]
+[2024.07.23-07.02.37:431][305]LogConfig: Set CVar [[r.ViewDistanceScale:0.6]]
+[2024.07.23-07.02.37:431][305]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [Scalability]
+[2024.07.23-07.02.37:431][305]LogConfig: Set CVar [[r.FXAA.Quality:1]]
+[2024.07.23-07.02.37:431][305]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2024.07.23-07.02.37:431][305]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2024.07.23-07.02.37:431][305]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:1]]
+[2024.07.23-07.02.37:431][305]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:0]]
+[2024.07.23-07.02.37:431][305]LogConfig: Set CVar [[r.TSR.ShadingRejection.TileOverscan:2]]
+[2024.07.23-07.02.37:431][305]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.07.23-07.02.37:431][305]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2024.07.23-07.02.37:431][305]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [Scalability]
+[2024.07.23-07.02.37:431][305]LogConfig: Set CVar [[r.ShadowQuality:3]]
+[2024.07.23-07.02.37:431][305]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2024.07.23-07.02.37:431][305]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2024.07.23-07.02.37:431][305]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.7]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.DistanceFieldShadowing:0]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.VolumetricFog:0]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:512]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:0.0]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:1.0]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:2.0]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:4]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:2]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:4]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:2]]
+[2024.07.23-07.02.37:432][305]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@1] File [Scalability]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.AOQuality:1]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:0]]
+[2024.07.23-07.02.37:432][305]LogConfig: Applying CVar settings from Section [ReflectionQuality@1] File [Scalability]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:0]]
+[2024.07.23-07.02.37:432][305]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [Scalability]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:1]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.DepthOfFieldQuality:1]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.RenderTargetPoolMin:350]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.LensFlareQuality:0]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.SceneColorFringeQuality:0]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.BloomQuality:4]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:35.355]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.FastBlurThreshold:2]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2024.07.23-07.02.37:432][305]LogConfig: Set CVar [[r.LightShaftQuality:0]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.Filter.SizeScale:0.7]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.Tonemapper.Quality:2]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2024.07.23-07.02.37:433][305]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [Scalability]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.Streaming.MipBias:1]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.MaxAnisotropy:2]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.VT.MaxAnisotropy:4]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.Streaming.PoolSize:600]]
+[2024.07.23-07.02.37:433][305]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [Scalability]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.RefractionQuality:0]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.DetailMode:1]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:0]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.SSS.Scale:0.75]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.SSS.SampleSet:0]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.SSS.Quality:0]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.SSGI.Quality:1]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.25]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.ParticleLightQuality:0]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:1]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:0]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[fx.Niagara.QualityLevel:1]]
+[2024.07.23-07.02.37:433][305]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [Scalability]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[foliage.DensityScale:0.4]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[grass.DensityScale:0.4]]
+[2024.07.23-07.02.37:433][305]LogConfig: Applying CVar settings from Section [ShadingQuality@1] File [Scalability]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:1]]
+[2024.07.23-07.02.37:433][305]LogConfig: Set CVar [[r.AnisotropicMaterials:0]]
+[2024.07.23-07.02.37:987][311]LogContentStreaming: Texture pool size now 600 MB
+[2024.07.23-07.02.39:231][458]PIE: Error: SetInputMode_UIOnly expects a valid player controller as 'PlayerController' target
+[2024.07.23-07.02.43:365][951]LogPlayerManagement: Error: AsyncLoadOrCreateSaveGameForLocalPlayer called with null or remote player controller!
+[2024.07.23-07.02.43:366][951]LogNet: Browse: /Game/CandyRushGrandPrix/Levels/MP-KartSelection
+[2024.07.23-07.02.43:366][951]LogLoad: LoadMap: /Game/CandyRushGrandPrix/Levels/MP-KartSelection
+[2024.07.23-07.02.43:366][951]LogWorld: BeginTearingDown for /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu
+[2024.07.23-07.02.43:367][951]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.07.23-07.02.43:368][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-07.02.43:410][951]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.23-07.02.43:413][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.07.23-07.02.43:432][951]LogAudio: Display: Audio Device (ID: 23) registered with world 'MP-KartSelection'.
+[2024.07.23-07.02.43:432][951]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.23-07.02.43:432][951]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.23-07.02.43:433][951]LogAIModule: Creating AISystem for world MP-KartSelection
+[2024.07.23-07.02.43:433][951]LogPlayLevel: PIE: World Init took: (0.001095s)
+[2024.07.23-07.02.43:433][951]LogLoad: Game class is 'GM-Selection_C'
+[2024.07.23-07.02.43:438][951]LogWorld: Bringing World /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MP-KartSelection.MP-KartSelection up for play (max tick rate 0) at 2024.07.23-01.02.43
+[2024.07.23-07.02.43:438][951]LogWorld: Bringing up level for play took: 0.004829
+[2024.07.23-07.02.43:439][951]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.07.23-07.02.43:440][951]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.07.23-07.02.43:440][951]LogLoad: Took 0.073112 seconds to LoadMap(/Game/CandyRushGrandPrix/Levels/MP-KartSelection)
+[2024.07.23-07.02.55:515][354]LogNet: Browse: /Game/CandyRushGrandPrix/Levels/CottonCandySkies
+[2024.07.23-07.02.55:515][354]LogLoad: LoadMap: /Game/CandyRushGrandPrix/Levels/CottonCandySkies
+[2024.07.23-07.02.55:515][354]LogWorld: BeginTearingDown for /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MP-KartSelection
+[2024.07.23-07.02.55:515][354]LogWorld: UWorld::CleanupWorld for MP-KartSelection, bSessionEnded=true, bCleanupResources=true
+[2024.07.23-07.02.55:516][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-07.02.55:568][354]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.23-07.02.55:572][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.07.23-07.02.55:696][354]LogAudio: Display: Audio Device (ID: 23) registered with world 'CottonCandySkies'.
+[2024.07.23-07.02.55:696][354]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.23-07.02.55:696][354]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.23-07.02.55:697][354]LogAIModule: Creating AISystem for world CottonCandySkies
+[2024.07.23-07.02.55:697][354]LogPlayLevel: PIE: World Init took: (0.001294s)
+[2024.07.23-07.02.55:697][354]LogLoad: Game class is 'GM_RacingGame_C'
+[2024.07.23-07.02.55:723][354]LogWorld: Bringing World /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies.CottonCandySkies up for play (max tick rate 0) at 2024.07.23-01.02.55
+[2024.07.23-07.02.55:724][354]LogWorld: Bringing up level for play took: 0.026439
+[2024.07.23-07.02.55:729][354]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.07.23-07.02.55:730][354]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.07.23-07.02.55:730][354]LogPlayerManagement: Error: AsyncLoadOrCreateSaveGame called with empty slot name!
+[2024.07.23-07.02.55:730][354]LogLoad: Took 0.216341 seconds to LoadMap(/Game/CandyRushGrandPrix/Levels/CottonCandySkies)
+[2024.07.23-07.03.37:688][652]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2024.07.23-07.03.38:261][712]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2024.07.23-07.03.38:394][726]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2024.07.23-07.03.38:757][764]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2024.07.23-07.03.38:975][787]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2024.07.23-07.03.39:252][816]LogPhysics: Warning: UWorld::FindTeleportSpot called with an actor that is intersecting geometry. Failed to find new location likely due to movement component's 'UpdatedComponent' not being a collider component.
+[2024.07.23-07.03.41:875][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.23-07.03.41:875][ 87]LogWorld: BeginTearingDown for /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies
+[2024.07.23-07.03.41:875][ 87]LogWorld: UWorld::CleanupWorld for CottonCandySkies, bSessionEnded=true, bCleanupResources=true
+[2024.07.23-07.03.41:877][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-07.03.41:884][ 87]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.23-07.03.41:890][ 87]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-07.03.41:936][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.23-07.03.41:937][ 87]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.07.23-07.03.41:937][ 87]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.07.23-07.03.41:939][ 87]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.07.23-07.03.41:951][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.07.23-07.03.42:168][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2024.07.23-07.03.57:645][892]LogSlate: Window 'Message Log' being destroyed
+[2024.07.23-07.04.15:838][734]BlueprintLog: New page: Compile MainMenuWidget
+[2024.07.23-07.04.15:845][734]LogBlueprint: Error: [AssetLog] C:\Users\Trevor\Desktop\CapstoneTest\Capstone\Content\CandyRushGrandPrix\Blueprints\MenuBP\MainMenuWidget.uasset: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2024.07.23-07.04.15:847][734]LogBlueprint: Error: [AssetLog] C:\Users\Trevor\Desktop\CapstoneTest\Capstone\Content\CandyRushGrandPrix\Blueprints\MenuBP\MainMenuWidget.uasset: [Compiler] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.07.23-07.04.15:867][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.07.23-07.04.15:894][734]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.23-07.04.16:014][734]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget
+[2024.07.23-07.04.16:015][734]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/MainMenuWidgetE5E612094ABFF74B4AF16494A0D2CB7D.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.uasset'
+[2024.07.23-07.04.16:025][734]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 7.11 sec)
+[2024.07.23-07.04.16:028][734]AssetCheck: New page: Asset Save: MainMenuWidget
+[2024.07.23-07.04.16:028][734]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.07.23-07.04.23:959][641]BlueprintLog: New page: Compile MainMenuWidget
+[2024.07.23-07.04.23:964][641]LogBlueprint: Error: [AssetLog] C:\Users\Trevor\Desktop\CapstoneTest\Capstone\Content\CandyRushGrandPrix\Blueprints\MenuBP\MainMenuWidget.uasset: [Compiler] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2024.07.23-07.04.23:965][641]LogBlueprint: Error: [AssetLog] C:\Users\Trevor\Desktop\CapstoneTest\Capstone\Content\CandyRushGrandPrix\Blueprints\MenuBP\MainMenuWidget.uasset: [Compiler] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.07.23-07.04.23:999][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.07.23-07.04.24:027][641]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.23-07.04.24:146][641]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget
+[2024.07.23-07.04.24:147][641]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/MainMenuWidgetC9217EF44F41B3245764F18298F6D3B5.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.uasset'
+[2024.07.23-07.04.24:159][641]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 7.24 sec)
+[2024.07.23-07.04.24:161][641]AssetCheck: New page: Asset Save: MainMenuWidget
+[2024.07.23-07.04.24:162][641]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.07.23-07.04.29:668][194]BlueprintLog: New page: Compile MainMenuWidget
+[2024.07.23-07.04.29:703][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.07.23-07.04.29:733][194]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.23-07.04.29:851][194]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget
+[2024.07.23-07.04.29:853][194]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/MainMenuWidgetD4A49850466DA4DD188D9CB645E212D7.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.uasset'
+[2024.07.23-07.04.29:864][194]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 7.38 sec)
+[2024.07.23-07.04.29:867][194]AssetCheck: New page: Asset Save: MainMenuWidget
+[2024.07.23-07.04.29:867][194]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.07.23-07.04.32:484][495]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.23-07.04.32:499][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.23-07.04.32:499][495]PIE: New page: PIE session: MainMenu (Jul 22, 2024, 7:04:32 PM)
+[2024.07.23-07.04.32:499][495]LogPlayLevel: Creating play world package: /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu
+[2024.07.23-07.04.32:502][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003076s)
+[2024.07.23-07.04.32:502][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu to /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu.MainMenu (0.003147s)
+[2024.07.23-07.04.32:521][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.07.23-07.04.32:525][495]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.23-07.04.32:525][495]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.23-07.04.32:526][495]LogAIModule: Creating AISystem for world MainMenu
+[2024.07.23-07.04.32:526][495]LogPlayLevel: PIE: World Init took: (0.001330s)
+[2024.07.23-07.04.32:526][495]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.07.23-07.04.32:526][495]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.23-07.04.32:526][495]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.23-07.04.32:526][495]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.23-07.04.32:526][495]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.23-07.04.32:526][495]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.23-07.04.32:526][495]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.23-07.04.32:526][495]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.23-07.04.32:526][495]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.23-07.04.32:527][495]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.23-07.04.32:527][495]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.23-07.04.32:527][495]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.23-07.04.32:530][495]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.23-07.04.32:563][495]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.23-07.04.32:563][495]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.23-07.04.32:563][495]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.23-07.04.32:563][495]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.23-07.04.32:563][495]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.07.23-07.04.32:563][495]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.07.23-07.04.32:566][495]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.07.23-07.04.32:566][495]LogInit: FAudioDevice initialized with ID 24.
+[2024.07.23-07.04.32:566][495]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.07.23-07.04.32:566][495]LogAudio: Display: Audio Device (ID: 24) registered with world 'MainMenu'.
+[2024.07.23-07.04.32:566][495]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.07.23-07.04.32:642][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.23-07.04.32:642][495]LogLoad: Game class is 'GM_MainMenu_C'
+[2024.07.23-07.04.32:644][495]LogWorld: Bringing World /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.07.23-01.04.32
+[2024.07.23-07.04.32:645][495]LogWorld: Bringing up level for play took: 0.001396
+[2024.07.23-07.04.32:649][495]LogOnline: OSS: Created online subsystem instance for: :Context_83
+[2024.07.23-07.04.32:649][495]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.07.23-07.04.32:651][495]LogPlayerManagement: Error: AsyncLoadOrCreateSaveGameForLocalPlayer called with null or remote player controller!
+[2024.07.23-07.04.32:651][495]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.07.23-07.04.32:651][495]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.07.23-07.04.32:653][495]PIE: Server logged in
+[2024.07.23-07.04.32:654][495]PIE: Play in editor total start time 0.155 seconds.
+[2024.07.23-07.04.32:667][495]LogViewport: Scene viewport resized to 2554x992, mode Windowed.
+[2024.07.23-07.04.41:639][900]LogViewport: Scene viewport resized to 1920x998, mode Windowed.
+[2024.07.23-07.04.53:839][296]LogViewport: Scene viewport resized to 1920x1000, mode Fullscreen.
+[2024.07.23-07.04.53:889][296]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.ViewDistanceScale:0.8]]
+[2024.07.23-07.04.53:889][296]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.FXAA.Quality:3]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:2]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.TSR.ShadingRejection.TileOverscan:3]]
+[2024.07.23-07.04.53:889][296]LogConfig: CVar [[r.TSR.Velocity.Extrapolation:0]] deferred - dummy variable created
+[2024.07.23-07.04.53:889][296]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.85]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:2048]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-0.5]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:-0.5]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2024.07.23-07.04.53:889][296]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:8]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:3]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:0]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:16]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:32]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:1]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:1]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:0]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ScreenTraces.HZBTraversal.FullResDepth:0]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:64]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:0]]
+[2024.07.23-07.04.53:889][296]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2024.07.23-07.04.53:889][296]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:2]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.2]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.TonemapStrength:1]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:0]]
+[2024.07.23-07.04.53:890][296]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.FastBlurThreshold:3]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.Filter.SizeScale:0.8]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2024.07.23-07.04.53:890][296]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.MaxAnisotropy:4]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.Streaming.PoolSize:800]]
+[2024.07.23-07.04.53:890][296]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.SSS.SampleSet:1]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.SSS.Quality:-1]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.SSGI.Quality:2]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.5]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.ParticleLightQuality:1]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[fx.Niagara.QualityLevel:2]]
+[2024.07.23-07.04.53:890][296]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[foliage.DensityScale:0.8]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[grass.DensityScale:0.8]]
+[2024.07.23-07.04.53:890][296]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.07.23-07.04.53:890][296]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2024.07.23-07.04.53:918][296]LogContentStreaming: Texture pool size now 800 MB
+[2024.07.23-07.04.53:929][296]LogViewport: Scene viewport resized to 1914x960, mode Fullscreen.
+[2024.07.23-07.05.15:681][783]LogPlayerManagement: Error: AsyncLoadOrCreateSaveGameForLocalPlayer called with null or remote player controller!
+[2024.07.23-07.05.15:682][783]LogNet: Browse: /Game/CandyRushGrandPrix/Levels/MP-KartSelection
+[2024.07.23-07.05.15:682][783]LogLoad: LoadMap: /Game/CandyRushGrandPrix/Levels/MP-KartSelection
+[2024.07.23-07.05.15:682][783]LogWorld: BeginTearingDown for /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu
+[2024.07.23-07.05.15:683][783]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.07.23-07.05.15:683][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-07.05.15:740][783]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.23-07.05.15:744][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.07.23-07.05.15:764][783]LogAudio: Display: Audio Device (ID: 24) registered with world 'MP-KartSelection'.
+[2024.07.23-07.05.15:764][783]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.23-07.05.15:764][783]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.23-07.05.15:765][783]LogAIModule: Creating AISystem for world MP-KartSelection
+[2024.07.23-07.05.15:765][783]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2024.07.23-07.05.15:765][783]LogLoad: Game class is 'GM-Selection_C'
+[2024.07.23-07.05.15:770][783]LogWorld: Bringing World /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MP-KartSelection.MP-KartSelection up for play (max tick rate 0) at 2024.07.23-01.05.15
+[2024.07.23-07.05.15:771][783]LogWorld: Bringing up level for play took: 0.004989
+[2024.07.23-07.05.15:771][783]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.07.23-07.05.15:773][783]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.07.23-07.05.15:773][783]LogLoad: Took 0.090411 seconds to LoadMap(/Game/CandyRushGrandPrix/Levels/MP-KartSelection)
+[2024.07.23-07.05.22:896][599]LogNet: Browse: /Game/CandyRushGrandPrix/Levels/CottonCandySkies
+[2024.07.23-07.05.22:896][599]LogLoad: LoadMap: /Game/CandyRushGrandPrix/Levels/CottonCandySkies
+[2024.07.23-07.05.22:896][599]LogWorld: BeginTearingDown for /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MP-KartSelection
+[2024.07.23-07.05.22:896][599]LogWorld: UWorld::CleanupWorld for MP-KartSelection, bSessionEnded=true, bCleanupResources=true
+[2024.07.23-07.05.22:897][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-07.05.22:949][599]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.23-07.05.22:953][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.07.23-07.05.23:066][599]LogAudio: Display: Audio Device (ID: 24) registered with world 'CottonCandySkies'.
+[2024.07.23-07.05.23:066][599]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.23-07.05.23:067][599]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.23-07.05.23:067][599]LogAIModule: Creating AISystem for world CottonCandySkies
+[2024.07.23-07.05.23:067][599]LogPlayLevel: PIE: World Init took: (0.001214s)
+[2024.07.23-07.05.23:068][599]LogLoad: Game class is 'GM_RacingGame_C'
+[2024.07.23-07.05.23:092][599]LogWorld: Bringing World /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies.CottonCandySkies up for play (max tick rate 0) at 2024.07.23-01.05.23
+[2024.07.23-07.05.23:092][599]LogWorld: Bringing up level for play took: 0.024361
+[2024.07.23-07.05.23:097][599]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.07.23-07.05.23:097][599]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.07.23-07.05.23:098][599]LogPlayerManagement: Error: AsyncLoadOrCreateSaveGame called with empty slot name!
+[2024.07.23-07.05.23:098][599]LogLoad: Took 0.202543 seconds to LoadMap(/Game/CandyRushGrandPrix/Levels/CottonCandySkies)
+[2024.07.23-07.05.31:554][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.23-07.05.31:554][396]LogWorld: BeginTearingDown for /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies
+[2024.07.23-07.05.31:555][396]LogSlate: Window 'Candy Rush Grand Prix Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2024.07.23-07.05.31:564][396]LogWorld: UWorld::CleanupWorld for CottonCandySkies, bSessionEnded=true, bCleanupResources=true
+[2024.07.23-07.05.31:565][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-07.05.31:569][396]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.23-07.05.31:574][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-07.05.31:594][396]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.07.23-07.05.31:594][396]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.07.23-07.05.31:597][396]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.07.23-07.05.31:609][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.07.23-07.05.31:641][397]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2024.07.23-07.06.02:606][  2]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.23-07.06.33:133][ 49]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.23-07.10.36:220][371]BlueprintLog: New page: Compile MainMenuWidget
+[2024.07.23-07.10.36:254][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.07.23-07.10.36:488][371]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.23-07.10.36:604][371]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget
+[2024.07.23-07.10.36:605][371]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/MainMenuWidget172DA7304301B057E779A4A3BDEB4A26.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.uasset'
+[2024.07.23-07.10.36:616][371]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 7.51 sec)
+[2024.07.23-07.10.36:645][371]AssetCheck: New page: Asset Save: MainMenuWidget
+[2024.07.23-07.10.36:645][371]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.07.23-07.10.40:346][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.07.23-07.11.23:699][430]BlueprintLog: New page: Compile MainMenuWidget
+[2024.07.23-07.11.23:726][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.07.23-07.11.23:754][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.23-07.11.23:874][430]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget
+[2024.07.23-07.11.23:875][430]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/MainMenuWidget369A49FF464A5456B40020921207E0E3.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.uasset'
+[2024.07.23-07.11.23:888][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 7.64 sec)
+[2024.07.23-07.11.23:891][430]AssetCheck: New page: Asset Save: MainMenuWidget
+[2024.07.23-07.11.23:891][430]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.07.23-07.11.31:948][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.07.23-07.11.32:071][225]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.23-07.11.32:076][225]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CandyRushGrandPrix/Levels/MP-KartSelection.MP-KartSelection
+[2024.07.23-07.11.32:077][225]Cmd: MAP LOAD FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Levels/MP-KartSelection.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.07.23-07.11.32:077][225]LightingResults: New page: Lighting Build
+[2024.07.23-07.11.32:077][225]LoadErrors: New page: Loading map: MP-KartSelection.umap
+[2024.07.23-07.11.32:114][225]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.07.23-07.11.32:114][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-07.11.32:114][225]MapCheck: New page: Map Check
+[2024.07.23-07.11.32:114][225]LightingResults: New page: Lighting Build
+[2024.07.23-07.11.32:127][225]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.23-07.11.32:131][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.07.23-07.11.32:133][225]LogWorld: UWorld::CleanupWorld for MP-KartSelection, bSessionEnded=true, bCleanupResources=true
+[2024.07.23-07.11.32:133][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.23-07.11.32:151][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.07.23-07.11.32:168][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.07.23-07.11.32:184][225]LogAudio: Display: Audio Device (ID: 1) registered with world 'MP-KartSelection'.
+[2024.07.23-07.11.32:185][225]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.23-07.11.32:185][225]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.23-07.11.32:185][225]LogAIModule: Creating AISystem for world MP-KartSelection
+[2024.07.23-07.11.32:225][225]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.23-07.11.32:241][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.07.23-07.11.32:249][225]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.23-07.11.32:251][225]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.27ms to complete.
+[2024.07.23-07.11.35:038][504]LogViewport: Scene viewport resized to 316x177, mode Windowed.
+[2024.07.23-07.11.36:801][657]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.07.23-07.12.02:674][914]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.23-07.12.02:822][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.07.23-07.12.02:853][914]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/MP-KartSelection
+[2024.07.23-07.12.02:854][914]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/MP-KartSelection4BFEDB8D47FACD28BB26CCB3CE0B83A7.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Levels/MP-KartSelection.umap'
+[2024.07.23-07.12.02:864][914]LogFileHelpers: Saving map 'MP-KartSelection' took 0.095
+[2024.07.23-07.12.02:875][914]LogFileHelpers: InternalPromptForCheckoutAndSave took 200 ms (total: 7.84 sec)
+[2024.07.23-07.12.02:877][914]AssetCheck: New page: Asset Save: MP-KartSelection
+[2024.07.23-07.12.02:877][914]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/MP-KartSelection.MP-KartSelection
+[2024.07.23-07.13.22:483][889]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.23-07.13.22:614][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.07.23-07.13.22:647][889]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/MP-KartSelection
+[2024.07.23-07.13.22:648][889]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/MP-KartSelection96F807674E4418693B6CBBBCBD60BAAE.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Levels/MP-KartSelection.umap'
+[2024.07.23-07.13.22:658][889]LogFileHelpers: Saving map 'MP-KartSelection' took 0.091
+[2024.07.23-07.13.22:669][889]LogFileHelpers: InternalPromptForCheckoutAndSave took 186 ms (total: 8.03 sec)
+[2024.07.23-07.13.22:671][889]AssetCheck: New page: Asset Save: MP-KartSelection
+[2024.07.23-07.13.22:671][889]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/MP-KartSelection.MP-KartSelection
+[2024.07.23-07.13.28:855][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.07.23-07.13.50:545][530]LogDerivedDataCache: C:/Users/Trevor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.149 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6362 files in 8364 folders with total size 863 MiB.
