@@ -69,3 +69,8 @@ DerivedDataCache/*
 *.log
 *.json
 *.json
+/Content/CloudScape
+*.dmp
+CloudScape.png
+/Saved/Logs
+/Saved
