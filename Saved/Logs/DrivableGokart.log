@@ -2988,3 +2988,257 @@ Script Stack (3 frames) :
 [2024.07.28-05.55.08:961][380]AssetCheck: New page: Asset Save: MainMenuWidget
 [2024.07.28-05.55.08:961][380]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
 [2024.07.28-05.55.12:150][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.07.28-05.56.20:436][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.07.28-05.56.20:441][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.28-05.56.20:591][354]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget
+[2024.07.28-05.56.20:591][354]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/MainMenuWidgetDC2491AD436537DD164643A60DA885E5.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.uasset'
+[2024.07.28-05.56.20:602][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 8.13 sec)
+[2024.07.28-05.56.20:605][354]AssetCheck: New page: Asset Save: MainMenuWidget
+[2024.07.28-05.56.20:605][354]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.07.28-05.59.52:043][197]LogEditorTransaction: Undo Create Pin Link
+[2024.07.28-05.59.52:376][199]LogEditorTransaction: Undo Move Nodes
+[2024.07.28-05.59.52:723][201]LogEditorTransaction: Undo Move Node
+[2024.07.28-05.59.52:979][212]LogEditorTransaction: Undo Create Pin Link
+[2024.07.28-05.59.53:301][229]LogEditorTransaction: Undo Move Node
+[2024.07.28-05.59.53:605][247]LogEditorTransaction: Undo Create Pin Link
+[2024.07.28-05.59.53:952][269]LogEditorTransaction: Undo Move Node
+[2024.07.28-05.59.54:422][308]LogEditorTransaction: Undo Delete current selection
+[2024.07.28-05.59.54:936][352]LogEditorTransaction: Undo Create Pin Link
+[2024.07.28-05.59.55:410][389]LogEditorTransaction: Undo Create Pin Link
+[2024.07.28-05.59.55:888][427]LogEditorTransaction: Undo Move Node
+[2024.07.28-06.02.23:504][984]BlueprintLog: New page: Compile MainMenuWidget
+[2024.07.28-06.02.23:568][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.07.28-06.02.23:600][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.28-06.02.23:758][984]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget
+[2024.07.28-06.02.23:758][984]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/MainMenuWidgetFF2C4F364C0284D2EF73C3B86D44638B.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.uasset'
+[2024.07.28-06.02.23:768][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 169 ms (total: 8.30 sec)
+[2024.07.28-06.02.23:771][984]AssetCheck: New page: Asset Save: MainMenuWidget
+[2024.07.28-06.02.23:771][984]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.07.28-06.03.35:285][785]BlueprintLog: New page: Compile MainMenuWidget
+[2024.07.28-06.03.35:347][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.07.28-06.03.35:423][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.28-06.03.35:596][785]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget
+[2024.07.28-06.03.35:596][785]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/MainMenuWidgetC605CE8743681A2B4272A797A42F8DE5.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.uasset'
+[2024.07.28-06.03.35:606][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 8.48 sec)
+[2024.07.28-06.03.35:619][785]AssetCheck: New page: Asset Save: MainMenuWidget
+[2024.07.28-06.03.35:619][785]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.07.28-06.03.37:378][971]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.28-06.03.37:389][971]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.28-06.03.37:389][971]PIE: New page: PIE session: MainMenu (Jul 27, 2024, 6:03:37 PM)
+[2024.07.28-06.03.37:390][971]LogPlayLevel: Creating play world package: /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu
+[2024.07.28-06.03.37:392][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002482s)
+[2024.07.28-06.03.37:392][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu to /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu.MainMenu (0.002536s)
+[2024.07.28-06.03.37:409][971]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.07.28-06.03.37:413][971]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.28-06.03.37:413][971]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.28-06.03.37:414][971]LogAIModule: Creating AISystem for world MainMenu
+[2024.07.28-06.03.37:414][971]LogPlayLevel: PIE: World Init took: (0.001559s)
+[2024.07.28-06.03.37:414][971]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.07.28-06.03.37:414][971]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.28-06.03.37:414][971]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.28-06.03.37:414][971]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.28-06.03.37:414][971]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.28-06.03.37:414][971]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.28-06.03.37:414][971]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.28-06.03.37:414][971]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.28-06.03.37:414][971]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.28-06.03.37:415][971]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.28-06.03.37:415][971]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.28-06.03.37:415][971]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.28-06.03.37:419][971]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.28-06.03.37:454][971]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.28-06.03.37:455][971]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.28-06.03.37:455][971]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.28-06.03.37:455][971]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.28-06.03.37:456][971]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.07.28-06.03.37:456][971]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.07.28-06.03.37:458][971]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.07.28-06.03.37:458][971]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.07.28-06.03.37:458][971]LogInit: FAudioDevice initialized with ID 22.
+[2024.07.28-06.03.37:458][971]LogAudio: Display: Audio Device (ID: 22) registered with world 'MainMenu'.
+[2024.07.28-06.03.37:458][971]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.07.28-06.03.37:462][971]LogLoad: Game class is 'GM_MainMenu_C'
+[2024.07.28-06.03.37:463][971]LogWorld: Bringing World /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.07.28-00.03.37
+[2024.07.28-06.03.37:463][971]LogWorld: Bringing up level for play took: 0.000972
+[2024.07.28-06.03.37:466][971]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2024.07.28-06.03.37:468][971]LogPlayerManagement: Error: AsyncLoadOrCreateSaveGameForLocalPlayer called with null or remote player controller!
+[2024.07.28-06.03.37:469][971]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.07.28-06.03.37:469][971]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.07.28-06.03.37:469][971]PIE: Server logged in
+[2024.07.28-06.03.37:470][971]PIE: Play in editor total start time 0.08 seconds.
+[2024.07.28-06.03.45:431][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.28-06.03.45:431][913]LogWorld: BeginTearingDown for /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu
+[2024.07.28-06.03.45:431][913]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.07.28-06.03.45:431][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.28-06.03.45:437][913]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.28-06.03.45:444][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.28-06.03.45:463][913]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.28-06.03.45:464][913]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.07.28-06.03.45:464][913]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.07.28-06.03.45:466][913]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.07.28-06.03.45:474][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.28-06.03.45:478][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.07.28-06.03.45:512][914]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2024.07.28-06.03.49:722][354]BlueprintLog: New page: Compile MainMenuWidget
+[2024.07.28-06.03.49:776][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.07.28-06.03.49:841][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.28-06.03.50:000][354]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget
+[2024.07.28-06.03.50:001][354]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/MainMenuWidget31B19F174FE0E51DF43D02B48D709EC9.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.uasset'
+[2024.07.28-06.03.50:010][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms (total: 8.65 sec)
+[2024.07.28-06.03.50:012][354]AssetCheck: New page: Asset Save: MainMenuWidget
+[2024.07.28-06.03.50:012][354]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.07.28-06.03.51:549][518]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.28-06.03.51:559][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.28-06.03.51:560][518]PIE: New page: PIE session: MainMenu (Jul 27, 2024, 6:03:51 PM)
+[2024.07.28-06.03.51:560][518]LogPlayLevel: Creating play world package: /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu
+[2024.07.28-06.03.51:562][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002246s)
+[2024.07.28-06.03.51:562][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu to /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu.MainMenu (0.002298s)
+[2024.07.28-06.03.51:578][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.07.28-06.03.51:581][518]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.28-06.03.51:581][518]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.28-06.03.51:582][518]LogAIModule: Creating AISystem for world MainMenu
+[2024.07.28-06.03.51:582][518]LogPlayLevel: PIE: World Init took: (0.001279s)
+[2024.07.28-06.03.51:582][518]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.07.28-06.03.51:582][518]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.28-06.03.51:582][518]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.28-06.03.51:582][518]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.28-06.03.51:582][518]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.28-06.03.51:582][518]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.28-06.03.51:582][518]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.28-06.03.51:582][518]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.28-06.03.51:582][518]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.28-06.03.51:583][518]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.28-06.03.51:583][518]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.28-06.03.51:583][518]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.28-06.03.51:585][518]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.28-06.03.51:619][518]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.28-06.03.51:619][518]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.28-06.03.51:619][518]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.28-06.03.51:619][518]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.28-06.03.51:619][518]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.07.28-06.03.51:620][518]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.07.28-06.03.51:622][518]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.07.28-06.03.51:622][518]LogInit: FAudioDevice initialized with ID 23.
+[2024.07.28-06.03.51:622][518]LogAudio: Display: Audio Device (ID: 23) registered with world 'MainMenu'.
+[2024.07.28-06.03.51:622][518]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.07.28-06.03.51:622][518]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.07.28-06.03.51:625][518]LogLoad: Game class is 'GM_MainMenu_C'
+[2024.07.28-06.03.51:626][518]LogWorld: Bringing World /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.07.28-00.03.51
+[2024.07.28-06.03.51:627][518]LogWorld: Bringing up level for play took: 0.000828
+[2024.07.28-06.03.51:630][518]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.07.28-06.03.51:631][518]LogPlayerManagement: Error: AsyncLoadOrCreateSaveGameForLocalPlayer called with null or remote player controller!
+[2024.07.28-06.03.51:632][518]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.07.28-06.03.51:632][518]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.07.28-06.03.51:632][518]PIE: Server logged in
+[2024.07.28-06.03.51:633][518]PIE: Play in editor total start time 0.073 seconds.
+[2024.07.28-06.03.59:842][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.28-06.03.59:842][495]LogWorld: BeginTearingDown for /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu
+[2024.07.28-06.03.59:842][495]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.07.28-06.03.59:842][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.28-06.03.59:847][495]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.28-06.03.59:854][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.28-06.03.59:870][495]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.28-06.03.59:870][495]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.07.28-06.03.59:870][495]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.07.28-06.03.59:872][495]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.07.28-06.03.59:879][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.28-06.03.59:882][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.07.28-06.03.59:914][496]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.07.28-06.04.55:550][452]BlueprintLog: New page: Compile MainMenuWidget
+[2024.07.28-06.04.55:605][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.07.28-06.04.55:703][452]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.28-06.04.55:874][452]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget
+[2024.07.28-06.04.55:875][452]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/MainMenuWidget2B4BCB3C41F4396EBA58A89ED972E682.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.uasset'
+[2024.07.28-06.04.55:885][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms (total: 8.83 sec)
+[2024.07.28-06.04.55:888][452]AssetCheck: New page: Asset Save: MainMenuWidget
+[2024.07.28-06.04.55:888][452]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.07.28-06.04.57:601][610]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.28-06.04.57:618][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.28-06.04.57:618][610]PIE: New page: PIE session: MainMenu (Jul 27, 2024, 6:04:57 PM)
+[2024.07.28-06.04.57:618][610]LogPlayLevel: Creating play world package: /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu
+[2024.07.28-06.04.57:621][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003239s)
+[2024.07.28-06.04.57:622][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu to /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu.MainMenu (0.003314s)
+[2024.07.28-06.04.57:645][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.07.28-06.04.57:648][610]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.28-06.04.57:648][610]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.28-06.04.57:649][610]LogAIModule: Creating AISystem for world MainMenu
+[2024.07.28-06.04.57:649][610]LogPlayLevel: PIE: World Init took: (0.001253s)
+[2024.07.28-06.04.57:649][610]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.07.28-06.04.57:649][610]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.28-06.04.57:649][610]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.28-06.04.57:649][610]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.28-06.04.57:649][610]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.28-06.04.57:649][610]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.28-06.04.57:649][610]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.28-06.04.57:649][610]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.28-06.04.57:649][610]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.28-06.04.57:650][610]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.28-06.04.57:650][610]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.28-06.04.57:650][610]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.28-06.04.57:653][610]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.28-06.04.57:689][610]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.28-06.04.57:689][610]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.28-06.04.57:689][610]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.28-06.04.57:689][610]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.28-06.04.57:691][610]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.07.28-06.04.57:691][610]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.07.28-06.04.57:693][610]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.07.28-06.04.57:693][610]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.07.28-06.04.57:693][610]LogInit: FAudioDevice initialized with ID 24.
+[2024.07.28-06.04.57:693][610]LogAudio: Display: Audio Device (ID: 24) registered with world 'MainMenu'.
+[2024.07.28-06.04.57:693][610]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.07.28-06.04.57:697][610]LogLoad: Game class is 'GM_MainMenu_C'
+[2024.07.28-06.04.57:698][610]LogWorld: Bringing World /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2024.07.28-00.04.57
+[2024.07.28-06.04.57:698][610]LogWorld: Bringing up level for play took: 0.000777
+[2024.07.28-06.04.57:701][610]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.07.28-06.04.57:702][610]LogPlayerManagement: Error: AsyncLoadOrCreateSaveGameForLocalPlayer called with null or remote player controller!
+[2024.07.28-06.04.57:703][610]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.07.28-06.04.57:703][610]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.07.28-06.04.57:703][610]PIE: Server logged in
+[2024.07.28-06.04.57:704][610]PIE: Play in editor total start time 0.087 seconds.
+[2024.07.28-06.05.07:471][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.28-06.05.07:471][770]LogWorld: BeginTearingDown for /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu
+[2024.07.28-06.05.07:471][770]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.07.28-06.05.07:471][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.28-06.05.07:477][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.28-06.05.07:484][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.28-06.05.07:502][770]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.28-06.05.07:502][770]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.07.28-06.05.07:502][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.07.28-06.05.07:506][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.07.28-06.05.07:514][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.28-06.05.07:518][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.07.28-06.05.07:553][771]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.07.28-06.05.11:236][145]Cmd: TRANSACTION UNDO
+[2024.07.28-06.05.11:236][145]LogEditorTransaction: Undo Move Node
+[2024.07.28-06.05.11:565][147]Cmd: TRANSACTION UNDO
+[2024.07.28-06.05.11:565][147]LogEditorTransaction: Undo Create Pin Link
+[2024.07.28-06.05.12:393][190]Cmd: TRANSACTION UNDO
+[2024.07.28-06.05.12:393][190]LogEditorTransaction: Undo Add Node
+[2024.07.28-06.05.12:997][222]Cmd: TRANSACTION UNDO
+[2024.07.28-06.05.12:997][222]LogEditorTransaction: Undo Delete current selection
+[2024.07.28-06.05.13:524][262]Cmd: TRANSACTION UNDO
+[2024.07.28-06.05.13:525][262]LogEditorTransaction: Undo Create Pin Link
+[2024.07.28-06.05.14:687][367]Cmd: TRANSACTION UNDO
+[2024.07.28-06.05.14:687][367]LogEditorTransaction: Undo Move Node
+[2024.07.28-06.05.15:282][410]Cmd: TRANSACTION UNDO
+[2024.07.28-06.05.15:282][410]LogEditorTransaction: Undo Delete current selection
+[2024.07.28-06.05.16:428][462]Cmd: TRANSACTION UNDO
+[2024.07.28-06.05.16:428][462]LogEditorTransaction: Undo Add Node
+[2024.07.28-06.05.18:585][641]BlueprintLog: New page: Compile MainMenuWidget
+[2024.07.28-06.05.18:640][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.07.28-06.05.18:695][641]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.28-06.05.18:838][641]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget
+[2024.07.28-06.05.18:840][641]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/MainMenuWidgetF7269CC2427F10003AE3FB9CE066211D.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.uasset'
+[2024.07.28-06.05.18:852][641]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 8.99 sec)
+[2024.07.28-06.05.18:855][641]AssetCheck: New page: Asset Save: MainMenuWidget
+[2024.07.28-06.05.18:855][641]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.07.28-06.06.34:381][  6]BlueprintLog: New page: Compile MainMenuWidget
+[2024.07.28-06.06.34:437][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.07.28-06.06.34:492][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.28-06.06.34:640][  6]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget
+[2024.07.28-06.06.34:641][  6]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/MainMenuWidget7864ACED4E8F9C0B45C102BE782DFDAA.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.uasset'
+[2024.07.28-06.06.34:650][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 9.15 sec)
+[2024.07.28-06.06.34:652][  6]AssetCheck: New page: Asset Save: MainMenuWidget
+[2024.07.28-06.06.34:653][  6]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.07.28-06.06.35:818][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
