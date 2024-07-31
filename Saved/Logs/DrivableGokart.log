@@ -3461,3 +3461,221 @@ Make sure 'WBP-Selection_C' has been compiled for  Get KartIndex
 [2024.07.31-21.07.48:419][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 188 ms (total: 5.05 sec)
 [2024.07.31-21.07.48:424][824]AssetCheck: New page: Asset Save: NS-Gummy
 [2024.07.31-21.07.48:424][824]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy
+[2024.07.31-21.08.08:850][950]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.31-21.08.08:858][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.31-21.08.08:858][950]PIE: New page: PIE session: MP-KartSelection (Jul 31, 2024, 9:08:08 AM)
+[2024.07.31-21.08.08:859][950]LogPlayLevel: Creating play world package: /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MP-KartSelection
+[2024.07.31-21.08.08:866][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007462s)
+[2024.07.31-21.08.08:866][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CandyRushGrandPrix/Levels/MP-KartSelection.MP-KartSelection to /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MP-KartSelection.MP-KartSelection (0.007504s)
+[2024.07.31-21.08.08:885][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.07.31-21.08.08:890][950]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.31-21.08.08:890][950]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.31-21.08.08:891][950]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2024.07.31-21.08.08:891][950]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.07.31-21.08.08:891][950]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.31-21.08.08:891][950]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.31-21.08.08:891][950]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.31-21.08.08:891][950]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.31-21.08.08:891][950]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.31-21.08.08:891][950]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.31-21.08.08:891][950]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.31-21.08.08:891][950]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.31-21.08.08:892][950]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.31-21.08.08:892][950]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.31-21.08.08:892][950]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.31-21.08.08:894][950]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.31-21.08.08:920][950]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.31-21.08.08:920][950]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.31-21.08.08:920][950]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.31-21.08.08:920][950]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.31-21.08.08:921][950]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.07.31-21.08.08:921][950]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.07.31-21.08.08:923][950]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.07.31-21.08.08:923][950]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.07.31-21.08.08:923][950]LogInit: FAudioDevice initialized with ID 19.
+[2024.07.31-21.08.08:923][950]LogAudio: Display: Audio Device (ID: 19) registered with world 'MP-KartSelection'.
+[2024.07.31-21.08.08:923][950]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.07.31-21.08.08:925][950]LogLoad: Game class is 'GM-Selection_C'
+[2024.07.31-21.08.08:926][950]LogWorld: Bringing World /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MP-KartSelection.MP-KartSelection up for play (max tick rate 60) at 2024.07.31-15.08.08
+[2024.07.31-21.08.08:926][950]LogWorld: Bringing up level for play took: 0.001469
+[2024.07.31-21.08.08:928][950]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2024.07.31-21.08.08:930][950]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2024.07.31-21.08.08:930][950]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.07.31-21.08.08:930][950]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.07.31-21.08.08:930][950]PIE: Server logged in
+[2024.07.31-21.08.08:931][950]PIE: Play in editor total start time 0.072 seconds.
+[2024.07.31-21.08.10:502][ 30]LogNet: Browse: /Game/CandyRushGrandPrix/Levels/CottonCandySkies
+[2024.07.31-21.08.10:502][ 30]LogLoad: LoadMap: /Game/CandyRushGrandPrix/Levels/CottonCandySkies
+[2024.07.31-21.08.10:502][ 30]LogWorld: BeginTearingDown for /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MP-KartSelection
+[2024.07.31-21.08.10:503][ 30]LogWorld: UWorld::CleanupWorld for MP-KartSelection, bSessionEnded=true, bCleanupResources=true
+[2024.07.31-21.08.10:503][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.31-21.08.10:563][ 30]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.31-21.08.10:566][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.07.31-21.08.10:637][ 30]LogAudio: Display: Audio Device (ID: 19) registered with world 'CottonCandySkies'.
+[2024.07.31-21.08.10:637][ 30]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.31-21.08.10:637][ 30]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.31-21.08.10:638][ 30]LogAIModule: Creating AISystem for world CottonCandySkies
+[2024.07.31-21.08.10:638][ 30]LogPlayLevel: PIE: World Init took: (0.001014s)
+[2024.07.31-21.08.10:638][ 30]LogLoad: Game class is 'GM_RacingGame_C'
+[2024.07.31-21.08.10:653][ 30]LogWorld: Bringing World /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies.CottonCandySkies up for play (max tick rate 60) at 2024.07.31-15.08.10
+[2024.07.31-21.08.10:653][ 30]LogWorld: Bringing up level for play took: 0.015683
+[2024.07.31-21.08.10:658][ 30]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.07.31-21.08.10:658][ 30]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.07.31-21.08.10:658][ 30]LogPlayerManagement: Error: AsyncLoadOrCreateSaveGame called with empty slot name!
+[2024.07.31-21.08.10:658][ 30]LogLoad: Took 0.155764 seconds to LoadMap(/Game/CandyRushGrandPrix/Levels/CottonCandySkies)
+[2024.07.31-21.08.32:137][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.31-21.08.32:137][314]LogWorld: BeginTearingDown for /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies
+[2024.07.31-21.08.32:137][314]LogWorld: UWorld::CleanupWorld for CottonCandySkies, bSessionEnded=true, bCleanupResources=true
+[2024.07.31-21.08.32:138][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.31-21.08.32:143][314]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.31-21.08.32:148][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.31-21.08.32:166][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.31-21.08.32:166][314]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.07.31-21.08.32:166][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.07.31-21.08.32:169][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.07.31-21.08.32:177][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.07.31-21.08.32:298][315]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2024.07.31-21.08.32:319][315]LogViewport: Scene viewport resized to 637x223, mode Windowed.
+[2024.07.31-21.08.51:010][870]LogNiagaraCompiler: Function call "GetPreviousValueAtIndex" does not work on CPU sims. - Node: Custom Hlsl 001 - 
+[2024.07.31-21.08.51:011][870]LogNiagaraCompiler: Function call "GetPreviousValueAtIndex" is not allowed for stack context ENiagaraScriptUsage::SystemSpawnScript. Allowed: ENiagaraScriptUsage::Function, ENiagaraScriptUsage::Module, ENiagaraScriptUsage::DynamicInput, ENiagaraScriptUsage::ParticleSpawnScript, ENiagaraScriptUsage::ParticleUpdateScript, ENiagaraScriptUsage::ParticleEventScript, ENiagaraScriptUsage::ParticleSimulationStageScript - Node: Custom Hlsl 001 - 
+[2024.07.31-21.08.51:011][870]LogNiagaraCompiler: Function call "GetPreviousValueAtIndex" does not work on CPU sims. - Node: Custom Hlsl 001 - 
+[2024.07.31-21.08.51:011][870]LogNiagaraCompiler: Function call "GetPreviousValueAtIndex" is not allowed for stack context ENiagaraScriptUsage::SystemSpawnScript. Allowed: ENiagaraScriptUsage::Function, ENiagaraScriptUsage::Module, ENiagaraScriptUsage::DynamicInput, ENiagaraScriptUsage::ParticleSpawnScript, ENiagaraScriptUsage::ParticleUpdateScript, ENiagaraScriptUsage::ParticleEventScript, ENiagaraScriptUsage::ParticleSimulationStageScript - Node: Custom Hlsl 001 - 
+[2024.07.31-21.08.51:084][871]97997_NS-Gummy_MessageLog: System compile status unknown.
+[2024.07.31-21.08.51:104][871]LogShaderCompilers: Display: ================================================
+[2024.07.31-21.08.51:104][871]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.31-21.08.51:104][871]LogShaderCompilers: Display: Total job queries 89, among them cache hits 7 (7.87%)
+[2024.07.31-21.08.51:104][871]LogShaderCompilers: Display: Tracking 82 distinct input hashes that result in 59 distinct outputs (71.95%)
+[2024.07.31-21.08.51:104][871]LogShaderCompilers: Display: RAM used: 1.72 MiB of 1.60 GiB budget. Usage: 0.11%
+[2024.07.31-21.08.51:104][871]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.31-21.08.51:104][871]LogShaderCompilers: Display: Shaders Compiled: 72
+[2024.07.31-21.08.51:104][871]LogShaderCompilers: Display: Jobs assigned 72, completed 72 (100%)
+[2024.07.31-21.08.51:104][871]LogShaderCompilers: Display: Average time worker was idle: 29.57 s
+[2024.07.31-21.08.51:104][871]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2024.07.31-21.08.51:104][871]LogShaderCompilers: Display: Job execution time: average 0.26 s, max 0.71 s
+[2024.07.31-21.08.51:104][871]LogShaderCompilers: Display: Job life time (pending + execution): average 0.32 s, max 0.73
+[2024.07.31-21.08.51:104][871]LogShaderCompilers: Display: Shader code size: average 23.956 KiB, min 2.833 KiB, max 42.14 KiB
+[2024.07.31-21.08.51:104][871]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 22.48 s
+[2024.07.31-21.08.51:104][871]LogShaderCompilers: Display: Jobs were issued in 72 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.07.31-21.08.51:104][871]LogShaderCompilers: Display: Average processing rate: 3.20 jobs/sec
+[2024.07.31-21.08.51:104][871]LogShaderCompilers: Display: Total thread time: 12.017 s
+[2024.07.31-21.08.51:104][871]LogShaderCompilers: Display: Total thread preprocess time: 0 s
+[2024.07.31-21.08.51:104][871]LogShaderCompilers: Display: Percentage time preprocessing: 0.00%
+[2024.07.31-21.08.51:104][871]LogShaderCompilers: Display: Effective parallelization: 0.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.07.31-21.08.51:104][871]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.07.31-21.08.51:104][871]LogShaderCompilers: Display:                                               FNiagaraShader (compiled   72 times, average 0.17 sec, max 0.48 sec, min 0.04 sec)
+[2024.07.31-21.08.51:104][871]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.07.31-21.08.51:104][871]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled   72 times, average 0.17 sec, max 0.48 sec, min 0.04 sec)
+[2024.07.31-21.08.51:104][871]LogShaderCompilers: Display: ================================================
+[2024.07.31-21.08.51:131][873]LogNiagara: Warning: [AssetLog] C:\Users\Trevor Hicks\Desktop\Neumont College\Third Year\Summer 2024\Capstone\Content\CandyRushGrandPrix\Fx\NS-Gummy.uasset: Function call "GetPreviousValueAtIndex" does not work on CPU sims. - Node: Custom Hlsl 001 - 
+Function call "GetPreviousValueAtIndex" is not allowed for stack context ENiagaraScriptUsage::SystemSpawnScript. Allowed: ENiagaraScriptUsage::Function, ENiagaraScriptUsage::Module, ENiagaraScriptUsage::DynamicInput, ENiagaraScriptUsage::ParticleSpawnScript, ENiagaraScriptUsage::ParticleUpdateScript, ENiagaraScriptUsage::ParticleEventScript, ENiagaraScriptUsage::ParticleSimulationStageScript - Node: Custom Hlsl 001 - 
+Function call "GetPreviousValueAtIndex" does not work on CPU sims. - Node: Custom Hlsl 001 - 
+Function call "GetPreviousValueAtIndex" is not allowed for stack context ENiagaraScriptUsage::SystemSpawnScript. Allowed: ENiagaraScriptUsage::Function, ENiagaraScriptUsage::Module, ENiagaraScriptUsage::DynamicInput, ENiagaraScriptUsage::ParticleSpawnScript, ENiagaraScriptUsage::ParticleUpdateScript, ENiagaraScriptUsage::ParticleEventScript, ENiagaraScriptUsage::ParticleSimulationStageScript - Node: Custom Hlsl 001 - 
+[2024.07.31-21.08.51:141][873]LogNiagara: Compiling System NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy took 0.197425 sec (time since issued), 0.147360 sec (combined shader worker time).
+[2024.07.31-21.08.53:096][983]97997_NS-Gummy_MessageLog: System failed to compile with 4 errors.
+[2024.07.31-21.08.53:096][983]97997_NS-Gummy_MessageLog: Error: Function call "GetPreviousValueAtIndex" does not work on CPU sims. - Node: Custom Hlsl 001 -  Bubbles, System Spawn Script,  Grid2D_GenerateDistanceField
+[2024.07.31-21.08.53:096][983]97997_NS-Gummy_MessageLog: Error: Function call "GetPreviousValueAtIndex" is not allowed for stack context ENiagaraScriptUsage::SystemSpawnScript. Allowed: ENiagaraScriptUsage::Function, ENiagaraScriptUsage::Module, ENiagaraScriptUsage::DynamicInput, ENiagaraScriptUsage::ParticleSpawnScript, ENiagaraScriptUsage::ParticleUpdateScript, ENiagaraScriptUsage::ParticleEventScript, ENiagaraScriptUsage::ParticleSimulationStageScript - Node: Custom Hlsl 001 -  Bubbles, System Spawn Script,  Grid2D_GenerateDistanceField
+[2024.07.31-21.08.53:096][983]97997_NS-Gummy_MessageLog: Error: Function call "GetPreviousValueAtIndex" does not work on CPU sims. - Node: Custom Hlsl 001 -  Bubbles, System Spawn Script,  Grid2D_GenerateDistanceField
+[2024.07.31-21.08.53:096][983]97997_NS-Gummy_MessageLog: Error: Function call "GetPreviousValueAtIndex" is not allowed for stack context ENiagaraScriptUsage::SystemSpawnScript. Allowed: ENiagaraScriptUsage::Function, ENiagaraScriptUsage::Module, ENiagaraScriptUsage::DynamicInput, ENiagaraScriptUsage::ParticleSpawnScript, ENiagaraScriptUsage::ParticleUpdateScript, ENiagaraScriptUsage::ParticleEventScript, ENiagaraScriptUsage::ParticleSimulationStageScript - Node: Custom Hlsl 001 -  Bubbles, System Spawn Script,  Grid2D_GenerateDistanceField
+[2024.07.31-21.08.57:414][220]97997_NS-Gummy_MessageLog: System failed to compile with 4 errors.
+[2024.07.31-21.08.57:969][245]LogNiagara: Compiling System NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy took 0.496918 sec (time since issued), 0.451576 sec (combined shader worker time).
+[2024.07.31-21.08.59:441][289]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-21.09.01:469][361]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-21.09.11:505][667]97997_NS-Gummy_MessageLog: System compile status unknown.
+[2024.07.31-21.09.12:005][693]LogNiagara: Compiling System NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy took 0.685734 sec (time since issued), 0.617923 sec (combined shader worker time).
+[2024.07.31-21.09.13:522][751]97997_NS-Gummy_MessageLog: System compile status unknown.
+[2024.07.31-21.09.13:751][760]LogNiagara: Compiling System NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy took 0.926770 sec (time since issued), 0.852494 sec (combined shader worker time).
+[2024.07.31-21.09.15:530][846]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-21.09.39:108][914]LogNiagara: Compiling System NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy took 0.688454 sec (time since issued), 2.031545 sec (combined shader worker time).
+[2024.07.31-21.09.39:131][914]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.31-21.09.39:250][914]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Fx/NS-Gummy
+[2024.07.31-21.09.39:251][914]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/NS-Gummy1CA2C4804B070532E29E44AEE78D21FE.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Fx/NS-Gummy.uasset'
+[2024.07.31-21.09.39:273][914]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 5.19 sec)
+[2024.07.31-21.09.39:387][914]AssetCheck: New page: Asset Save: NS-Gummy
+[2024.07.31-21.09.39:387][914]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy
+[2024.07.31-21.09.45:093][189]97997_NS-Gummy_MessageLog: System compile status unknown.
+[2024.07.31-21.09.45:362][199]LogNiagara: Compiling System NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy took 0.384170 sec (time since issued), 0.307421 sec (combined shader worker time).
+[2024.07.31-21.09.47:096][248]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-21.09.49:098][316]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-21.09.53:660][463]97997_NS-Gummy_MessageLog: System compile status unknown.
+[2024.07.31-21.09.54:864][515]LogNiagara: Compiling System NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy took 0.294060 sec (time since issued), 0.320256 sec (combined shader worker time).
+[2024.07.31-21.09.54:886][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.31-21.09.54:983][515]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Fx/NS-Gummy
+[2024.07.31-21.09.54:983][515]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/NS-Gummy035CA4CC4CB651606EF2748EB5099D01.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Fx/NS-Gummy.uasset'
+[2024.07.31-21.09.55:004][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 5.31 sec)
+[2024.07.31-21.09.55:034][515]AssetCheck: New page: Asset Save: NS-Gummy
+[2024.07.31-21.09.55:034][515]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy
+[2024.07.31-21.09.55:665][553]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-21.09.59:372][687]97997_NS-Gummy_MessageLog: System compile status unknown.
+[2024.07.31-21.10.00:450][723]LogNiagara: Compiling System NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy took 1.350235 sec (time since issued), 1.245944 sec (combined shader worker time).
+[2024.07.31-21.10.01:381][755]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-21.10.05:332][891]97997_NS-Gummy_MessageLog: System compile status unknown.
+[2024.07.31-21.10.07:359][953]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-21.10.09:026][999]LogNiagara: Compiling System NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy took 1.352513 sec (time since issued), 1.259404 sec (combined shader worker time).
+[2024.07.31-21.10.09:367][  9]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-21.10.15:092][193]97997_NS-Gummy_MessageLog: System compile status unknown.
+[2024.07.31-21.10.16:062][227]LogNiagara: Compiling System NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy took 1.267294 sec (time since issued), 1.173433 sec (combined shader worker time).
+[2024.07.31-21.10.17:102][264]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-21.10.19:898][356]LogSlate: Window 'Color Picker' being destroyed
+[2024.07.31-21.10.29:017][655]97997_NS-Gummy_MessageLog: System compile status unknown.
+[2024.07.31-21.10.29:936][708]LogNiagara: Compiling System NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy took 1.198753 sec (time since issued), 1.140115 sec (combined shader worker time).
+[2024.07.31-21.10.31:029][772]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-21.10.33:367][852]97997_NS-Gummy_MessageLog: System compile status unknown.
+[2024.07.31-21.10.34:337][893]LogNiagara: Compiling System NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy took 1.234063 sec (time since issued), 1.151816 sec (combined shader worker time).
+[2024.07.31-21.10.35:372][931]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-21.10.37:435][979]97997_NS-Gummy_MessageLog: System compile status unknown.
+[2024.07.31-21.10.38:556][ 18]LogNiagara: Compiling System NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy took 1.356598 sec (time since issued), 1.239886 sec (combined shader worker time).
+[2024.07.31-21.10.39:436][ 61]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-21.10.51:213][482]97997_NS-Gummy_MessageLog: System compile status unknown.
+[2024.07.31-21.10.52:201][537]LogNiagara: Compiling System NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy took 1.265319 sec (time since issued), 1.200277 sec (combined shader worker time).
+[2024.07.31-21.10.53:231][593]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-21.11.08:318][311]LogNiagara: Compiling System NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy took 1.301051 sec (time since issued), 1.144374 sec (combined shader worker time).
+[2024.07.31-21.11.08:627][320]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-21.11.10:637][401]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-21.11.22:716][876]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2024.07.31-21.11.23:000][878]97997_NS-Gummy_MessageLog: System compile status unknown.
+[2024.07.31-21.11.24:398][956]LogNiagara: Compiling System NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy took 1.657735 sec (time since issued), 1.556885 sec (combined shader worker time).
+[2024.07.31-21.11.25:007][990]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-21.11.27:728][103]97997_NS-Gummy_MessageLog: System compile status unknown.
+[2024.07.31-21.11.28:033][116]LogNiagara: Compiling System NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy took 0.461923 sec (time since issued), 0.377677 sec (combined shader worker time).
+[2024.07.31-21.11.29:742][191]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-21.11.31:761][247]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-21.11.46:535][835]97997_NS-Gummy_MessageLog: System compile status unknown.
+[2024.07.31-21.11.47:096][854]LogNiagara: Compiling System NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy took 0.685830 sec (time since issued), 0.609793 sec (combined shader worker time).
+[2024.07.31-21.11.48:546][924]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-21.12.09:783][796]97997_NS-Gummy_MessageLog: System compile status unknown.
+[2024.07.31-21.12.10:506][822]LogShaderCompilers: Display: ================================================
+[2024.07.31-21.12.10:506][822]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.31-21.12.10:506][822]LogShaderCompilers: Display: Total job queries 130, among them cache hits 10 (7.69%)
+[2024.07.31-21.12.10:506][822]LogShaderCompilers: Display: Tracking 120 distinct input hashes that result in 87 distinct outputs (72.50%)
+[2024.07.31-21.12.10:508][822]LogShaderCompilers: Display: RAM used: 2.50 MiB of 1.60 GiB budget. Usage: 0.15%
+[2024.07.31-21.12.10:508][822]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.31-21.12.10:508][822]LogShaderCompilers: Display: Shaders Compiled: 110
+[2024.07.31-21.12.10:508][822]LogShaderCompilers: Display: Jobs assigned 110, completed 110 (100%)
+[2024.07.31-21.12.10:508][822]LogShaderCompilers: Display: Average time worker was idle: 40.10 s
+[2024.07.31-21.12.10:508][822]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2024.07.31-21.12.10:508][822]LogShaderCompilers: Display: Job execution time: average 0.27 s, max 0.71 s
+[2024.07.31-21.12.10:508][822]LogShaderCompilers: Display: Job life time (pending + execution): average 0.32 s, max 0.73
+[2024.07.31-21.12.10:508][822]LogShaderCompilers: Display: Shader code size: average 22.766 KiB, min 2.604 KiB, max 48.486 KiB
+[2024.07.31-21.12.10:508][822]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 34.05 s
+[2024.07.31-21.12.10:508][822]LogShaderCompilers: Display: Jobs were issued in 110 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.07.31-21.12.10:508][822]LogShaderCompilers: Display: Average processing rate: 3.23 jobs/sec
+[2024.07.31-21.12.10:508][822]LogShaderCompilers: Display: Total thread time: 19.501 s
+[2024.07.31-21.12.10:508][822]LogShaderCompilers: Display: Total thread preprocess time: 0 s
+[2024.07.31-21.12.10:508][822]LogShaderCompilers: Display: Percentage time preprocessing: 0.00%
+[2024.07.31-21.12.10:508][822]LogShaderCompilers: Display: Effective parallelization: 0.57 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.07.31-21.12.10:508][822]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.07.31-21.12.10:508][822]LogShaderCompilers: Display:                                               FNiagaraShader (compiled  110 times, average 0.18 sec, max 0.55 sec, min 0.04 sec)
+[2024.07.31-21.12.10:508][822]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.07.31-21.12.10:508][822]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled  110 times, average 0.18 sec, max 0.55 sec, min 0.04 sec)
+[2024.07.31-21.12.10:508][822]LogShaderCompilers: Display: ================================================
+[2024.07.31-21.12.11:011][836]LogNiagara: Compiling System NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy took 1.455410 sec (time since issued), 1.356072 sec (combined shader worker time).
+[2024.07.31-21.12.11:834][847]97997_NS-Gummy_MessageLog: System compile status unknown.
+[2024.07.31-21.12.12:706][893]LogNiagara: Compiling System NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy took 1.086351 sec (time since issued), 1.021912 sec (combined shader worker time).
+[2024.07.31-21.12.13:844][945]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-21.12.15:186][996]LogNiagara: Compiling System NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy took 0.491924 sec (time since issued), 1.289685 sec (combined shader worker time).
+[2024.07.31-21.12.15:208][996]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.31-21.12.15:322][996]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Fx/NS-Gummy
+[2024.07.31-21.12.15:322][996]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/NS-Gummy96DC17B34118D24CFB208EBCC7C7384C.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Fx/NS-Gummy.uasset'
+[2024.07.31-21.12.15:343][996]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 5.44 sec)
+[2024.07.31-21.12.15:464][996]AssetCheck: New page: Asset Save: NS-Gummy
+[2024.07.31-21.12.15:464][996]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy
