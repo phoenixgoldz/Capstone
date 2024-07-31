@@ -3193,3 +3193,50 @@ Make sure 'WBP-Selection_C' has been compiled for  Get KartIndex
 [2024.07.31-20.49.35:069][847]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
 [2024.07.31-20.49.35:069][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.07.31-20.49.47:855][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.07.31-20.52.13:108][915]BlueprintLog: New page: Compile MainMenuWidget
+[2024.07.31-20.52.13:135][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.07.31-20.52.13:303][915]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.31-20.52.13:391][915]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget
+[2024.07.31-20.52.13:392][915]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/MainMenuWidget298E11C24B54D9A84F31AFA1BF89B930.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.uasset'
+[2024.07.31-20.52.13:413][915]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 4.13 sec)
+[2024.07.31-20.52.13:453][915]AssetCheck: New page: Asset Save: MainMenuWidget
+[2024.07.31-20.52.13:453][915]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.07.31-20.52.14:944][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.07.31-20.52.17:190][ 45]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.07.31-20.52.17:190][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.31-20.52.17:199][ 45]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.07.31-20.52.17:199][ 45]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.31-20.52.24:374][357]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.07.31-20.52.24:374][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.31-20.53.34:707][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.07.31-20.53.51:070][ 20]97997_NS-Gummy_MessageLog: System compile status unknown.
+[2024.07.31-20.53.51:710][ 53]LogShaderCompilers: Display: ================================================
+[2024.07.31-20.53.51:710][ 53]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.31-20.53.51:710][ 53]LogShaderCompilers: Display: Total job queries 73, among them cache hits 4 (5.48%)
+[2024.07.31-20.53.51:710][ 53]LogShaderCompilers: Display: Tracking 69 distinct input hashes that result in 48 distinct outputs (69.57%)
+[2024.07.31-20.53.51:710][ 53]LogShaderCompilers: Display: RAM used: 1.46 MiB of 1.60 GiB budget. Usage: 0.09%
+[2024.07.31-20.53.51:710][ 53]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.31-20.53.51:710][ 53]LogShaderCompilers: Display: Shaders Compiled: 59
+[2024.07.31-20.53.51:710][ 53]LogShaderCompilers: Display: Jobs assigned 59, completed 59 (100%)
+[2024.07.31-20.53.51:710][ 53]LogShaderCompilers: Display: Average time worker was idle: 24.12 s
+[2024.07.31-20.53.51:710][ 53]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2024.07.31-20.53.51:710][ 53]LogShaderCompilers: Display: Job execution time: average 0.28 s, max 0.71 s
+[2024.07.31-20.53.51:710][ 53]LogShaderCompilers: Display: Job life time (pending + execution): average 0.34 s, max 0.73
+[2024.07.31-20.53.51:710][ 53]LogShaderCompilers: Display: Shader code size: average 24.688 KiB, min 3.146 KiB, max 42.14 KiB
+[2024.07.31-20.53.51:710][ 53]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.29 s
+[2024.07.31-20.53.51:710][ 53]LogShaderCompilers: Display: Jobs were issued in 59 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.07.31-20.53.51:710][ 53]LogShaderCompilers: Display: Average processing rate: 3.06 jobs/sec
+[2024.07.31-20.53.51:710][ 53]LogShaderCompilers: Display: Total thread time: 10.339 s
+[2024.07.31-20.53.51:710][ 53]LogShaderCompilers: Display: Total thread preprocess time: 0 s
+[2024.07.31-20.53.51:710][ 53]LogShaderCompilers: Display: Percentage time preprocessing: 0.00%
+[2024.07.31-20.53.51:710][ 53]LogShaderCompilers: Display: Effective parallelization: 0.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.07.31-20.53.51:710][ 53]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.07.31-20.53.51:710][ 53]LogShaderCompilers: Display:                                               FNiagaraShader (compiled   59 times, average 0.18 sec, max 0.48 sec, min 0.04 sec)
+[2024.07.31-20.53.51:710][ 53]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.07.31-20.53.51:710][ 53]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled   59 times, average 0.18 sec, max 0.48 sec, min 0.04 sec)
+[2024.07.31-20.53.51:710][ 53]LogShaderCompilers: Display: ================================================
+[2024.07.31-20.53.52:515][ 96]LogNiagara: Compiling System NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy took 1.714169 sec (time since issued), 1.631366 sec (combined shader worker time).
+[2024.07.31-20.53.53:072][118]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-20.56.24:868][767]LogDerivedDataCache: C:/Users/Trevor Hicks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.136 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4398 files in 6287 folders with total size 423 MiB.
+[2024.07.31-20.57.08:276][126]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.07.31-20.57.09:164][146]LogWindowsTextInputMethodSystem: Error: Activating a context failed while setting focus on a TSF document manager. The parameter is incorrect. (0x80070057)
