@@ -3364,3 +3364,100 @@ Make sure 'WBP-Selection_C' has been compiled for  Get KartIndex
 [2024.07.31-21.00.19:129][814]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 4.73 sec)
 [2024.07.31-21.00.19:134][814]AssetCheck: New page: Asset Save: NS-Gummy
 [2024.07.31-21.00.19:134][814]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy
+[2024.07.31-21.00.55:861][141]LogViewport: Scene viewport resized to 759x371, mode Windowed.
+[2024.07.31-21.00.55:879][142]LogViewport: Scene viewport resized to 754x371, mode Windowed.
+[2024.07.31-21.00.55:895][143]LogViewport: Scene viewport resized to 748x371, mode Windowed.
+[2024.07.31-21.00.55:912][144]LogViewport: Scene viewport resized to 742x371, mode Windowed.
+[2024.07.31-21.00.55:928][145]LogViewport: Scene viewport resized to 738x371, mode Windowed.
+[2024.07.31-21.00.55:945][146]LogViewport: Scene viewport resized to 734x371, mode Windowed.
+[2024.07.31-21.00.55:962][147]LogViewport: Scene viewport resized to 733x371, mode Windowed.
+[2024.07.31-21.00.55:995][149]LogViewport: Scene viewport resized to 724x371, mode Windowed.
+[2024.07.31-21.00.56:014][150]LogViewport: Scene viewport resized to 721x371, mode Windowed.
+[2024.07.31-21.00.56:029][151]LogViewport: Scene viewport resized to 715x371, mode Windowed.
+[2024.07.31-21.00.56:046][152]LogViewport: Scene viewport resized to 710x371, mode Windowed.
+[2024.07.31-21.00.56:062][153]LogViewport: Scene viewport resized to 703x371, mode Windowed.
+[2024.07.31-21.00.56:079][154]LogViewport: Scene viewport resized to 696x371, mode Windowed.
+[2024.07.31-21.00.56:095][155]LogViewport: Scene viewport resized to 688x371, mode Windowed.
+[2024.07.31-21.00.56:112][156]LogViewport: Scene viewport resized to 673x371, mode Windowed.
+[2024.07.31-21.00.56:128][157]LogViewport: Scene viewport resized to 662x371, mode Windowed.
+[2024.07.31-21.00.56:145][158]LogViewport: Scene viewport resized to 649x371, mode Windowed.
+[2024.07.31-21.00.56:162][159]LogViewport: Scene viewport resized to 640x371, mode Windowed.
+[2024.07.31-21.00.56:178][160]LogViewport: Scene viewport resized to 634x371, mode Windowed.
+[2024.07.31-21.00.56:194][161]LogViewport: Scene viewport resized to 629x371, mode Windowed.
+[2024.07.31-21.00.56:211][162]LogViewport: Scene viewport resized to 625x371, mode Windowed.
+[2024.07.31-21.00.56:228][163]LogViewport: Scene viewport resized to 622x371, mode Windowed.
+[2024.07.31-21.00.56:245][164]LogViewport: Scene viewport resized to 617x371, mode Windowed.
+[2024.07.31-21.00.56:261][165]LogViewport: Scene viewport resized to 612x371, mode Windowed.
+[2024.07.31-21.00.56:278][166]LogViewport: Scene viewport resized to 607x371, mode Windowed.
+[2024.07.31-21.00.56:294][167]LogViewport: Scene viewport resized to 603x371, mode Windowed.
+[2024.07.31-21.00.56:311][168]LogViewport: Scene viewport resized to 602x371, mode Windowed.
+[2024.07.31-21.00.56:328][169]LogViewport: Scene viewport resized to 601x371, mode Windowed.
+[2024.07.31-21.00.56:361][171]LogViewport: Scene viewport resized to 600x371, mode Windowed.
+[2024.07.31-21.00.56:445][176]LogViewport: Scene viewport resized to 598x371, mode Windowed.
+[2024.07.31-21.00.56:461][177]LogViewport: Scene viewport resized to 597x371, mode Windowed.
+[2024.07.31-21.00.56:478][178]LogViewport: Scene viewport resized to 595x371, mode Windowed.
+[2024.07.31-21.00.56:494][179]LogViewport: Scene viewport resized to 593x371, mode Windowed.
+[2024.07.31-21.00.56:511][180]LogViewport: Scene viewport resized to 591x371, mode Windowed.
+[2024.07.31-21.00.56:528][181]LogViewport: Scene viewport resized to 587x371, mode Windowed.
+[2024.07.31-21.00.56:544][182]LogViewport: Scene viewport resized to 586x371, mode Windowed.
+[2024.07.31-21.00.56:561][183]LogViewport: Scene viewport resized to 581x371, mode Windowed.
+[2024.07.31-21.00.56:578][184]LogViewport: Scene viewport resized to 578x371, mode Windowed.
+[2024.07.31-21.00.56:594][185]LogViewport: Scene viewport resized to 576x371, mode Windowed.
+[2024.07.31-21.01.46:480][ 84]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/CandyRushGrandPrix/Models/CandyObj/CandyObj_c_g_14) ...
+[2024.07.31-21.01.57:127][526]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/CandyRushGrandPrix/Models/CandyObj/CandyObj_c_g_15) ...
+[2024.07.31-21.02.35:932][750]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/CandyRushGrandPrix/Models/CandyObj/CandyObj_c_g_16) ...
+[2024.07.31-21.02.55:327][383]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/CandyRushGrandPrix/Models/CandyObj/CandyObj_c_g_17) ...
+[2024.07.31-21.03.05:412][790]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/CandyRushGrandPrix/Models/CandyObj/CandyObj_c_g_18) ...
+[2024.07.31-21.03.43:917][423]LogEditCondition: Error: EditCondition parsing failed: Field name "bOverrideMaterials" was not found in class "NiagaraMeshMaterialOverride".
+[2024.07.31-21.03.50:993][753]LogShaderCompilers: Display: ================================================
+[2024.07.31-21.03.50:993][753]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.31-21.03.50:993][753]LogShaderCompilers: Display: Total job queries 79, among them cache hits 5 (6.33%)
+[2024.07.31-21.03.50:993][753]LogShaderCompilers: Display: Tracking 74 distinct input hashes that result in 52 distinct outputs (70.27%)
+[2024.07.31-21.03.50:993][753]LogShaderCompilers: Display: RAM used: 1.53 MiB of 1.60 GiB budget. Usage: 0.09%
+[2024.07.31-21.03.50:993][753]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.31-21.03.50:993][753]LogShaderCompilers: Display: Shaders Compiled: 64
+[2024.07.31-21.03.50:993][753]LogShaderCompilers: Display: Jobs assigned 64, completed 64 (100%)
+[2024.07.31-21.03.50:993][753]LogShaderCompilers: Display: Average time worker was idle: 31.83 s
+[2024.07.31-21.03.50:993][753]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2024.07.31-21.03.50:993][753]LogShaderCompilers: Display: Job execution time: average 0.27 s, max 0.71 s
+[2024.07.31-21.03.50:993][753]LogShaderCompilers: Display: Job life time (pending + execution): average 0.33 s, max 0.73
+[2024.07.31-21.03.50:993][753]LogShaderCompilers: Display: Shader code size: average 23.879 KiB, min 2.833 KiB, max 42.14 KiB
+[2024.07.31-21.03.50:993][753]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 20.61 s
+[2024.07.31-21.03.50:993][753]LogShaderCompilers: Display: Jobs were issued in 64 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.07.31-21.03.50:993][753]LogShaderCompilers: Display: Average processing rate: 3.10 jobs/sec
+[2024.07.31-21.03.50:993][753]LogShaderCompilers: Display: Total thread time: 10.907 s
+[2024.07.31-21.03.50:993][753]LogShaderCompilers: Display: Total thread preprocess time: 0 s
+[2024.07.31-21.03.50:993][753]LogShaderCompilers: Display: Percentage time preprocessing: 0.00%
+[2024.07.31-21.03.50:993][753]LogShaderCompilers: Display: Effective parallelization: 0.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.07.31-21.03.50:993][753]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.07.31-21.03.50:993][753]LogShaderCompilers: Display:                                               FNiagaraShader (compiled   64 times, average 0.17 sec, max 0.48 sec, min 0.04 sec)
+[2024.07.31-21.03.50:993][753]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.07.31-21.03.50:993][753]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled   64 times, average 0.17 sec, max 0.48 sec, min 0.04 sec)
+[2024.07.31-21.03.50:993][753]LogShaderCompilers: Display: ================================================
+[2024.07.31-21.03.51:587][772]LogNiagara: Compiling System NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy took 1.176122 sec (time since issued), 1.041753 sec (combined shader worker time).
+[2024.07.31-21.03.51:783][779]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-21.04.27:540][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.07.31-21.04.27:558][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.31-21.04.27:664][523]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Fx/NS-Gummy
+[2024.07.31-21.04.27:666][523]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/NS-GummyFF39846A47B3079DD0E319B356D5DF25.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Fx/NS-Gummy.uasset'
+[2024.07.31-21.04.27:687][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 4.86 sec)
+[2024.07.31-21.04.27:690][523]AssetCheck: New page: Asset Save: NS-Gummy
+[2024.07.31-21.04.27:690][523]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy
+[2024.07.31-21.05.21:180][862]97997_NS-Gummy_MessageLog: System compile status unknown.
+[2024.07.31-21.05.22:016][892]LogNiagara: Compiling System NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy took 0.992789 sec (time since issued), 0.920747 sec (combined shader worker time).
+[2024.07.31-21.05.23:183][951]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-21.05.26:061][ 51]97997_NS-Gummy_MessageLog: System compile status unknown.
+[2024.07.31-21.05.26:744][ 80]LogNiagara: Compiling System NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy took 0.849069 sec (time since issued), 0.776900 sec (combined shader worker time).
+[2024.07.31-21.05.28:070][122]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-21.05.29:149][154]LogNiagara: Compiling System NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy took 0.768414 sec (time since issued), 0.697036 sec (combined shader worker time).
+[2024.07.31-21.05.30:091][192]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-21.05.59:662][331]97997_NS-Gummy_MessageLog: System compile status unknown.
+[2024.07.31-21.06.01:671][408]97997_NS-Gummy_MessageLog: System successfully compiled.
+[2024.07.31-21.06.38:866][721]LogSlate: Window 'Confirm Enable Flipbook' being destroyed
+[2024.07.31-21.07.48:208][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2024.07.31-21.07.48:231][824]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.31-21.07.48:393][824]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Fx/NS-Gummy
+[2024.07.31-21.07.48:395][824]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/NS-Gummy5422CC6049A8E0C72FC3298C61C72A6A.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Fx/NS-Gummy.uasset'
+[2024.07.31-21.07.48:419][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 188 ms (total: 5.05 sec)
+[2024.07.31-21.07.48:424][824]AssetCheck: New page: Asset Save: NS-Gummy
+[2024.07.31-21.07.48:424][824]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/CandyRushGrandPrix/Fx/NS-Gummy.NS-Gummy
