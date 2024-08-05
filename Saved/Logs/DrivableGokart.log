@@ -14907,3 +14907,1111 @@ Script Stack (2 frames) :
 [2024.08.05-21.52.20:133][192]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Booster.Booster
 [2024.08.05-21.52.20:133][192]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Countdown_1.Countdown_1
 [2024.08.05-21.52.21:685][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2024.08.05-21.54.27:843][  3]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.08.05-21.54.27:887][  3]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.08.05-21.54.27:895][  3]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.08.05-21.54.27:905][  4]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.08.05-21.54.36:638][489]LogContentBrowser: Attempting asset rename: NewBlueprint -> WBP_PauseMenu
+[2024.08.05-21.54.36:644][489]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.08.05-21.54.37:865][543]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-21.54.37:866][543]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.05-21.54.37:866][543]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.05-21.54.37:932][543]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.05-21.54.37:932][543]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.05-21.55.37:514][ 20]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-21.55.37:565][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2024.08.05-21.55.37:685][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.55.37:821][ 20]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-21.55.37:821][ 20]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenu53630AF043034C65A25216AD41EAA487.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-21.55.37:857][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 28.4 sec)
+[2024.08.05-21.55.37:882][ 20]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-21.55.37:882][ 20]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-21.57.04:690][418]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.05-21.57.09:762][555]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.05-21.57.16:163][753]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.05-21.57.33:262][109]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.05-21.57.51:956][743]LogSlate: Took 0.003378 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2024.08.05-21.59.22:660][657]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-21.59.22:699][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.08.05-21.59.22:843][657]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.59.23:023][657]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-21.59.23:024][657]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenu580FE603483C199A7D7701BDF37DF4BA.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-21.59.23:084][657]LogFileHelpers: InternalPromptForCheckoutAndSave took 240 ms (total: 28.6 sec)
+[2024.08.05-21.59.23:109][657]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-21.59.23:109][657]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.00.11:723][190]LogEditorTransaction: Undo Edit Bottom
+[2024.08.05-22.00.35:530][733]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.05-22.01.44:363][121]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.01.44:407][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2024.08.05-22.01.44:694][121]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.01.44:841][121]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.01.44:843][121]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenu01F759624A8278296CB0C8B4A3F07D4D.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.01.44:877][121]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 28.8 sec)
+[2024.08.05-22.01.44:941][121]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.01.44:941][121]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.01.51:347][211]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 99982
+[2024.08.05-22.01.51:348][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.05-22.01.51:359][212]LogSlate: Took 0.000403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.08.05-22.01.51:360][212]LogSlate: Took 0.000396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.08.05-22.01.51:361][212]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.08.05-22.01.51:371][212]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.08.05-22.01.51:375][212]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.08.05-22.01.56:236][297]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.08.05-22.02.24:038][933]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.05-22.02.28:038][ 91]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.05-22.02.50:405][914]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.02.50:602][914]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/KartSelection/WBP-Selection
+[2024.08.05-22.02.50:604][914]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP-Selection772A4A3A48CAA5EAFDE519B51C158698.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/KartSelection/WBP-Selection.uasset'
+[2024.08.05-22.02.50:636][914]LogFileHelpers: InternalPromptForCheckoutAndSave took 229 ms (total: 29.0 sec)
+[2024.08.05-22.02.50:638][914]AssetCheck: New page: Asset Save: WBP-Selection
+[2024.08.05-22.02.50:638][914]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/KartSelection/WBP-Selection.WBP-Selection
+[2024.08.05-22.02.52:781][ 26]BlueprintLog: New page: Compile WBP-Selection
+[2024.08.05-22.02.52:828][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.08.05-22.03.05:435][441]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.05-22.04.20:129][744]BlueprintLog: New page: Compile WBP_LevelSelect
+[2024.08.05-22.04.20:172][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.08.05-22.04.20:384][744]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.04.20:529][744]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_LevelSelect
+[2024.08.05-22.04.20:530][744]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_LevelSelect1C5CD2DC4B28685D40B2BF97F314BD00.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_LevelSelect.uasset'
+[2024.08.05-22.04.20:576][744]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 29.2 sec)
+[2024.08.05-22.04.20:625][744]AssetCheck: New page: Asset Save: WBP_LevelSelect
+[2024.08.05-22.04.20:625][744]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_LevelSelect.WBP_LevelSelect
+[2024.08.05-22.04.22:363][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.08.05-22.04.27:249][887]LogSlate: Took 0.001835 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.08.05-22.04.57:783][674]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.05-22.05.01:809][787]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.05.01:855][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.08.05-22.05.02:058][787]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.05.02:227][787]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.05.02:228][787]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenu435A2E5844913B979D7BB9A5E52860DC.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.05.02:288][787]LogFileHelpers: InternalPromptForCheckoutAndSave took 230 ms (total: 29.4 sec)
+[2024.08.05-22.05.02:325][787]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.05.02:325][787]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.05.03:648][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.08.05-22.06.30:636][262]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.06.30:683][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.08.05-22.06.30:707][262]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.06.30:830][262]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.06.30:832][262]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenu4DDBDEA8468130F146C75D89831A1F16.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.06.30:867][262]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 29.6 sec)
+[2024.08.05-22.06.30:870][262]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.06.30:870][262]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.06.48:260][648]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.08.05-22.06.59:010][911]LogContentBrowser: Attempting asset rename: MainMenu -> MainMenu
+[2024.08.05-22.07.03:569][ 89]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.07.03:612][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.08.05-22.07.03:636][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.07.03:818][ 89]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.07.03:819][ 89]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenu08881B4B4A9FCB5C2D5C08A228D7E7E4.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.07.03:852][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave took 215 ms (total: 29.8 sec)
+[2024.08.05-22.07.03:855][ 89]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.07.03:855][ 89]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.07.26:033][682]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.07.26:081][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2024.08.05-22.07.26:109][682]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.07.26:258][682]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.07.26:259][682]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenu050222FD420FA0601F0C6AABD38D2AE5.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.07.26:294][682]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 30.0 sec)
+[2024.08.05-22.07.26:297][682]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.07.26:297][682]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.07.39:766][ 38]LogSlate: Took 0.000747 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.08.05-22.07.44:399][133]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.07.44:447][133]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2024.08.05-22.07.44:477][133]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.07.44:652][133]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.07.44:654][133]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenu956ADF664863ABA2696EBCB05188BBC8.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.07.44:708][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 231 ms (total: 30.2 sec)
+[2024.08.05-22.07.44:711][133]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.07.44:711][133]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.07.52:431][430]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.07.52:475][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2024.08.05-22.07.52:504][430]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.07.52:730][430]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.07.52:732][430]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenu1C20780C49FC95CEDB57E8AE413FE4FC.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.07.52:788][430]LogFileHelpers: InternalPromptForCheckoutAndSave took 284 ms (total: 30.5 sec)
+[2024.08.05-22.07.52:792][430]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.07.52:792][430]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.08.05:726][866]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.08.05:771][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.08.05-22.08.05:801][866]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.08.05:962][866]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.08.05:962][866]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenu72AE1C374096714304E3BC979A04302C.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.08.05:990][866]LogFileHelpers: InternalPromptForCheckoutAndSave took 190 ms (total: 30.7 sec)
+[2024.08.05-22.08.05:993][866]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.08.05:993][866]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.08.12:602][ 43]LogShaderCompilers: Display: ================================================
+[2024.08.05-22.08.12:602][ 43]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.08.05-22.08.12:602][ 43]LogShaderCompilers: Display: Total job queries 429, among them cache hits 365 (85.08%)
+[2024.08.05-22.08.12:602][ 43]LogShaderCompilers: Display: Tracking 64 distinct input hashes that result in 39 distinct outputs (60.94%)
+[2024.08.05-22.08.12:602][ 43]LogShaderCompilers: Display: RAM used: 141.48 KiB of 1.60 GiB budget. Usage: 0.01%
+[2024.08.05-22.08.12:602][ 43]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.08.05-22.08.12:602][ 43]LogShaderCompilers: Display: Shaders Compiled: 2
+[2024.08.05-22.08.12:602][ 43]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2024.08.05-22.08.12:602][ 43]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.08 s
+[2024.08.05-22.08.12:602][ 43]LogShaderCompilers: Display: Job execution time: average 0.72 s, max 0.72 s
+[2024.08.05-22.08.12:602][ 43]LogShaderCompilers: Display: Job life time (pending + execution): average 0.80 s, max 0.80
+[2024.08.05-22.08.12:602][ 43]LogShaderCompilers: Display: Shader code size: average 1.338 KiB, min 1.25 KiB, max 1.426 KiB
+[2024.08.05-22.08.12:602][ 43]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.80 s
+[2024.08.05-22.08.12:602][ 43]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.08.05-22.08.12:602][ 43]LogShaderCompilers: Display: Average processing rate: 2.50 jobs/sec
+[2024.08.05-22.08.12:602][ 43]LogShaderCompilers: Display: Total thread time: 0.633 s
+[2024.08.05-22.08.12:602][ 43]LogShaderCompilers: Display: Total thread preprocess time: 0.551 s
+[2024.08.05-22.08.12:602][ 43]LogShaderCompilers: Display: Percentage time preprocessing: 87.12%
+[2024.08.05-22.08.12:602][ 43]LogShaderCompilers: Display: Effective parallelization: 0.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.08.05-22.08.12:602][ 43]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.08.05-22.08.12:602][ 43]LogShaderCompilers: Display:                          TSlateMaterialShaderPSGrayscaleFont (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2024.08.05-22.08.12:602][ 43]LogShaderCompilers: Display:                                  TSlateMaterialShaderVSfalse (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2024.08.05-22.08.12:602][ 43]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.08.05-22.08.12:602][ 43]LogShaderCompilers: Display:                          TSlateMaterialShaderPSGrayscaleFont - 53.31% of total time (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2024.08.05-22.08.12:602][ 43]LogShaderCompilers: Display:                                  TSlateMaterialShaderVSfalse - 46.69% of total time (compiled    1 times, average 0.30 sec, max 0.30 sec, min 0.30 sec)
+[2024.08.05-22.08.12:602][ 43]LogShaderCompilers: Display: ================================================
+[2024.08.05-22.08.21:005][197]LogContentBrowser: Attempting asset rename: WBP_Options -> WBP_Options
+[2024.08.05-22.08.29:316][389]LogContentBrowser: Attempting asset rename: WBP_Options -> WBP_Options
+[2024.08.05-22.08.33:463][498]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.08.33:503][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.08.05-22.08.33:538][498]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.08.33:729][498]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.08.33:730][498]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenu1749AA33493D3B0E47C020980A2E551B.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.08.33:776][498]LogFileHelpers: InternalPromptForCheckoutAndSave took 237 ms (total: 30.9 sec)
+[2024.08.05-22.08.33:779][498]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.08.33:779][498]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.09.12:126][698]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.09.12:158][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.08.05-22.09.12:179][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.09.12:287][698]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.09.12:288][698]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenu740D45994B3E23A2194FA38CF4DF1F75.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.09.12:310][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 31.1 sec)
+[2024.08.05-22.09.12:312][698]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.09.12:312][698]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.09.41:506][637]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.09.41:548][637]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.08.05-22.09.41:676][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.09.41:838][637]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.09.41:838][637]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenu4F6CEAA5411183A011B123A0FCE45490.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.09.41:897][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 221 ms (total: 31.3 sec)
+[2024.08.05-22.09.41:934][637]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.09.41:934][637]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.10.23:905][929]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.05-22.10.26:304][  2]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.10.26:358][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.08.05-22.10.26:545][  2]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.10.26:697][  2]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.10.26:698][  2]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenu73BEE57A4BE5A483629BF2AA6E4F045E.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.10.26:743][  2]LogFileHelpers: InternalPromptForCheckoutAndSave took 197 ms (total: 31.5 sec)
+[2024.08.05-22.10.26:795][  2]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.10.26:795][  2]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.10.50:726][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.08.05-22.11.03:455][770]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.05-22.11.03:505][772]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.05-22.11.06:738][899]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart.BP_CandyKart
+[2024.08.05-22.11.06:738][899]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.05-22.11.06:738][899]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.05-22.11.07:638][901]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.05-22.12.26:367][625]BlueprintLog: New page: Compile BP_CandyKart
+[2024.08.05-22.12.26:437][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.08.05-22.12.26:630][625]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.12.26:788][625]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.05-22.12.26:853][625]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart
+[2024.08.05-22.12.26:854][625]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_CandyKart11477D594C17D97ADC6CA6A7B95C2700.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_CandyKart.uasset'
+[2024.08.05-22.12.26:897][625]LogFileHelpers: InternalPromptForCheckoutAndSave took 267 ms (total: 31.8 sec)
+[2024.08.05-22.12.26:900][625]AssetCheck: New page: Asset Save: BP_CandyKart
+[2024.08.05-22.12.26:900][625]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart.BP_CandyKart
+[2024.08.05-22.14.04:434][897]BlueprintLog: New page: Compile BP_CandyKart
+[2024.08.05-22.14.04:559][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.08.05-22.14.04:924][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.14.05:136][897]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart
+[2024.08.05-22.14.05:137][897]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_CandyKartFFEAC1B4445A1BFAC95DC78436058262.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_CandyKart.uasset'
+[2024.08.05-22.14.05:180][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 256 ms (total: 32.0 sec)
+[2024.08.05-22.14.05:184][897]AssetCheck: New page: Asset Save: BP_CandyKart
+[2024.08.05-22.14.05:184][897]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart.BP_CandyKart
+[2024.08.05-22.14.56:687][101]BlueprintLog: New page: Compile BP_CandyKart
+[2024.08.05-22.14.56:808][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2024.08.05-22.14.57:180][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.14.57:391][101]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart
+[2024.08.05-22.14.57:392][101]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_CandyKart1E68C41242115187FA11CBBF57E5CF0F.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_CandyKart.uasset'
+[2024.08.05-22.14.57:427][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 247 ms (total: 32.3 sec)
+[2024.08.05-22.14.57:430][101]AssetCheck: New page: Asset Save: BP_CandyKart
+[2024.08.05-22.14.57:430][101]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart.BP_CandyKart
+[2024.08.05-22.15.31:419][901]BlueprintLog: New page: Compile BP_CandyKart
+[2024.08.05-22.15.31:525][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.08.05-22.15.31:850][901]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.15.32:066][901]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart
+[2024.08.05-22.15.32:067][901]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_CandyKart263531B2423BE5BB716B618658E02C78.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_CandyKart.uasset'
+[2024.08.05-22.15.32:110][901]LogFileHelpers: InternalPromptForCheckoutAndSave took 258 ms (total: 32.5 sec)
+[2024.08.05-22.15.32:120][901]AssetCheck: New page: Asset Save: BP_CandyKart
+[2024.08.05-22.15.32:120][901]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart.BP_CandyKart
+[2024.08.05-22.15.53:134][310]BlueprintLog: New page: Compile BP_CandyKart
+[2024.08.05-22.15.53:245][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2024.08.05-22.15.53:609][310]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.15.53:844][310]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart
+[2024.08.05-22.15.53:844][310]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_CandyKart660C67824D7EF61388FB8AA50511F6B0.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_CandyKart.uasset'
+[2024.08.05-22.15.53:888][310]LogFileHelpers: InternalPromptForCheckoutAndSave took 279 ms (total: 32.8 sec)
+[2024.08.05-22.15.53:893][310]AssetCheck: New page: Asset Save: BP_CandyKart
+[2024.08.05-22.15.53:893][310]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart.BP_CandyKart
+[2024.08.05-22.19.54:078][146]BlueprintLog: New page: Compile BP_CandyKart
+[2024.08.05-22.19.54:165][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.08.05-22.19.54:415][146]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.19.54:569][146]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart
+[2024.08.05-22.19.54:570][146]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_CandyKartB2D48A4D47EF001DC126F8A21664A93B.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_CandyKart.uasset'
+[2024.08.05-22.19.54:592][146]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 33.0 sec)
+[2024.08.05-22.19.54:595][146]AssetCheck: New page: Asset Save: BP_CandyKart
+[2024.08.05-22.19.54:595][146]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart.BP_CandyKart
+[2024.08.05-22.20.44:181][738]LogDerivedDataCache: C:/Users/Trevor Hicks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.118 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4244 files in 5974 folders with total size 565 MiB.
+[2024.08.05-22.21.12:313][517]LogSlate: External Image Picker: DecompressImage failed
+[2024.08.05-22.22.12:919][287]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.08.05-22.22.12:954][287]LogContentBrowser: Creating deferred item: NewFolder
+[2024.08.05-22.22.12:981][288]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.08.05-22.22.17:093][486]LogContentBrowser: Attempting asset rename: NewFolder -> InputActions
+[2024.08.05-22.22.17:094][486]LogContentBrowser: End creating deferred item NewFolder
+[2024.08.05-22.22.24:525][652]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2024.08.05-22.22.24:556][652]LogContentBrowser: Creating deferred item: NewInputAction
+[2024.08.05-22.22.24:626][654]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2024.08.05-22.22.31:887][949]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_PauseGame
+[2024.08.05-22.22.31:889][949]LogContentBrowser: End creating deferred item NewInputAction
+[2024.08.05-22.22.33:033][  0]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/InputActions/IA_PauseGame.IA_PauseGame
+[2024.08.05-22.22.50:635][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.22.50:788][ 95]LogSavePackage: Moving output files for package: /Game/InputActions/IA_PauseGame
+[2024.08.05-22.22.50:788][ 95]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/IA_PauseGameCD03EEF54EA4756D95D806BD582A81AD.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/InputActions/IA_PauseGame.uasset'
+[2024.08.05-22.22.50:877][ 95]LogFileHelpers: InternalPromptForCheckoutAndSave took 241 ms (total: 33.2 sec)
+[2024.08.05-22.22.50:877][ 95]AssetCheck: New page: Asset Save: IA_PauseGame
+[2024.08.05-22.22.50:878][ 95]LogContentValidation: Display: Validating /Script/EnhancedInput.InputAction /Game/InputActions/IA_PauseGame.IA_PauseGame
+[2024.08.05-22.23.02:117][371]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/InputActions/IA_PauseGame.IA_PauseGame
+[2024.08.05-22.23.15:834][554]LogSlate: External Image Picker: DecompressImage failed
+[2024.08.05-22.24.20:408][369]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_16.svg'. File could not be found
+[2024.08.05-22.25.21:037][995]BlueprintLog: New page: Compile BP_CandyKart
+[2024.08.05-22.25.21:148][995]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2024.08.05-22.25.21:439][995]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.25.21:621][995]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart
+[2024.08.05-22.25.21:622][995]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_CandyKart1E058E13438BB0C4283D8A9AEA2A3853.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_CandyKart.uasset'
+[2024.08.05-22.25.21:653][995]LogFileHelpers: InternalPromptForCheckoutAndSave took 213 ms (total: 33.4 sec)
+[2024.08.05-22.25.21:656][995]AssetCheck: New page: Asset Save: BP_CandyKart
+[2024.08.05-22.25.21:656][995]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart.BP_CandyKart
+[2024.08.05-22.27.04:150][964]BlueprintLog: New page: Compile BP_CandyKart
+[2024.08.05-22.27.04:292][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.08.05-22.27.04:728][964]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.27.04:971][964]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart
+[2024.08.05-22.27.04:972][964]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_CandyKart18ADF62143057102F437F38FE1F18324.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_CandyKart.uasset'
+[2024.08.05-22.27.05:011][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 283 ms (total: 33.7 sec)
+[2024.08.05-22.27.05:015][964]AssetCheck: New page: Asset Save: BP_CandyKart
+[2024.08.05-22.27.05:015][964]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart.BP_CandyKart
+[2024.08.05-22.27.18:986][390]BlueprintLog: New page: Compile BP_CandyKart
+[2024.08.05-22.27.19:110][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.08.05-22.27.19:519][390]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.27.19:731][390]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart
+[2024.08.05-22.27.19:733][390]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_CandyKart9B1BC1DC42690F65E8089187BBD45D6C.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_CandyKart.uasset'
+[2024.08.05-22.27.19:775][390]LogFileHelpers: InternalPromptForCheckoutAndSave took 256 ms (total: 34.0 sec)
+[2024.08.05-22.27.19:778][390]AssetCheck: New page: Asset Save: BP_CandyKart
+[2024.08.05-22.27.19:778][390]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart.BP_CandyKart
+[2024.08.05-22.28.01:213][297]BlueprintLog: New page: Compile BP_CandyKart
+[2024.08.05-22.28.01:317][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2024.08.05-22.28.01:705][297]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.28.01:880][297]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart
+[2024.08.05-22.28.01:880][297]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_CandyKart528E4C454CA1EEAE7FE45FAD5CB51590.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_CandyKart.uasset'
+[2024.08.05-22.28.01:912][297]LogFileHelpers: InternalPromptForCheckoutAndSave took 207 ms (total: 34.2 sec)
+[2024.08.05-22.28.01:924][297]AssetCheck: New page: Asset Save: BP_CandyKart
+[2024.08.05-22.28.01:924][297]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart.BP_CandyKart
+[2024.08.05-22.28.40:536][725]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.08.05-22.28.40:545][725]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CandyRushGrandPrix/Levels/CottonCandySkies' took 0.039
+[2024.08.05-22.28.40:546][725]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CandyRushGrandPrix/Blueprints/BP_CandyKart] ([2] browsable assets)...
+[2024.08.05-22.28.40:573][725]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart.BP_CandyKart]
+[2024.08.05-22.28.40:573][725]OBJ SavePackage: Finished generating thumbnails for package [/Game/CandyRushGrandPrix/Blueprints/BP_CandyKart]
+[2024.08.05-22.28.40:644][725]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CandyRushGrandPrix/Blueprints/BP_CandyKart_Auto5
+[2024.08.05-22.28.40:644][725]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_CandyKart_Auto5D5F7AC7F4FCC0BBFC4069F804C6C839C.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/Autosaves/Game/CandyRushGrandPrix/Blueprints/BP_CandyKart_Auto5.uasset'
+[2024.08.05-22.28.40:645][725]LogFileHelpers: Auto-saving content packages took 0.100
+[2024.08.05-22.29.16:656][289]BlueprintLog: New page: Compile BP_CandyKart
+[2024.08.05-22.29.16:760][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.08.05-22.29.17:151][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.29.17:379][289]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart
+[2024.08.05-22.29.17:380][289]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_CandyKart240A1FF34952552184A2B289C8E13228.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_CandyKart.uasset'
+[2024.08.05-22.29.17:422][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 272 ms (total: 34.4 sec)
+[2024.08.05-22.29.17:435][289]AssetCheck: New page: Asset Save: BP_CandyKart
+[2024.08.05-22.29.17:435][289]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart.BP_CandyKart
+[2024.08.05-22.29.51:912][825]BlueprintLog: New page: Compile BP_CandyKart
+[2024.08.05-22.29.52:023][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.08.05-22.29.52:453][825]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.29.52:679][825]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart
+[2024.08.05-22.29.52:680][825]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_CandyKartA1A03A0940EF842E937B0297A8FE758D.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_CandyKart.uasset'
+[2024.08.05-22.29.52:724][825]LogFileHelpers: InternalPromptForCheckoutAndSave took 270 ms (total: 34.7 sec)
+[2024.08.05-22.29.52:727][825]AssetCheck: New page: Asset Save: BP_CandyKart
+[2024.08.05-22.29.52:727][825]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart.BP_CandyKart
+[2024.08.05-22.29.54:787][860]BlueprintLog: New page: Compile BP_CandyKart
+[2024.08.05-22.29.54:892][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.08.05-22.29.55:325][860]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.29.55:534][860]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart
+[2024.08.05-22.29.55:534][860]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_CandyKart5FC763A74FE93817CD63868A4D1F83E7.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_CandyKart.uasset'
+[2024.08.05-22.29.55:575][860]LogFileHelpers: InternalPromptForCheckoutAndSave took 249 ms (total: 35.0 sec)
+[2024.08.05-22.29.55:578][860]AssetCheck: New page: Asset Save: BP_CandyKart
+[2024.08.05-22.29.55:578][860]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart.BP_CandyKart
+[2024.08.05-22.31.33:601][297]BlueprintLog: New page: Compile BP_CandyKart
+[2024.08.05-22.31.33:705][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.08.05-22.31.34:099][297]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.31.34:295][297]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart
+[2024.08.05-22.31.34:296][297]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_CandyKart7FB3FC264C447BFDA4F033AFE35C0D06.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_CandyKart.uasset'
+[2024.08.05-22.31.34:334][297]LogFileHelpers: InternalPromptForCheckoutAndSave took 235 ms (total: 35.2 sec)
+[2024.08.05-22.31.34:335][297]AssetCheck: New page: Asset Save: BP_CandyKart
+[2024.08.05-22.31.34:335][297]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart.BP_CandyKart
+[2024.08.05-22.31.40:174][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.08.05-22.31.40:185][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.31.40:387][514]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart
+[2024.08.05-22.31.40:388][514]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_CandyKart51162E2E41EFC6077667F4B613C7780B.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_CandyKart.uasset'
+[2024.08.05-22.31.40:430][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 244 ms (total: 35.4 sec)
+[2024.08.05-22.31.40:435][514]AssetCheck: New page: Asset Save: BP_CandyKart
+[2024.08.05-22.31.40:435][514]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart.BP_CandyKart
+[2024.08.05-22.33.37:478][356]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2024.08.05-22.33.37:532][356]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.054 s
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: === Handled ensure: ===
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: 
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid  [File:D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPin.cpp] [Line: 914] 
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: The Graph Pin Object has been invalidated. Someone is keeping a hard ref on the SGraphPin (SGraphPinKnot [SGraphNodeKnot.cpp(428)]). See InvalidateGraphData for more info
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: Stack: 
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: [Callstack] 0x00007ff952e1f0f1 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: [Callstack] 0x00007ff952d34e08 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: [Callstack] 0x00007ff952e1c706 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: [Callstack] 0x00007ff952bbcee2 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: [Callstack] 0x00007ff952db6334 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: [Callstack] 0x00007ff952db40f5 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d45266a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d451ad1 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: [Callstack] 0x00007ff95dbda560 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d451ad1 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d451ad1 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: [Callstack] 0x00007ff95dbda374 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d45266a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d4566f2 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d4527ab UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d451ad1 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:532][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d4566f2 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95dbdeac1 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d451ad1 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d4566f2 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95dbdeac1 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d451ad1 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d4566f2 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95dbdeac1 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d45266a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d4566f2 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d4527ab UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d45266a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d451ad1 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d4566f2 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d4527ab UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d451ad1 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d451ad1 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95dbda374 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d45266a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d4566f2 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d4527ab UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d451ad1 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d4566f2 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95dbdeac1 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d45266a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d4566f2 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d4527ab UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d45266a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d451ad1 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d4566f2 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d4527ab UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d4566f2 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d4527ab UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d45266a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d451ad1 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d455925 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d486892 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d2881bc UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d486c80 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d88f615 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d8b518e UnrealEditor-Slate.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d88fc61 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d8d7514 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff95d8d6be2 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff7a9619d0f UnrealEditor.exe!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: [Callstack] 0x00007ff7a963d28c UnrealEditor.exe!UnknownFunction []
+[2024.08.05-22.33.37:533][356]LogOutputDevice: Error: 
+[2024.08.05-22.33.37:542][356]LogStats:                SubmitErrorReport -  0.000 s
+[2024.08.05-22.33.38:286][356]LogStats:                    SendNewReport -  0.744 s
+[2024.08.05-22.33.38:286][356]LogStats:             FDebug::EnsureFailed -  0.809 s
+[2024.08.05-22.33.50:267][636]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.33.50:337][636]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2024.08.05-22.33.50:920][636]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.33.51:092][636]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.33.51:093][636]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenuABAFA14142C3F31C0138B796F40AE980.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.33.51:146][636]LogFileHelpers: InternalPromptForCheckoutAndSave took 225 ms (total: 35.7 sec)
+[2024.08.05-22.33.51:148][636]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.33.51:148][636]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.34.57:456][ 50]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.34.57:470][ 50]LogBlueprint: Warning: [AssetLog] C:\Users\Trevor Hicks\Desktop\Neumont College\Third Year\Summer 2024\Capstone\Content\CandyRushGrandPrix\UI\WBP_PauseMenu.uasset: [Compiler] 'BP Candy Kart' does not inherit from 'Character' ( Cast To BP_CandyKart  would always fail).
+[2024.08.05-22.34.57:505][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.08.05-22.34.57:565][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.34.57:729][ 50]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.34.57:730][ 50]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenuFFB0FDCD4384FFACA7C43D8A489BA827.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.34.57:789][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 223 ms (total: 35.9 sec)
+[2024.08.05-22.34.57:792][ 50]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.34.57:792][ 50]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.35.01:587][126]BlueprintLog: New page: Compile BP_CandyKart
+[2024.08.05-22.35.01:730][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.08.05-22.35.02:351][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.35.02:586][126]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart
+[2024.08.05-22.35.02:587][126]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_CandyKartBFD66E4541178E998F683FB66CEDFA4D.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_CandyKart.uasset'
+[2024.08.05-22.35.02:631][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 280 ms (total: 36.2 sec)
+[2024.08.05-22.35.02:634][126]AssetCheck: New page: Asset Save: BP_CandyKart
+[2024.08.05-22.35.02:634][126]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart.BP_CandyKart
+[2024.08.05-22.35.06:595][185]BlueprintLog: New page: Compile BP_CandyKart
+[2024.08.05-22.35.06:688][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.08.05-22.35.07:034][185]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.35.07:240][185]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart
+[2024.08.05-22.35.07:241][185]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_CandyKart2F35C505482E5843219654A35887DE5A.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_CandyKart.uasset'
+[2024.08.05-22.35.07:284][185]LogFileHelpers: InternalPromptForCheckoutAndSave took 249 ms (total: 36.4 sec)
+[2024.08.05-22.35.07:286][185]AssetCheck: New page: Asset Save: BP_CandyKart
+[2024.08.05-22.35.07:286][185]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart.BP_CandyKart
+[2024.08.05-22.35.41:586][296]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.35.41:603][296]LogBlueprint: Warning: [AssetLog] C:\Users\Trevor Hicks\Desktop\Neumont College\Third Year\Summer 2024\Capstone\Content\CandyRushGrandPrix\UI\WBP_PauseMenu.uasset: [Compiler] 'BP Candy Kart' does not inherit from 'Character' ( Cast To BP_CandyKart  would always fail).
+[2024.08.05-22.35.41:665][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.08.05-22.35.42:302][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.35.42:476][296]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.35.42:477][296]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenuED2C2FC841FE3ED4B49E4C80E5C9E9D0.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.35.42:515][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 213 ms (total: 36.6 sec)
+[2024.08.05-22.35.42:518][296]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.35.42:518][296]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.36.01:766][770]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.36.01:770][770]LogBlueprint: Warning: [AssetLog] C:\Users\Trevor Hicks\Desktop\Neumont College\Third Year\Summer 2024\Capstone\Content\CandyRushGrandPrix\UI\WBP_PauseMenu.uasset: [Compiler] 'BP Candy Kart' does not inherit from 'Player Controller' ( Cast To BP_CandyKart  would always fail).
+[2024.08.05-22.36.01:810][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.08.05-22.36.01:879][770]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.36.02:006][770]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.36.02:006][770]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenuF9571A73438F45CB07B864BF3A73B9C0.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.36.02:026][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 36.8 sec)
+[2024.08.05-22.36.02:028][770]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.36.02:029][770]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.36.35:726][ 74]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.36.35:732][ 74]LogBlueprint: Error: [AssetLog] C:\Users\Trevor Hicks\Desktop\Neumont College\Third Year\Summer 2024\Capstone\Content\CandyRushGrandPrix\UI\WBP_PauseMenu.uasset: [Compiler] This blueprint (self) is not a BP_CandyKart_C, therefore ' Target ' must have a connection.
+[2024.08.05-22.36.35:732][ 74]LogBlueprint: Error: [AssetLog] C:\Users\Trevor Hicks\Desktop\Neumont College\Third Year\Summer 2024\Capstone\Content\CandyRushGrandPrix\UI\WBP_PauseMenu.uasset: [Compiler] Variable node  Set isPauseOpen?  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.08.05-22.36.35:774][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.08.05-22.36.35:856][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.36.35:994][ 74]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.36.35:995][ 74]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenuFF6EF9624E43CC7A6FEDD09AB302BB60.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.36.36:016][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 36.9 sec)
+[2024.08.05-22.36.36:017][ 74]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.36.36:018][ 74]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.37.25:158][689]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.37.25:210][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.08.05-22.37.25:305][689]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.37.25:424][689]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.37.25:425][689]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenu361A11CD4BC3B4EDE1DB55A8C1BD4C5A.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.37.25:446][689]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 37.1 sec)
+[2024.08.05-22.37.25:448][689]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.37.25:448][689]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.37.31:310][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.08.05-22.37.31:317][952]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.37.31:414][952]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.37.31:415][952]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenu0B046CB64171BDF44725308888CB1732.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.37.31:450][952]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 37.2 sec)
+[2024.08.05-22.37.31:452][952]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.37.31:452][952]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.37.36:140][149]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.05-22.37.36:155][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.05-22.37.36:156][149]PIE: New page: PIE session: CottonCandySkies (Aug 5, 2024, 10:37:36 AM)
+[2024.08.05-22.37.36:158][149]LogPlayLevel: Creating play world package: /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies
+[2024.08.05-22.37.36:229][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070769s)
+[2024.08.05-22.37.36:229][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CandyRushGrandPrix/Levels/CottonCandySkies.CottonCandySkies to /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies.CottonCandySkies (0.070858s)
+[2024.08.05-22.37.36:252][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.08.05-22.37.36:257][149]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.05-22.37.36:258][149]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.05-22.37.36:258][149]LogAIModule: Creating AISystem for world CottonCandySkies
+[2024.08.05-22.37.36:259][149]LogPlayLevel: PIE: World Init took: (0.001941s)
+[2024.08.05-22.37.36:259][149]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.08.05-22.37.36:259][149]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.05-22.37.36:259][149]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.05-22.37.36:259][149]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.05-22.37.36:259][149]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.05-22.37.36:259][149]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.08.05-22.37.36:259][149]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.05-22.37.36:259][149]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.08.05-22.37.36:259][149]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.05-22.37.36:260][149]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.05-22.37.36:260][149]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.05-22.37.36:260][149]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.05-22.37.36:263][149]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.05-22.37.36:295][149]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- MUZ3007)
+[2024.08.05-22.37.36:295][149]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.05-22.37.36:296][149]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.05-22.37.36:296][149]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.05-22.37.36:297][149]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.08.05-22.37.36:297][149]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.08.05-22.37.36:300][149]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.08.05-22.37.36:300][149]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.08.05-22.37.36:300][149]LogInit: FAudioDevice initialized with ID 20.
+[2024.08.05-22.37.36:300][149]LogAudio: Display: Audio Device (ID: 20) registered with world 'CottonCandySkies'.
+[2024.08.05-22.37.36:300][149]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.08.05-22.37.36:310][149]LogLoad: Game class is 'GM_RacingGame_C'
+[2024.08.05-22.37.36:320][149]LogWorld: Bringing World /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies.CottonCandySkies up for play (max tick rate 60) at 2024.08.05-16.37.36
+[2024.08.05-22.37.36:320][149]LogWorld: Bringing up level for play took: 0.010632
+[2024.08.05-22.37.36:324][149]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2024.08.05-22.37.36:334][149]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.08.05-22.37.36:334][149]LogPlayerManagement: Error: AsyncLoadOrCreateSaveGame called with empty slot name!
+[2024.08.05-22.37.36:334][149]PIE: Server logged in
+[2024.08.05-22.37.36:335][149]PIE: Play in editor total start time 0.18 seconds.
+[2024.08.05-22.37.38:117][253]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Willy_Wonka_s_Cotton_Candy_Dream'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.08.05-22.37.43:573][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.05-22.37.43:573][579]LogWorld: BeginTearingDown for /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies
+[2024.08.05-22.37.43:574][579]LogWorld: UWorld::CleanupWorld for CottonCandySkies, bSessionEnded=true, bCleanupResources=true
+[2024.08.05-22.37.43:574][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.05-22.37.43:579][579]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.05-22.37.43:584][579]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.05-22.37.43:603][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.05-22.37.43:604][579]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.08.05-22.37.43:604][579]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.08.05-22.37.43:606][579]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.08.05-22.37.43:614][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.08.05-22.37.43:657][580]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2024.08.05-22.39.20:174][ 24]BlueprintLog: New page: Compile BP_CandyKart
+[2024.08.05-22.39.20:266][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.08.05-22.39.20:644][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.39.20:814][ 24]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart
+[2024.08.05-22.39.20:815][ 24]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_CandyKart29B196324013AAC83AE331919D36F64B.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_CandyKart.uasset'
+[2024.08.05-22.39.20:837][ 24]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 37.4 sec)
+[2024.08.05-22.39.20:840][ 24]AssetCheck: New page: Asset Save: BP_CandyKart
+[2024.08.05-22.39.20:840][ 24]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart.BP_CandyKart
+[2024.08.05-22.39.23:823][129]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.05-22.39.23:837][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.05-22.39.23:837][129]PIE: New page: PIE session: CottonCandySkies (Aug 5, 2024, 10:39:23 AM)
+[2024.08.05-22.39.23:837][129]LogPlayLevel: Creating play world package: /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies
+[2024.08.05-22.39.23:900][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063952s)
+[2024.08.05-22.39.23:900][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CandyRushGrandPrix/Levels/CottonCandySkies.CottonCandySkies to /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies.CottonCandySkies (0.064019s)
+[2024.08.05-22.39.23:927][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.08.05-22.39.23:934][129]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.05-22.39.23:934][129]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.05-22.39.23:935][129]LogAIModule: Creating AISystem for world CottonCandySkies
+[2024.08.05-22.39.23:936][129]LogPlayLevel: PIE: World Init took: (0.001895s)
+[2024.08.05-22.39.23:936][129]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.08.05-22.39.23:936][129]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.05-22.39.23:936][129]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.05-22.39.23:936][129]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.05-22.39.23:936][129]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.05-22.39.23:936][129]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.08.05-22.39.23:936][129]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.05-22.39.23:936][129]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.08.05-22.39.23:936][129]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.05-22.39.23:937][129]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.05-22.39.23:937][129]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.05-22.39.23:937][129]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.05-22.39.23:940][129]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.05-22.39.23:967][129]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- MUZ3007)
+[2024.08.05-22.39.23:968][129]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.05-22.39.23:968][129]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.05-22.39.23:968][129]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.05-22.39.23:969][129]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.08.05-22.39.23:969][129]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.08.05-22.39.23:972][129]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.08.05-22.39.23:972][129]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.08.05-22.39.23:972][129]LogInit: FAudioDevice initialized with ID 21.
+[2024.08.05-22.39.23:972][129]LogAudio: Display: Audio Device (ID: 21) registered with world 'CottonCandySkies'.
+[2024.08.05-22.39.23:972][129]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.08.05-22.39.23:975][129]LogLoad: Game class is 'GM_RacingGame_C'
+[2024.08.05-22.39.23:984][129]LogWorld: Bringing World /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies.CottonCandySkies up for play (max tick rate 60) at 2024.08.05-16.39.23
+[2024.08.05-22.39.23:985][129]LogWorld: Bringing up level for play took: 0.009367
+[2024.08.05-22.39.23:988][129]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2024.08.05-22.39.23:994][129]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.08.05-22.39.23:994][129]LogPlayerManagement: Error: AsyncLoadOrCreateSaveGame called with empty slot name!
+[2024.08.05-22.39.23:995][129]PIE: Server logged in
+[2024.08.05-22.39.23:996][129]PIE: Play in editor total start time 0.159 seconds.
+[2024.08.05-22.39.25:807][236]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Willy_Wonka_s_Cotton_Candy_Dream'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.08.05-22.39.28:865][419]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property PauseMenuWidget". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Candy Kart Blueprint:  BP_CandyKart
+[2024.08.05-22.39.29:576][462]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.08.05-22.39.29:576][462]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.08.05-22.39.29:576][462]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.08.05-22.39.36:193][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.05-22.39.36:193][857]LogWorld: BeginTearingDown for /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies
+[2024.08.05-22.39.36:194][857]LogWorld: UWorld::CleanupWorld for CottonCandySkies, bSessionEnded=true, bCleanupResources=true
+[2024.08.05-22.39.36:194][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.05-22.39.36:198][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.05-22.39.36:204][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.05-22.39.36:222][857]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.05-22.39.36:223][857]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.08.05-22.39.36:223][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.08.05-22.39.36:224][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.08.05-22.39.36:228][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.05-22.39.36:231][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.08.05-22.39.36:459][858]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2024.08.05-22.39.43:560][926]LogSlate: Window 'Message Log' being destroyed
+[2024.08.05-22.39.43:700][926]LogSlate: Window 'Message Log' being destroyed
+[2024.08.05-22.40.11:613][442]BlueprintLog: New page: Compile BP_CandyKart
+[2024.08.05-22.40.11:699][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.08.05-22.40.12:090][442]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.40.12:305][442]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart
+[2024.08.05-22.40.12:306][442]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_CandyKartED1DC0FB47713A91227DB7B7A853877B.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_CandyKart.uasset'
+[2024.08.05-22.40.12:348][442]LogFileHelpers: InternalPromptForCheckoutAndSave took 256 ms (total: 37.7 sec)
+[2024.08.05-22.40.12:350][442]AssetCheck: New page: Asset Save: BP_CandyKart
+[2024.08.05-22.40.12:350][442]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart.BP_CandyKart
+[2024.08.05-22.40.15:019][490]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.05-22.40.15:034][490]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.05-22.40.15:034][490]PIE: New page: PIE session: CottonCandySkies (Aug 5, 2024, 10:40:15 AM)
+[2024.08.05-22.40.15:035][490]LogPlayLevel: Creating play world package: /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies
+[2024.08.05-22.40.15:104][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070426s)
+[2024.08.05-22.40.15:104][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CandyRushGrandPrix/Levels/CottonCandySkies.CottonCandySkies to /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies.CottonCandySkies (0.070481s)
+[2024.08.05-22.40.15:130][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2024.08.05-22.40.15:140][490]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.05-22.40.15:140][490]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.05-22.40.15:142][490]LogAIModule: Creating AISystem for world CottonCandySkies
+[2024.08.05-22.40.15:143][490]LogPlayLevel: PIE: World Init took: (0.001643s)
+[2024.08.05-22.40.15:143][490]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.08.05-22.40.15:143][490]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.05-22.40.15:143][490]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.05-22.40.15:143][490]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.05-22.40.15:143][490]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.05-22.40.15:143][490]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.08.05-22.40.15:143][490]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.05-22.40.15:143][490]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.08.05-22.40.15:143][490]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.05-22.40.15:143][490]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.05-22.40.15:143][490]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.05-22.40.15:143][490]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.05-22.40.15:147][490]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.05-22.40.15:178][490]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- MUZ3007)
+[2024.08.05-22.40.15:178][490]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.05-22.40.15:178][490]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.05-22.40.15:178][490]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.05-22.40.15:180][490]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.08.05-22.40.15:180][490]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.08.05-22.40.15:182][490]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.08.05-22.40.15:182][490]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.08.05-22.40.15:182][490]LogInit: FAudioDevice initialized with ID 22.
+[2024.08.05-22.40.15:182][490]LogAudio: Display: Audio Device (ID: 22) registered with world 'CottonCandySkies'.
+[2024.08.05-22.40.15:182][490]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.08.05-22.40.15:186][490]LogLoad: Game class is 'GM_RacingGame_C'
+[2024.08.05-22.40.15:195][490]LogWorld: Bringing World /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies.CottonCandySkies up for play (max tick rate 60) at 2024.08.05-16.40.15
+[2024.08.05-22.40.15:196][490]LogWorld: Bringing up level for play took: 0.009767
+[2024.08.05-22.40.15:199][490]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2024.08.05-22.40.15:206][490]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.08.05-22.40.15:207][490]LogPlayerManagement: Error: AsyncLoadOrCreateSaveGame called with empty slot name!
+[2024.08.05-22.40.15:207][490]PIE: Server logged in
+[2024.08.05-22.40.15:208][490]PIE: Play in editor total start time 0.174 seconds.
+[2024.08.05-22.40.16:960][549]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Willy_Wonka_s_Cotton_Candy_Dream'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.08.05-22.40.21:371][807]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.08.05-22.40.21:371][807]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.08.05-22.40.21:371][807]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.08.05-22.40.24:392][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.05-22.40.24:392][987]LogWorld: BeginTearingDown for /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies
+[2024.08.05-22.40.24:393][987]LogWorld: UWorld::CleanupWorld for CottonCandySkies, bSessionEnded=true, bCleanupResources=true
+[2024.08.05-22.40.24:394][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.05-22.40.24:398][987]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.05-22.40.24:404][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.05-22.40.24:420][987]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.05-22.40.24:420][987]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.08.05-22.40.24:420][987]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.08.05-22.40.24:422][987]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.08.05-22.40.24:425][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.05-22.40.24:430][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.08.05-22.40.24:474][989]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2024.08.05-22.40.49:026][ 91]BlueprintLog: New page: Compile BP_CandyKart
+[2024.08.05-22.40.49:123][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.08.05-22.40.49:534][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.40.49:742][ 91]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart
+[2024.08.05-22.40.49:744][ 91]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_CandyKartC614384E4E9FE51D344C33A5D7177D74.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_CandyKart.uasset'
+[2024.08.05-22.40.49:785][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 249 ms (total: 37.9 sec)
+[2024.08.05-22.40.49:787][ 91]AssetCheck: New page: Asset Save: BP_CandyKart
+[2024.08.05-22.40.49:787][ 91]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart.BP_CandyKart
+[2024.08.05-22.40.55:697][194]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.05-22.40.55:710][194]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.05-22.40.55:710][194]PIE: New page: PIE session: CottonCandySkies (Aug 5, 2024, 10:40:55 AM)
+[2024.08.05-22.40.55:712][194]LogPlayLevel: Creating play world package: /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies
+[2024.08.05-22.40.55:775][194]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063681s)
+[2024.08.05-22.40.55:775][194]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CandyRushGrandPrix/Levels/CottonCandySkies.CottonCandySkies to /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies.CottonCandySkies (0.063739s)
+[2024.08.05-22.40.55:801][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.08.05-22.40.55:810][194]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.05-22.40.55:810][194]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.05-22.40.55:811][194]LogAIModule: Creating AISystem for world CottonCandySkies
+[2024.08.05-22.40.55:811][194]LogPlayLevel: PIE: World Init took: (0.001462s)
+[2024.08.05-22.40.55:812][194]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.08.05-22.40.55:812][194]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.05-22.40.55:812][194]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.05-22.40.55:812][194]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.05-22.40.55:812][194]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.05-22.40.55:812][194]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.08.05-22.40.55:812][194]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.05-22.40.55:812][194]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.08.05-22.40.55:812][194]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.05-22.40.55:812][194]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.05-22.40.55:812][194]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.05-22.40.55:812][194]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.05-22.40.55:815][194]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.05-22.40.55:842][194]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- MUZ3007)
+[2024.08.05-22.40.55:843][194]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.05-22.40.55:843][194]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.05-22.40.55:843][194]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.05-22.40.55:844][194]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.08.05-22.40.55:844][194]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.08.05-22.40.55:847][194]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.08.05-22.40.55:847][194]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.08.05-22.40.55:847][194]LogInit: FAudioDevice initialized with ID 23.
+[2024.08.05-22.40.55:847][194]LogAudio: Display: Audio Device (ID: 23) registered with world 'CottonCandySkies'.
+[2024.08.05-22.40.55:847][194]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.08.05-22.40.55:850][194]LogLoad: Game class is 'GM_RacingGame_C'
+[2024.08.05-22.40.55:861][194]LogWorld: Bringing World /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies.CottonCandySkies up for play (max tick rate 60) at 2024.08.05-16.40.55
+[2024.08.05-22.40.55:861][194]LogWorld: Bringing up level for play took: 0.009600
+[2024.08.05-22.40.55:864][194]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2024.08.05-22.40.55:870][194]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.08.05-22.40.55:870][194]LogPlayerManagement: Error: AsyncLoadOrCreateSaveGame called with empty slot name!
+[2024.08.05-22.40.55:870][194]PIE: Server logged in
+[2024.08.05-22.40.55:872][194]PIE: Play in editor total start time 0.161 seconds.
+[2024.08.05-22.40.57:638][251]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Willy_Wonka_s_Cotton_Candy_Dream'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.08.05-22.41.01:895][494]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.08.05-22.41.01:895][494]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.08.05-22.41.01:895][494]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.08.05-22.41.05:472][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.05-22.41.05:472][706]LogWorld: BeginTearingDown for /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies
+[2024.08.05-22.41.05:472][706]LogWorld: UWorld::CleanupWorld for CottonCandySkies, bSessionEnded=true, bCleanupResources=true
+[2024.08.05-22.41.05:473][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.05-22.41.05:477][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.05-22.41.05:484][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.05-22.41.05:500][706]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.05-22.41.05:502][706]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.08.05-22.41.05:502][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.08.05-22.41.05:504][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.08.05-22.41.05:507][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.05-22.41.05:510][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.08.05-22.41.05:540][707]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2024.08.05-22.41.40:990][917]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.41.41:035][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.08.05-22.41.41:425][917]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.41.41:572][917]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.41.41:572][917]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenu5F8DCECC4ED86AE9030A9AB34678084C.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.41.41:621][917]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 38.1 sec)
+[2024.08.05-22.41.41:623][917]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.41.41:623][917]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.41.44:071][964]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.05-22.41.44:081][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.05-22.41.44:081][964]PIE: New page: PIE session: CottonCandySkies (Aug 5, 2024, 10:41:44 AM)
+[2024.08.05-22.41.44:082][964]LogPlayLevel: Creating play world package: /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies
+[2024.08.05-22.41.44:125][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042813s)
+[2024.08.05-22.41.44:125][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CandyRushGrandPrix/Levels/CottonCandySkies.CottonCandySkies to /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies.CottonCandySkies (0.042864s)
+[2024.08.05-22.41.44:145][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.08.05-22.41.44:156][964]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.05-22.41.44:156][964]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.05-22.41.44:156][964]LogAIModule: Creating AISystem for world CottonCandySkies
+[2024.08.05-22.41.44:157][964]LogPlayLevel: PIE: World Init took: (0.001069s)
+[2024.08.05-22.41.44:157][964]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.08.05-22.41.44:157][964]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.05-22.41.44:157][964]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.05-22.41.44:157][964]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.05-22.41.44:157][964]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.05-22.41.44:157][964]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.08.05-22.41.44:157][964]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.05-22.41.44:157][964]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.08.05-22.41.44:157][964]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.05-22.41.44:157][964]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.05-22.41.44:157][964]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.05-22.41.44:157][964]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.05-22.41.44:159][964]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.05-22.41.44:179][964]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- MUZ3007)
+[2024.08.05-22.41.44:179][964]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.05-22.41.44:179][964]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.05-22.41.44:179][964]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.05-22.41.44:180][964]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.08.05-22.41.44:180][964]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.08.05-22.41.44:182][964]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.08.05-22.41.44:182][964]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.08.05-22.41.44:182][964]LogInit: FAudioDevice initialized with ID 24.
+[2024.08.05-22.41.44:182][964]LogAudio: Display: Audio Device (ID: 24) registered with world 'CottonCandySkies'.
+[2024.08.05-22.41.44:182][964]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.08.05-22.41.44:185][964]LogLoad: Game class is 'GM_RacingGame_C'
+[2024.08.05-22.41.44:192][964]LogWorld: Bringing World /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies.CottonCandySkies up for play (max tick rate 60) at 2024.08.05-16.41.44
+[2024.08.05-22.41.44:192][964]LogWorld: Bringing up level for play took: 0.006426
+[2024.08.05-22.41.44:194][964]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2024.08.05-22.41.44:199][964]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.08.05-22.41.44:199][964]LogPlayerManagement: Error: AsyncLoadOrCreateSaveGame called with empty slot name!
+[2024.08.05-22.41.44:199][964]PIE: Server logged in
+[2024.08.05-22.41.44:200][964]PIE: Play in editor total start time 0.118 seconds.
+[2024.08.05-22.41.46:027][ 24]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Willy_Wonka_s_Cotton_Candy_Dream'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.08.05-22.41.51:247][322]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.08.05-22.41.51:247][322]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.08.05-22.41.51:247][322]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.08.05-22.41.55:572][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.05-22.41.55:572][580]LogWorld: BeginTearingDown for /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies
+[2024.08.05-22.41.55:574][580]LogWorld: UWorld::CleanupWorld for CottonCandySkies, bSessionEnded=true, bCleanupResources=true
+[2024.08.05-22.41.55:574][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.05-22.41.55:579][580]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.05-22.41.55:583][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.05-22.41.55:601][580]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.05-22.41.55:603][580]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.08.05-22.41.55:603][580]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.08.05-22.41.55:605][580]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.08.05-22.41.55:608][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.05-22.41.55:613][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.08.05-22.41.55:670][582]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2024.08.05-22.42.49:260][395]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.42.49:319][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.08.05-22.42.49:660][395]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.42.49:830][395]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.42.49:832][395]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenu46B5DAE946524680418F7084B6C6324D.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.42.49:870][395]LogFileHelpers: InternalPromptForCheckoutAndSave took 210 ms (total: 38.3 sec)
+[2024.08.05-22.42.49:967][395]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.42.49:967][395]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.42.51:721][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.08.05-22.42.51:733][414]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.42.51:983][414]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart
+[2024.08.05-22.42.51:983][414]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_CandyKart3578E1054661E13B25B6CBAAC2F4B3C8.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_CandyKart.uasset'
+[2024.08.05-22.42.52:026][414]LogFileHelpers: InternalPromptForCheckoutAndSave took 293 ms (total: 38.6 sec)
+[2024.08.05-22.42.52:032][414]AssetCheck: New page: Asset Save: BP_CandyKart
+[2024.08.05-22.42.52:032][414]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart.BP_CandyKart
+[2024.08.05-22.43.53:980][790]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.43.54:042][790]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2024.08.05-22.43.54:292][790]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.43.54:446][790]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.43.54:447][790]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenuCEC5AF2D48419B53729DC3A82E6B14D5.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.43.54:476][790]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 38.8 sec)
+[2024.08.05-22.43.54:563][790]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.43.54:563][790]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.44.00:916][930]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.05-22.44.12:780][117]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.05-22.44.25:629][536]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.05-22.44.35:056][675]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.05-22.44.50:120][ 55]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.44.50:188][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.08.05-22.44.50:373][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.44.50:526][ 55]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.44.50:527][ 55]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenuDF4C3B8448BD9F6900D4AC8CA2682EAA.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.44.50:585][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 212 ms (total: 39.0 sec)
+[2024.08.05-22.44.50:656][ 55]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.44.50:656][ 55]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.44.52:585][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.08.05-22.45.37:345][573]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.45.37:415][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.08.05-22.45.37:509][573]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.45.37:648][573]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.45.37:649][573]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenuF31F78864FC27C993C6A2385B4C0FB58.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.45.37:707][573]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 39.2 sec)
+[2024.08.05-22.45.37:717][573]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.45.37:717][573]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.45.43:695][734]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.45.43:749][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.08.05-22.45.43:860][734]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.45.44:013][734]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.45.44:014][734]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenuF2F12605465013A23B1B69801C7AC037.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.45.44:053][734]LogFileHelpers: InternalPromptForCheckoutAndSave took 191 ms (total: 39.4 sec)
+[2024.08.05-22.45.44:068][734]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.45.44:068][734]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.45.45:819][753]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.08.05-22.45.47:291][788]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.05-22.45.47:302][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.05-22.45.47:302][788]PIE: New page: PIE session: CottonCandySkies (Aug 5, 2024, 10:45:47 AM)
+[2024.08.05-22.45.47:302][788]LogPlayLevel: Creating play world package: /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies
+[2024.08.05-22.45.47:347][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044701s)
+[2024.08.05-22.45.47:347][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CandyRushGrandPrix/Levels/CottonCandySkies.CottonCandySkies to /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies.CottonCandySkies (0.044749s)
+[2024.08.05-22.45.47:366][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.08.05-22.45.47:369][788]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.05-22.45.47:369][788]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.05-22.45.47:370][788]LogAIModule: Creating AISystem for world CottonCandySkies
+[2024.08.05-22.45.47:370][788]LogPlayLevel: PIE: World Init took: (0.001297s)
+[2024.08.05-22.45.47:370][788]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.08.05-22.45.47:370][788]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.05-22.45.47:370][788]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.05-22.45.47:370][788]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.05-22.45.47:370][788]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.05-22.45.47:370][788]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.08.05-22.45.47:370][788]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.05-22.45.47:370][788]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.08.05-22.45.47:370][788]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.05-22.45.47:371][788]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.05-22.45.47:371][788]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.05-22.45.47:371][788]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.05-22.45.47:373][788]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.05-22.45.47:394][788]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- MUZ3007)
+[2024.08.05-22.45.47:394][788]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.05-22.45.47:394][788]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.05-22.45.47:394][788]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.05-22.45.47:395][788]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.08.05-22.45.47:395][788]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.08.05-22.45.47:397][788]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.08.05-22.45.47:397][788]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.08.05-22.45.47:397][788]LogInit: FAudioDevice initialized with ID 25.
+[2024.08.05-22.45.47:397][788]LogAudio: Display: Audio Device (ID: 25) registered with world 'CottonCandySkies'.
+[2024.08.05-22.45.47:397][788]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.08.05-22.45.47:399][788]LogLoad: Game class is 'GM_RacingGame_C'
+[2024.08.05-22.45.47:405][788]LogWorld: Bringing World /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies.CottonCandySkies up for play (max tick rate 60) at 2024.08.05-16.45.47
+[2024.08.05-22.45.47:406][788]LogWorld: Bringing up level for play took: 0.005928
+[2024.08.05-22.45.47:407][788]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2024.08.05-22.45.47:412][788]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.08.05-22.45.47:412][788]LogPlayerManagement: Error: AsyncLoadOrCreateSaveGame called with empty slot name!
+[2024.08.05-22.45.47:412][788]PIE: Server logged in
+[2024.08.05-22.45.47:414][788]PIE: Play in editor total start time 0.112 seconds.
+[2024.08.05-22.45.49:245][849]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Willy_Wonka_s_Cotton_Candy_Dream'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.08.05-22.45.53:107][ 73]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.08.05-22.45.53:107][ 73]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.08.05-22.45.53:107][ 73]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.08.05-22.45.55:823][236]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.08.05-22.45.55:823][236]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.08.05-22.46.02:033][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.05-22.46.02:033][606]LogWorld: BeginTearingDown for /Game/CandyRushGrandPrix/Levels/UEDPIE_0_CottonCandySkies
+[2024.08.05-22.46.02:033][606]LogWorld: UWorld::CleanupWorld for CottonCandySkies, bSessionEnded=true, bCleanupResources=true
+[2024.08.05-22.46.02:044][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.05-22.46.02:048][606]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.05-22.46.02:055][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.05-22.46.02:072][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.05-22.46.02:074][606]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.08.05-22.46.02:074][606]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.08.05-22.46.02:076][606]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.08.05-22.46.02:084][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.08.05-22.46.02:121][607]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2024.08.05-22.46.10:850][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.08.05-22.47.48:218][528]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.47.48:267][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.08.05-22.47.48:693][528]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.47.48:807][528]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.47.48:808][528]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenu478DAD3A43332E1CC66FF0B46988958C.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.47.48:829][528]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 39.5 sec)
+[2024.08.05-22.47.48:830][528]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.47.48:830][528]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.50.43:231][692]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.50.43:283][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.08.05-22.50.43:369][692]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.50.43:496][692]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.50.43:496][692]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenu4D1BD81943F8FBC1D73D79979AFAEDCB.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.50.43:518][692]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 39.7 sec)
+[2024.08.05-22.50.43:520][692]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.50.43:520][692]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.52.35:357][974]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.52.35:409][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.08.05-22.52.35:502][974]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.52.35:630][974]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.52.35:630][974]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenuDE0050A64BC6B9672A3B209E7B3B6B08.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.52.35:652][974]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 39.8 sec)
+[2024.08.05-22.52.35:654][974]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.52.35:654][974]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.52.50:238][601]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.52.50:242][601]LogBlueprint: Warning: [AssetLog] C:\Users\Trevor Hicks\Desktop\Neumont College\Third Year\Summer 2024\Capstone\Content\CandyRushGrandPrix\UI\WBP_PauseMenu.uasset: [Compiler] 'WBP Options' does not inherit from 'Player Controller' ( Cast To WBP_Options  would always fail).
+[2024.08.05-22.52.50:285][601]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.08.05-22.52.50:377][601]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.52.50:509][601]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.52.50:510][601]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenuAE7F0E6448312C5EED5AEEA91A32F9D4.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.52.50:532][601]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 40.0 sec)
+[2024.08.05-22.52.50:535][601]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.52.50:535][601]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.52.57:167][919]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.05-22.53.17:474][596]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.53.17:478][596]LogBlueprint: Error: [AssetLog] C:\Users\Trevor Hicks\Desktop\Neumont College\Third Year\Summer 2024\Capstone\Content\CandyRushGrandPrix\UI\WBP_PauseMenu.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To WBP_Options  to imply a specific type.
+[2024.08.05-22.53.17:479][596]LogBlueprint: Error: [AssetLog] C:\Users\Trevor Hicks\Desktop\Neumont College\Third Year\Summer 2024\Capstone\Content\CandyRushGrandPrix\UI\WBP_PauseMenu.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2024.08.05-22.53.17:520][596]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.08.05-22.53.17:610][596]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.53.17:735][596]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.53.17:736][596]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenuD7010DAB4FB03E59F5D5E898C24C078C.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.53.17:757][596]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 40.1 sec)
+[2024.08.05-22.53.17:759][596]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.53.17:759][596]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.53.53:587][213]BlueprintLog: New page: Compile WBP_PauseMenu
+[2024.08.05-22.53.53:642][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.08.05-22.53.53:741][213]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.53.53:870][213]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-22.53.53:870][213]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenu33E99533406C1A2E2270F1B82E9621A0.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-22.53.53:892][213]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 40.3 sec)
+[2024.08.05-22.53.53:894][213]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-22.53.53:894][213]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
+[2024.08.05-22.54.57:577][848]LogSlate: Took 0.002930 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2024.08.05-22.56.32:098][ 65]BlueprintLog: New page: Compile WBP_Options
+[2024.08.05-22.56.32:202][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.08.05-22.56.32:759][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.56.32:956][ 65]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-22.56.32:957][ 65]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_OptionsA72CBA8244C6BDD1602368B2E19DEDC0.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-22.56.32:992][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 233 ms (total: 40.5 sec)
+[2024.08.05-22.56.32:996][ 65]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-22.56.32:996][ 65]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-22.56.59:878][543]LogContentBrowser: Attempting asset rename: LevelSelect -> LevelSelect
+[2024.08.05-22.56.59:973][543]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UGameplayStatics::OpenLevel' [The specified module could not be found.]
+[2024.08.05-22.58.17:042][114]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.05-22.58.41:376][678]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.05-22.58.57:190][ 94]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.05-22.59.17:033][892]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-22.59.17:235][892]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-22.59.17:236][892]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_OptionsECD50AC94C6BB14398C6AE969AF0C8A9.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-22.59.17:260][892]LogFileHelpers: InternalPromptForCheckoutAndSave took 226 ms (total: 40.8 sec)
+[2024.08.05-22.59.17:264][892]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-22.59.17:264][892]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-22.59.33:074][506]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.05-22.59.46:216][849]LogEditorTransaction: Undo Edit Top
+[2024.08.05-23.00.15:424][643]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.05-23.00.24:630][898]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.05-23.00.34:874][166]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.05-23.00.44:020][488]BlueprintLog: New page: Compile WBP_Options
+[2024.08.05-23.00.44:044][488]LogBlueprint: Error: [AssetLog] C:\Users\Trevor Hicks\Desktop\Neumont College\Third Year\Summer 2024\Capstone\Content\CandyRushGrandPrix\Blueprints\MenuBP\WBP_Options.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To Button  to imply a specific type.
+[2024.08.05-23.00.44:044][488]LogBlueprint: Error: [AssetLog] C:\Users\Trevor Hicks\Desktop\Neumont College\Third Year\Summer 2024\Capstone\Content\CandyRushGrandPrix\Blueprints\MenuBP\WBP_Options.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2024.08.05-23.00.44:102][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.08.05-23.00.44:377][488]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-23.00.44:570][488]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-23.00.44:571][488]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_Options2B068ED940347BA95EB8CE99330CEEBD.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-23.00.44:600][488]LogFileHelpers: InternalPromptForCheckoutAndSave took 222 ms (total: 41.0 sec)
+[2024.08.05-23.00.44:707][488]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-23.00.44:707][488]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-23.02.13:713][612]BlueprintLog: New page: Compile WBP_Options
+[2024.08.05-23.02.13:740][612]LogBlueprint: Error: [AssetLog] C:\Users\Trevor Hicks\Desktop\Neumont College\Third Year\Summer 2024\Capstone\Content\CandyRushGrandPrix\Blueprints\MenuBP\WBP_Options.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To WBP_PauseMenu  to imply a specific type.
+[2024.08.05-23.02.13:743][612]LogBlueprint: Error: [AssetLog] C:\Users\Trevor Hicks\Desktop\Neumont College\Third Year\Summer 2024\Capstone\Content\CandyRushGrandPrix\Blueprints\MenuBP\WBP_Options.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2024.08.05-23.02.13:814][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2024.08.05-23.02.14:384][612]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-23.02.14:618][612]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-23.02.14:618][612]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_OptionsE6C554184D9E4C8D12B8D1AFE2DDF07F.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-23.02.14:662][612]LogFileHelpers: InternalPromptForCheckoutAndSave took 279 ms (total: 41.3 sec)
+[2024.08.05-23.02.14:666][612]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-23.02.14:666][612]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-23.02.40:140][563]BlueprintLog: New page: Compile WBP_Options
+[2024.08.05-23.02.40:235][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2024.08.05-23.02.40:785][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-23.02.41:007][563]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-23.02.41:007][563]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_Options87B265FA46901AF1AB9C238C7A71E122.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-23.02.41:047][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 261 ms (total: 41.5 sec)
+[2024.08.05-23.02.41:052][563]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-23.02.41:052][563]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-23.03.45:200][828]BlueprintLog: New page: Compile WBP_Options
+[2024.08.05-23.03.45:294][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.08.05-23.03.45:797][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-23.03.46:008][828]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-23.03.46:009][828]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_Options1171B06D4D5D08FBB98DF3836CE929B0.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-23.03.46:052][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 254 ms (total: 41.8 sec)
+[2024.08.05-23.03.46:056][828]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-23.03.46:056][828]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-23.04.01:474][171]BlueprintLog: New page: Compile WBP_Options
+[2024.08.05-23.04.01:544][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.08.05-23.04.01:853][171]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-23.04.02:059][171]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-23.04.02:060][171]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_Options1CD94EB946540285865D0BB548F39999.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-23.04.02:102][171]LogFileHelpers: InternalPromptForCheckoutAndSave took 249 ms (total: 42.0 sec)
+[2024.08.05-23.04.02:104][171]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-23.04.02:104][171]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-23.04.04:207][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.08.05-23.04.04:219][193]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-23.04.04:422][193]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_PauseMenu
+[2024.08.05-23.04.04:422][193]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_PauseMenu956FF5EB4C61EBA82293B4B6A8F603C1.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/UI/WBP_PauseMenu.uasset'
+[2024.08.05-23.04.04:477][193]LogFileHelpers: InternalPromptForCheckoutAndSave took 257 ms (total: 42.3 sec)
+[2024.08.05-23.04.04:483][193]AssetCheck: New page: Asset Save: WBP_PauseMenu
+[2024.08.05-23.04.04:483][193]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_PauseMenu.WBP_PauseMenu
