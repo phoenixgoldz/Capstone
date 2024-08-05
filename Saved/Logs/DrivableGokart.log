@@ -14450,3 +14450,460 @@ Script Stack (2 frames) :
 [2024.08.05-20.47.36:874][942]LogFileHelpers: InternalPromptForCheckoutAndSave took 276 ms (total: 16.8 sec)
 [2024.08.05-20.47.36:877][942]AssetCheck: New page: Asset Save: CottonCandySkies
 [2024.08.05-20.47.36:877][942]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/CottonCandySkies.CottonCandySkies
+[2024.08.05-20.48.43:225][173]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2024.08.05-20.48.43:273][173]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17000
+[2024.08.05-20.48.44:273][176]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{0335857b-9dff-41e4-9ef9-71408e0449ce}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=736.99
+[2024.08.05-20.48.44:273][176]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.08.05-20.48.44:274][176]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.08.05-21.11.56:011][448]LogSlate: Took 0.008911 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.08.05-21.12.05:306][737]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.05-21.12.09:872][982]LogSlate: Took 0.006088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.08.05-21.12.10:262][993]LogShaderCompilers: Display: ================================================
+[2024.08.05-21.12.10:262][993]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.08.05-21.12.10:262][993]LogShaderCompilers: Display: Total job queries 413, among them cache hits 361 (87.41%)
+[2024.08.05-21.12.10:262][993]LogShaderCompilers: Display: Tracking 52 distinct input hashes that result in 32 distinct outputs (61.54%)
+[2024.08.05-21.12.10:262][993]LogShaderCompilers: Display: RAM used: 119.76 KiB of 1.60 GiB budget. Usage: 0.01%
+[2024.08.05-21.12.10:262][993]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.08.05-21.12.10:262][993]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.08.05-21.12.10:262][993]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.08.05-21.12.10:262][993]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.08.05-21.12.10:262][993]LogShaderCompilers: Display: ================================================
+[2024.08.05-21.12.49:038][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.08.05-21.12.49:045][830]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CandyRushGrandPrix/Levels/CottonCandySkies' took 0.027
+[2024.08.05-21.12.49:045][830]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options] ([2] browsable assets)...
+[2024.08.05-21.12.49:055][830]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options]
+[2024.08.05-21.12.49:055][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options]
+[2024.08.05-21.12.49:096][830]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options_Auto3
+[2024.08.05-21.12.49:096][830]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_Options_Auto3596DDB5C45306E517AC347960B949BEB.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/Autosaves/Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options_Auto3.uasset'
+[2024.08.05-21.12.49:097][830]LogFileHelpers: Auto-saving content packages took 0.052
+[2024.08.05-21.13.36:722][598]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.08.05-21.13.36:722][598]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.08.05-21.14.23:804][423]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.08.05-21.16.17:356][492]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (3- MUZ3007), InstanceID=1
+[2024.08.05-21.16.17:396][492]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17000
+[2024.08.05-21.16.17:733][493]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{cbcbfb2d-ec60-47b8-a786-005a65328934}, Name=Headphones (3- MUZ3007)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=205.53
+[2024.08.05-21.16.17:733][493]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.08.05-21.16.17:736][493]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.08.05-21.18.22:510][127]BlueprintLog: New page: Compile WBP_Options
+[2024.08.05-21.18.22:582][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.08.05-21.18.22:707][127]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.18.22:875][127]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-21.18.22:876][127]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_Options3D1935C94AC14A77D7CE7D8E41B26CF3.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-21.18.22:914][127]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 17.0 sec)
+[2024.08.05-21.18.22:954][127]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-21.18.22:954][127]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-21.18.24:686][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.08.05-21.20.00:436][882]BlueprintLog: New page: Compile WBP_Options
+[2024.08.05-21.20.00:506][882]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2024.08.05-21.20.00:597][882]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.20.00:784][882]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-21.20.00:785][882]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_OptionsA325DCD747B1FEAFF46AAEB7282D1855.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-21.20.00:814][882]LogFileHelpers: InternalPromptForCheckoutAndSave took 217 ms (total: 17.2 sec)
+[2024.08.05-21.20.00:818][882]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-21.20.00:818][882]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-21.20.21:395][703]BlueprintLog: New page: Compile WBP_Options
+[2024.08.05-21.20.21:467][703]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2024.08.05-21.20.21:557][703]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.20.21:683][703]LogWindows: WindowsPlatformFeatures enabled
+[2024.08.05-21.20.21:763][703]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-21.20.21:764][703]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_Options2BCE4FA34D8D5B7D17F684AE8549FCE0.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-21.20.21:805][703]LogFileHelpers: InternalPromptForCheckoutAndSave took 248 ms (total: 17.5 sec)
+[2024.08.05-21.20.21:809][703]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-21.20.21:809][703]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-21.20.44:313][490]LogDerivedDataCache: C:/Users/Trevor Hicks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.251 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4236 files in 5963 folders with total size 565 MiB.
+[2024.08.05-21.20.49:832][645]BlueprintLog: New page: Compile WBP_Options
+[2024.08.05-21.20.49:917][645]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.08.05-21.20.50:046][645]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.20.50:252][645]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-21.20.50:253][645]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_Options520ED6EA4EF641D14AA0F980497326D3.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-21.20.50:280][645]LogFileHelpers: InternalPromptForCheckoutAndSave took 234 ms (total: 17.7 sec)
+[2024.08.05-21.20.50:285][645]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-21.20.50:285][645]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-21.20.52:964][703]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.08.05-21.21.07:807][211]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.08.05-21.21.07:834][211]LogContentBrowser: Creating deferred item: NewFolder
+[2024.08.05-21.21.07:858][212]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.08.05-21.21.14:978][322]LogContentBrowser: Attempting asset rename: NewFolder -> SaveSettingData
+[2024.08.05-21.21.14:979][322]LogContentBrowser: End creating deferred item NewFolder
+[2024.08.05-21.21.28:099][404]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.08.05-21.21.28:143][404]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.08.05-21.21.28:158][404]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.08.05-21.21.28:209][406]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.08.05-21.21.39:099][  5]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_SaveGame
+[2024.08.05-21.21.39:109][  5]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.08.05-21.21.44:719][305]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.21.44:955][305]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-21.21.44:956][305]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_Options9DD8E473450C9018C598C988A24F1C56.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-21.21.44:996][305]LogFileHelpers: InternalPromptForCheckoutAndSave took 275 ms (total: 18.0 sec)
+[2024.08.05-21.21.44:998][305]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-21.21.44:998][305]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-21.21.47:602][348]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2024.08.05-21.21.47:620][348]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.21.47:777][348]LogSavePackage: Moving output files for package: /Game/SaveSettingData/BP_SaveGame
+[2024.08.05-21.21.47:777][348]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_SaveGameE735F4D94285B606299236AA03E1D699.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/SaveSettingData/BP_SaveGame.uasset'
+[2024.08.05-21.21.47:880][348]LogFileHelpers: InternalPromptForCheckoutAndSave took 260 ms (total: 18.3 sec)
+[2024.08.05-21.21.47:883][348]AssetCheck: New page: Asset Save: BP_SaveGame
+[2024.08.05-21.21.47:883][348]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SaveSettingData/BP_SaveGame.BP_SaveGame
+[2024.08.05-21.21.58:656][541]BlueprintLog: New page: Compile WBP_Options
+[2024.08.05-21.21.58:746][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.08.05-21.21.58:881][541]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.21.59:114][541]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-21.21.59:115][541]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_OptionsF9DE119C49EB946879A53B837A5C627E.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-21.21.59:161][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 279 ms (total: 18.5 sec)
+[2024.08.05-21.21.59:166][541]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-21.21.59:166][541]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-21.22.42:019][266]BlueprintLog: New page: Compile WBP_Options
+[2024.08.05-21.22.42:082][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.08.05-21.22.42:166][266]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.22.42:370][266]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-21.22.42:370][266]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_OptionsBEAF35164C56D227A6F6738D42EFEECA.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-21.22.42:412][266]LogFileHelpers: InternalPromptForCheckoutAndSave took 245 ms (total: 18.8 sec)
+[2024.08.05-21.22.42:413][266]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-21.22.42:413][266]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-21.23.05:666][913]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SaveSettingData/BP_SaveGame.BP_SaveGame
+[2024.08.05-21.23.05:666][913]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.05-21.23.05:666][913]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.05-21.23.13:129][246]LogSlate: Took 0.006575 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.08.05-21.23.17:424][352]BlueprintLog: New page: Compile BP_SaveGame
+[2024.08.05-21.23.17:472][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.08.05-21.23.17:620][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.23.17:773][352]LogSavePackage: Moving output files for package: /Game/SaveSettingData/BP_SaveGame
+[2024.08.05-21.23.17:774][352]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_SaveGame1D9BF964434CB78EA2399481F9EB897C.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/SaveSettingData/BP_SaveGame.uasset'
+[2024.08.05-21.23.17:873][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 253 ms (total: 19.0 sec)
+[2024.08.05-21.23.17:875][352]AssetCheck: New page: Asset Save: BP_SaveGame
+[2024.08.05-21.23.17:875][352]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SaveSettingData/BP_SaveGame.BP_SaveGame
+[2024.08.05-21.23.43:292][531]BlueprintLog: New page: Compile BP_SaveGame
+[2024.08.05-21.23.43:297][531]LogClass: Warning: Type mismatch in SoundVolume of BP_SaveGame_C - Previous (DoubleProperty) Current(ArrayProperty) for package:  FObjectReader
+[2024.08.05-21.23.43:330][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.08.05-21.23.43:363][531]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.23.43:487][531]LogSavePackage: Moving output files for package: /Game/SaveSettingData/BP_SaveGame
+[2024.08.05-21.23.43:487][531]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_SaveGameAC1FB0FB4500B3B9FC69FEB2ACD96D25.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/SaveSettingData/BP_SaveGame.uasset'
+[2024.08.05-21.23.43:559][531]LogFileHelpers: InternalPromptForCheckoutAndSave took 195 ms (total: 19.2 sec)
+[2024.08.05-21.23.43:561][531]AssetCheck: New page: Asset Save: BP_SaveGame
+[2024.08.05-21.23.43:562][531]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SaveSettingData/BP_SaveGame.BP_SaveGame
+[2024.08.05-21.24.00:343][994]BlueprintLog: New page: Compile BP_SaveGame
+[2024.08.05-21.24.00:380][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2024.08.05-21.24.00:409][994]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.24.00:557][994]LogSavePackage: Moving output files for package: /Game/SaveSettingData/BP_SaveGame
+[2024.08.05-21.24.00:558][994]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_SaveGame29B321214EF01D7427B9F3A15F15DE35.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/SaveSettingData/BP_SaveGame.uasset'
+[2024.08.05-21.24.00:637][994]LogFileHelpers: InternalPromptForCheckoutAndSave took 229 ms (total: 19.5 sec)
+[2024.08.05-21.24.00:640][994]AssetCheck: New page: Asset Save: BP_SaveGame
+[2024.08.05-21.24.00:640][994]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/SaveSettingData/BP_SaveGame.BP_SaveGame
+[2024.08.05-21.24.02:418][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.08.05-21.24.02:426][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.24.02:635][ 17]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-21.24.02:635][ 17]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_OptionsDF779CD64F612480BAD724A060385E62.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-21.24.02:676][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave took 250 ms (total: 19.7 sec)
+[2024.08.05-21.24.02:679][ 17]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-21.24.02:680][ 17]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-21.24.04:240][ 48]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2024.08.05-21.24.04:240][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.05-21.25.30:996][980]LogSlate: Took 0.002026 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.08.05-21.29.46:776][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.08.05-21.29.46:779][197]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CandyRushGrandPrix/Levels/CottonCandySkies' took 0.034
+[2024.08.05-21.29.46:780][197]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options] ([2] browsable assets)...
+[2024.08.05-21.29.46:793][197]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options]
+[2024.08.05-21.29.46:793][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options]
+[2024.08.05-21.29.46:843][197]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options_Auto4
+[2024.08.05-21.29.46:843][197]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_Options_Auto4A181AC6746A297E83D0E32BF58EE0121.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/Autosaves/Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options_Auto4.uasset'
+[2024.08.05-21.29.46:844][197]LogFileHelpers: Auto-saving content packages took 0.065
+[2024.08.05-21.30.47:642][626]LogBlueprint: Error: [AssetLog] : [Compiler] There can only be one event node bound to this component! Delete  On Value Changed (SoundSlider)  or the other bound event
+[2024.08.05-21.30.47:642][626]BlueprintLog: New page: Rename Component Error
+[2024.08.05-21.30.47:642][626]BlueprintLog: Error: There can only be one event node bound to this component! Delete  On Value Changed (SoundSlider)  or the other bound event
+[2024.08.05-21.32.12:680][221]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.05-21.32.17:101][396]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.05-21.32.41:352][650]BlueprintLog: New page: Compile WBP_Options
+[2024.08.05-21.32.41:395][650]LogProperty: Warning: Serialized Class /Script/AudioWidgets.AudioSlider for a property of Class /Script/UMG.Slider. Reference will be nullptred.
+    Property = ObjectProperty /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options_C:MusicSlider
+    Item = AudioSlider /Game/CandyRushGrandPrix/Levels/CottonCandySkies.CottonCandySkies:REINST_WBP_Options_C_2.WidgetTree_0.MusicSlider
+[2024.08.05-21.32.41:395][650]LogProperty: Warning: Serialized Class /Script/AudioWidgets.AudioSlider for a property of Class /Script/UMG.Slider. Reference will be nullptred.
+    Property = ObjectProperty /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options_C:SoundSlider
+    Item = AudioSlider /Game/CandyRushGrandPrix/Levels/CottonCandySkies.CottonCandySkies:REINST_WBP_Options_C_2.WidgetTree_0.SoundSlider
+[2024.08.05-21.32.41:437][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.08.05-21.32.41:613][650]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.32.41:773][650]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-21.32.41:774][650]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_Options50029C6C4E3FE11FC29671BC3637CDD6.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-21.32.41:795][650]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 19.9 sec)
+[2024.08.05-21.32.41:851][650]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-21.32.41:851][650]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-21.32.44:141][765]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.32.44:298][765]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-21.32.44:298][765]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_Options5E3562B34DD9A71F719E578C481F716A.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-21.32.44:318][765]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 20.1 sec)
+[2024.08.05-21.32.44:319][765]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-21.32.44:319][765]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-21.33.44:275][ 56]BlueprintLog: New page: Compile WBP_Options
+[2024.08.05-21.33.44:345][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.08.05-21.33.44:460][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.33.44:595][ 56]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-21.33.44:596][ 56]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_Options41C4481247D7B9C032F5399E00952AF5.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-21.33.44:617][ 56]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 20.2 sec)
+[2024.08.05-21.33.44:627][ 56]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-21.33.44:627][ 56]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-21.35.05:837][524]BlueprintLog: New page: Compile WBP_Options
+[2024.08.05-21.35.05:939][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.08.05-21.35.06:099][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.35.06:322][524]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-21.35.06:323][524]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_Options788DE3CE4ED0DF70CBA1B4ADE356F97D.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-21.35.06:356][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 256 ms (total: 20.5 sec)
+[2024.08.05-21.35.06:358][524]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-21.35.06:358][524]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-21.35.29:129][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.08.05-21.36.45:055][898]BlueprintLog: New page: Compile WBP_Options
+[2024.08.05-21.36.45:138][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2024.08.05-21.36.45:255][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.36.45:425][898]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-21.36.45:426][898]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_Options42EED2C74B3E5C19E3BD9DA80BF71122.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-21.36.45:454][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 199 ms (total: 20.7 sec)
+[2024.08.05-21.36.45:457][898]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-21.36.45:457][898]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-21.37.40:257][669]BlueprintLog: New page: Compile WBP_Options
+[2024.08.05-21.37.40:348][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.08.05-21.37.40:494][669]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.37.40:694][669]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-21.37.40:695][669]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_Options95A7C47E46E058B00E70A7922D08F337.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-21.37.40:735][669]LogFileHelpers: InternalPromptForCheckoutAndSave took 241 ms (total: 20.9 sec)
+[2024.08.05-21.37.40:738][669]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-21.37.40:738][669]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-21.37.42:690][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.37.42:918][725]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-21.37.42:919][725]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_Options99C4CBA94CAFD403027B4383ECB9EDB4.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-21.37.42:950][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 259 ms (total: 21.2 sec)
+[2024.08.05-21.37.42:954][725]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-21.37.42:954][725]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-21.39.36:753][242]BlueprintLog: New page: Compile WBP_Options
+[2024.08.05-21.39.36:873][242]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2024.08.05-21.39.37:095][242]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.39.37:337][242]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-21.39.37:338][242]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_OptionsF675A48F496C8479F42579800474C24D.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-21.39.37:380][242]LogFileHelpers: InternalPromptForCheckoutAndSave took 285 ms (total: 21.5 sec)
+[2024.08.05-21.39.37:385][242]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-21.39.37:385][242]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-21.42.25:078][656]LogContentBrowser: Attempting asset rename: Click_on_Button -> Voice
+[2024.08.05-21.42.25:116][656]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.42.25:240][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Voice" FILE="../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Voice.uasset" SILENT=true
+[2024.08.05-21.42.25:242][656]LogSavePackage: Moving output files for package: /Game/Audio/Voice
+[2024.08.05-21.42.25:242][656]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/Voice4421EF6A47194071B33B3FA8A65E3F7C.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Voice.uasset'
+[2024.08.05-21.42.25:272][656]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 21.6 sec)
+[2024.08.05-21.42.25:312][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.08.05-21.42.25:339][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.08.05-21.42.25:362][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.08.05-21.42.25:365][656]AssetCheck: New page: Asset Save: Voice
+[2024.08.05-21.42.25:365][656]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Voice.Voice
+[2024.08.05-21.42.28:189][757]LogContentBrowser: Attempting asset rename: Voice -> Voice
+[2024.08.05-21.42.29:832][798]LogContentBrowser: Deferred new asset file creation: Voice1
+[2024.08.05-21.42.29:844][798]LogContentBrowser: Creating deferred item: Voice1
+[2024.08.05-21.42.29:880][799]LogContentBrowser: Renaming the item being created (Deferred Item: Voice1).
+[2024.08.05-21.42.31:107][844]LogContentBrowser: Attempting asset rename: Voice1 -> Voice1
+[2024.08.05-21.42.31:110][844]LogContentBrowser: End creating deferred item Voice1
+[2024.08.05-21.42.32:248][885]LogContentBrowser: Deferred new asset file creation: Voice2
+[2024.08.05-21.42.32:263][885]LogContentBrowser: Creating deferred item: Voice2
+[2024.08.05-21.42.32:296][886]LogContentBrowser: Renaming the item being created (Deferred Item: Voice2).
+[2024.08.05-21.42.32:977][911]LogContentBrowser: Attempting asset rename: Voice2 -> Voice2
+[2024.08.05-21.42.32:979][911]LogContentBrowser: End creating deferred item Voice2
+[2024.08.05-21.42.41:019][133]LogContentBrowser: Attempting asset rename: Voice1 -> SFX
+[2024.08.05-21.42.41:064][133]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.42.41:229][133]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX" FILE="../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/SFX.uasset" SILENT=true
+[2024.08.05-21.42.41:232][133]LogSavePackage: Moving output files for package: /Game/Audio/SFX
+[2024.08.05-21.42.41:232][133]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/SFXDDF402C84843975DF1514BAB9B3AA820.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/SFX.uasset'
+[2024.08.05-21.42.41:263][133]LogFileHelpers: InternalPromptForCheckoutAndSave took 199 ms (total: 21.8 sec)
+[2024.08.05-21.42.41:305][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2024.08.05-21.42.41:331][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.08.05-21.42.41:356][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.08.05-21.42.41:360][133]AssetCheck: New page: Asset Save: SFX
+[2024.08.05-21.42.41:360][133]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SFX.SFX
+[2024.08.05-21.42.48:640][306]LogContentBrowser: Attempting asset rename: Voice2 -> Music
+[2024.08.05-21.42.48:685][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.42.48:855][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Music" FILE="../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Music.uasset" SILENT=true
+[2024.08.05-21.42.48:857][306]LogSavePackage: Moving output files for package: /Game/Audio/Music
+[2024.08.05-21.42.48:857][306]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/MusicC69B097B4F272BBCCA286F8281CF20BB.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Music.uasset'
+[2024.08.05-21.42.48:902][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 216 ms (total: 22.0 sec)
+[2024.08.05-21.42.48:937][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2024.08.05-21.42.48:964][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2024.08.05-21.42.48:987][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.08.05-21.42.48:991][306]AssetCheck: New page: Asset Save: Music
+[2024.08.05-21.42.48:991][306]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Music.Music
+[2024.08.05-21.42.52:342][453]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/Music.Music
+[2024.08.05-21.43.10:825][779]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2024.08.05-21.43.10:825][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.05-21.43.25:303][ 73]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/Music.Music
+[2024.08.05-21.43.47:543][301]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.43.47:790][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Music" FILE="../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Music.uasset" SILENT=true
+[2024.08.05-21.43.47:792][301]LogSavePackage: Moving output files for package: /Game/Audio/Music
+[2024.08.05-21.43.47:794][301]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/MusicD534F2BF4C9914925417C486D235ACAB.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Music.uasset'
+[2024.08.05-21.43.47:860][301]LogFileHelpers: InternalPromptForCheckoutAndSave took 317 ms (total: 22.4 sec)
+[2024.08.05-21.43.47:862][301]AssetCheck: New page: Asset Save: Music
+[2024.08.05-21.43.47:862][301]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Music.Music
+[2024.08.05-21.43.55:434][450]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/SFX.SFX
+[2024.08.05-21.44.02:828][565]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.44.03:108][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX" FILE="../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/SFX.uasset" SILENT=true
+[2024.08.05-21.44.03:110][565]LogSavePackage: Moving output files for package: /Game/Audio/SFX
+[2024.08.05-21.44.03:112][565]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/SFXCF53DC794A17A1D6FD442FB996082387.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/SFX.uasset'
+[2024.08.05-21.44.03:178][565]LogFileHelpers: InternalPromptForCheckoutAndSave took 350 ms (total: 22.7 sec)
+[2024.08.05-21.44.03:180][565]AssetCheck: New page: Asset Save: SFX
+[2024.08.05-21.44.03:180][565]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SFX.SFX
+[2024.08.05-21.44.13:755][749]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/Voice.Voice
+[2024.08.05-21.44.20:414][852]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.44.20:659][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Voice" FILE="../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Voice.uasset" SILENT=true
+[2024.08.05-21.44.20:662][852]LogSavePackage: Moving output files for package: /Game/Audio/Voice
+[2024.08.05-21.44.20:663][852]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/Voice22F0F26545996C19A726EBAA8A7BE1F8.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Voice.uasset'
+[2024.08.05-21.44.20:730][852]LogFileHelpers: InternalPromptForCheckoutAndSave took 315 ms (total: 23.0 sec)
+[2024.08.05-21.44.20:731][852]AssetCheck: New page: Asset Save: Voice
+[2024.08.05-21.44.20:731][852]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Voice.Voice
+[2024.08.05-21.44.36:789][206]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/Voice.Voice
+[2024.08.05-21.44.51:317][496]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/SFX.SFX
+[2024.08.05-21.44.55:204][564]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.44.55:471][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX" FILE="../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/SFX.uasset" SILENT=true
+[2024.08.05-21.44.55:473][564]LogSavePackage: Moving output files for package: /Game/Audio/SFX
+[2024.08.05-21.44.55:474][564]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/SFX5ECFB2CA4814063D60F23FB91AFCED0B.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/SFX.uasset'
+[2024.08.05-21.44.55:542][564]LogFileHelpers: InternalPromptForCheckoutAndSave took 337 ms (total: 23.4 sec)
+[2024.08.05-21.44.55:544][564]AssetCheck: New page: Asset Save: SFX
+[2024.08.05-21.44.55:544][564]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SFX.SFX
+[2024.08.05-21.44.57:937][618]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/Music.Music
+[2024.08.05-21.45.03:706][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.45.03:954][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Music" FILE="../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Music.uasset" SILENT=true
+[2024.08.05-21.45.03:956][704]LogSavePackage: Moving output files for package: /Game/Audio/Music
+[2024.08.05-21.45.03:956][704]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/Music1A56D73A4CD1FA7E0EF352A9885ECBC4.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Music.uasset'
+[2024.08.05-21.45.04:024][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 319 ms (total: 23.7 sec)
+[2024.08.05-21.45.04:026][704]AssetCheck: New page: Asset Save: Music
+[2024.08.05-21.45.04:026][704]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Music.Music
+[2024.08.05-21.45.10:089][841]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/SFX.SFX
+[2024.08.05-21.45.26:808][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.45.26:998][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX" FILE="../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/SFX.uasset" SILENT=true
+[2024.08.05-21.45.27:000][ 61]LogSavePackage: Moving output files for package: /Game/Audio/SFX
+[2024.08.05-21.45.27:002][ 61]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/SFX8C896C5E4D80067571FD2C9BAE911AAF.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/SFX.uasset'
+[2024.08.05-21.45.27:067][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave took 259 ms (total: 23.9 sec)
+[2024.08.05-21.45.27:069][ 61]AssetCheck: New page: Asset Save: SFX
+[2024.08.05-21.45.27:069][ 61]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SFX.SFX
+[2024.08.05-21.45.41:665][467]LogContentBrowser: Attempting asset rename: SC_VFX -> SC_SFX
+[2024.08.05-21.45.41:701][467]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.45.41:805][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SC_Master" FILE="../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/SC_Master.uasset" SILENT=true
+[2024.08.05-21.45.41:807][467]LogSavePackage: Moving output files for package: /Game/Audio/SC_Master
+[2024.08.05-21.45.41:807][467]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/SC_Master95EE81CA4D5A59134A2E5D95D594934B.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/SC_Master.uasset'
+[2024.08.05-21.45.41:808][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SoundMix" FILE="../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/SoundMix.uasset" SILENT=true
+[2024.08.05-21.45.41:809][467]LogSavePackage: Moving output files for package: /Game/Audio/SoundMix
+[2024.08.05-21.45.41:810][467]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/SoundMix08773DDF4B645158B76F2DB8F1CBE179.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/SoundMix.uasset'
+[2024.08.05-21.45.41:811][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SFX" FILE="../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/SFX.uasset" SILENT=true
+[2024.08.05-21.45.41:813][467]LogSavePackage: Moving output files for package: /Game/Audio/SFX
+[2024.08.05-21.45.41:813][467]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/SFXACE2BC884B4363065230509F6B341916.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/SFX.uasset'
+[2024.08.05-21.45.41:814][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/SC_SFX" FILE="../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/SC_SFX.uasset" SILENT=true
+[2024.08.05-21.45.41:815][467]LogSavePackage: Moving output files for package: /Game/Audio/SC_SFX
+[2024.08.05-21.45.41:815][467]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/SC_SFXF6D21778416604FD5BC3BEB0F409E222.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/SC_SFX.uasset'
+[2024.08.05-21.45.41:850][467]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 24.1 sec)
+[2024.08.05-21.45.41:890][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.08.05-21.45.41:916][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.08.05-21.45.41:936][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.08.05-21.45.41:942][467]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.05-21.45.41:942][467]LogContentValidation: Display: Validating /Script/Engine.SoundClass /Game/Audio/SC_Master.SC_Master
+[2024.08.05-21.45.41:942][467]LogContentValidation: Display: Validating /Script/Engine.SoundMix /Game/Audio/SoundMix.SoundMix
+[2024.08.05-21.45.41:942][467]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/SFX.SFX
+[2024.08.05-21.45.41:942][467]LogContentValidation: Display: Validating /Script/Engine.SoundClass /Game/Audio/SC_SFX.SC_SFX
+[2024.08.05-21.46.35:584][ 29]BlueprintLog: New page: Compile WBP_Options
+[2024.08.05-21.46.35:686][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.08.05-21.46.35:887][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.46.36:088][ 29]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-21.46.36:088][ 29]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_OptionsA77B86E047AA4115B99CC7BFAFC0C707.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-21.46.36:125][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave took 238 ms (total: 24.3 sec)
+[2024.08.05-21.46.36:128][ 29]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-21.46.36:128][ 29]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-21.47.37:030][424]BlueprintLog: New page: Compile WBP_Options
+[2024.08.05-21.47.37:127][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.08.05-21.47.37:322][424]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.47.37:554][424]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-21.47.37:554][424]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_Options676387154641A55FAD82C2A80F6F513E.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-21.47.37:595][424]LogFileHelpers: InternalPromptForCheckoutAndSave took 273 ms (total: 24.6 sec)
+[2024.08.05-21.47.37:599][424]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-21.47.37:599][424]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-21.48.02:942][904]BlueprintLog: New page: Compile WBP_Options
+[2024.08.05-21.48.03:030][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.08.05-21.48.03:154][904]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.48.03:362][904]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-21.48.03:363][904]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_Options4740B1DB4F6F77F9A9DD488A6307BDD7.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-21.48.03:404][904]LogFileHelpers: InternalPromptForCheckoutAndSave took 250 ms (total: 24.9 sec)
+[2024.08.05-21.48.03:406][904]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-21.48.03:406][904]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-21.48.05:754][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.08.05-21.48.55:445][681]BlueprintLog: New page: Compile WBP_Options
+[2024.08.05-21.48.55:535][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.08.05-21.48.55:686][681]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.48.55:882][681]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-21.48.55:882][681]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_OptionsB8BD411044AFABBECD7A448459DCF5DC.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-21.48.55:918][681]LogFileHelpers: InternalPromptForCheckoutAndSave took 231 ms (total: 25.1 sec)
+[2024.08.05-21.48.55:921][681]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-21.48.55:921][681]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-21.48.57:480][735]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.48.57:725][735]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.08.05-21.48.57:726][735]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP_Options552B68284275AA8BAA3F478EC94CB915.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.08.05-21.48.57:755][735]LogFileHelpers: InternalPromptForCheckoutAndSave took 276 ms (total: 25.4 sec)
+[2024.08.05-21.48.57:758][735]AssetCheck: New page: Asset Save: WBP_Options
+[2024.08.05-21.48.57:758][735]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.08.05-21.49.41:478][185]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/CandyRushGrandPrix/Levels/CottonCandySkies.CottonCandySkies:PersistentLevel.CottonCandySkies
+[2024.08.05-21.49.41:478][185]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.05-21.49.41:479][185]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.05-21.50.09:652][996]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.50.09:944][996]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2024.08.05-21.50.10:080][996]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/CottonCandySkies
+[2024.08.05-21.50.10:083][996]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/CottonCandySkiesC54E1A4E4C8B29B4427B24A4464D2831.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/CottonCandySkies.umap'
+[2024.08.05-21.50.10:097][996]LogFileHelpers: Saving map 'CottonCandySkies' took 0.244
+[2024.08.05-21.50.10:138][996]LogFileHelpers: InternalPromptForCheckoutAndSave took 486 ms (total: 25.9 sec)
+[2024.08.05-21.50.10:140][996]AssetCheck: New page: Asset Save: CottonCandySkies
+[2024.08.05-21.50.10:140][996]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/CottonCandySkies.CottonCandySkies
+[2024.08.05-21.50.18:477][232]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/Candy_Rush_Remix.Candy_Rush_Remix
+[2024.08.05-21.50.28:600][404]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.50.29:067][404]LogSavePackage: Moving output files for package: /Game/Audio/Candy_Rush_Remix
+[2024.08.05-21.50.29:069][404]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/Candy_Rush_Remix41D4FEEB4B1DEDFA0D77FFAFA163F277.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Candy_Rush_Remix.uasset'
+[2024.08.05-21.50.29:121][404]LogFileHelpers: InternalPromptForCheckoutAndSave took 521 ms (total: 26.4 sec)
+[2024.08.05-21.50.29:124][404]AssetCheck: New page: Asset Save: Candy_Rush_Remix
+[2024.08.05-21.50.29:124][404]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Candy_Rush_Remix.Candy_Rush_Remix
+[2024.08.05-21.51.03:974][233]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.51.04:320][233]LogSavePackage: Moving output files for package: /Game/Audio/Candy_Rush_Remix
+[2024.08.05-21.51.04:321][233]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/Candy_Rush_RemixA488668A4F7E8F296B0A6D8844FA82C3.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Candy_Rush_Remix.uasset'
+[2024.08.05-21.51.04:422][233]LogSavePackage: Moving output files for package: /Game/Audio/Sugar_Symphony
+[2024.08.05-21.51.04:423][233]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/Sugar_Symphony787C5A8E46862E1B6286E1BC47ADFB9E.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Sugar_Symphony.uasset'
+[2024.08.05-21.51.04:454][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Sweet_Ride" FILE="../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Sweet_Ride.uasset" SILENT=true
+[2024.08.05-21.51.04:512][233]LogSavePackage: Moving output files for package: /Game/Audio/Sweet_Ride
+[2024.08.05-21.51.04:513][233]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/Sweet_RideF84FAD8A40DD1C0664B787B0B0E04EB4.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Sweet_Ride.uasset'
+[2024.08.05-21.51.04:600][233]LogSavePackage: Moving output files for package: /Game/Audio/Willy_Wonka_s_Cotton_Candy_Dream
+[2024.08.05-21.51.04:602][233]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/Willy_Wonka_s_Cotton_Candy_DreamC1EAF5704714A394C4BCACB777C4B520.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Willy_Wonka_s_Cotton_Candy_Dream.uasset'
+[2024.08.05-21.51.04:672][233]LogSavePackage: Moving output files for package: /Game/Audio/Full_Throttle_Rush
+[2024.08.05-21.51.04:673][233]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/Full_Throttle_RushC416FB4B4629E327A29F999590CCA6D6.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Full_Throttle_Rush.uasset'
+[2024.08.05-21.51.04:713][233]LogFileHelpers: InternalPromptForCheckoutAndSave took 738 ms (total: 27.1 sec)
+[2024.08.05-21.51.04:716][233]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.05-21.51.04:716][233]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Candy_Rush_Remix.Candy_Rush_Remix
+[2024.08.05-21.51.04:716][233]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Sugar_Symphony.Sugar_Symphony
+[2024.08.05-21.51.04:716][233]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Sweet_Ride.Sweet_Ride
+[2024.08.05-21.51.04:716][233]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Willy_Wonka_s_Cotton_Candy_Dream.Willy_Wonka_s_Cotton_Candy_Dream
+[2024.08.05-21.51.04:716][233]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Full_Throttle_Rush.Full_Throttle_Rush
+[2024.08.05-21.51.47:659][380]BlueprintLog: New page: Compile CottonCandySkies
+[2024.08.05-21.51.47:726][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.08.05-21.51.47:748][380]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.51.47:961][380]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.08.05-21.51.48:081][380]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/CottonCandySkies
+[2024.08.05-21.51.48:083][380]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/CottonCandySkiesE6D438974EF902552D24DB9C55E4A4F3.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/CottonCandySkies.umap'
+[2024.08.05-21.51.48:096][380]LogFileHelpers: Saving map 'CottonCandySkies' took 0.202
+[2024.08.05-21.51.48:152][380]LogFileHelpers: InternalPromptForCheckoutAndSave took 403 ms (total: 27.5 sec)
+[2024.08.05-21.51.48:155][380]AssetCheck: New page: Asset Save: CottonCandySkies
+[2024.08.05-21.51.48:155][380]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/CottonCandySkies.CottonCandySkies
+[2024.08.05-21.52.12:399][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.52.12:684][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Booster" FILE="../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Booster.uasset" SILENT=true
+[2024.08.05-21.52.12:690][ 51]LogSavePackage: Moving output files for package: /Game/Audio/Booster
+[2024.08.05-21.52.12:691][ 51]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BoosterB8C75D2C4BC6E044E6D904B9CB62DA56.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Booster.uasset'
+[2024.08.05-21.52.12:697][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Countdown_1" FILE="../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Countdown_1.uasset" SILENT=true
+[2024.08.05-21.52.12:704][ 51]LogSavePackage: Moving output files for package: /Game/Audio/Countdown_1
+[2024.08.05-21.52.12:705][ 51]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/Countdown_1C6E2F576458A64464FAE2296083CC347.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Countdown_1.uasset'
+[2024.08.05-21.52.12:754][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave took 354 ms (total: 27.9 sec)
+[2024.08.05-21.52.12:756][ 51]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.05-21.52.12:756][ 51]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Booster.Booster
+[2024.08.05-21.52.12:756][ 51]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Countdown_1.Countdown_1
+[2024.08.05-21.52.19:812][192]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.05-21.52.20:026][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Booster" FILE="../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Booster.uasset" SILENT=true
+[2024.08.05-21.52.20:032][192]LogSavePackage: Moving output files for package: /Game/Audio/Booster
+[2024.08.05-21.52.20:034][192]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BoosterF7BA580147ED436C2779CEAF2090511B.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Booster.uasset'
+[2024.08.05-21.52.20:036][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Countdown_1" FILE="../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Countdown_1.uasset" SILENT=true
+[2024.08.05-21.52.20:044][192]LogSavePackage: Moving output files for package: /Game/Audio/Countdown_1
+[2024.08.05-21.52.20:044][192]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/Countdown_1757C777D43B5E15D0AB1D4A3714EDE5C.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Countdown_1.uasset'
+[2024.08.05-21.52.20:130][192]LogFileHelpers: InternalPromptForCheckoutAndSave took 317 ms (total: 28.2 sec)
+[2024.08.05-21.52.20:133][192]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.05-21.52.20:133][192]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Booster.Booster
+[2024.08.05-21.52.20:133][192]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Countdown_1.Countdown_1
+[2024.08.05-21.52.21:685][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
