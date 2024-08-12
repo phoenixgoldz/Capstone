@@ -4808,3 +4808,14 @@ Script Stack (0 frames) :
 [2024.08.12-20.53.19:222][255]AssetCheck: New page: Asset Save: MainMenu
 [2024.08.12-20.53.19:222][255]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu
 [2024.08.12-20.53.21:540][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.08.12-20.57.18:684][ 43]AssetReimport: New page: Outstanding source content changes 8:57:18 AM
+[2024.08.12-20.57.18:773][ 44]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:/Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Pure Imagination from Wonka.wav)
+[2024.08.12-20.57.22:871][ 44]LogSlate: Window 'Message' being destroyed
+[2024.08.12-20.57.23:735][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.12-20.57.24:223][ 45]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/Pure_Imagination_from_Wonka.Pure_Imagination_from_Wonka: Chunk0=28 bytes, Chunk1-N=256k
+[2024.08.12-20.57.24:242][ 45]LogSavePackage: Moving output files for package: /Game/Audio/Pure_Imagination_from_Wonka
+[2024.08.12-20.57.24:242][ 45]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/Pure_Imagination_from_Wonka3C44DEB04B7EBA04B9D8CA91B9EAE912.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Pure_Imagination_from_Wonka.uasset'
+[2024.08.12-20.57.24:318][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave took 583 ms (total: 19.8 sec)
+[2024.08.12-20.57.24:334][ 46]AssetCheck: New page: Asset Save: Pure_Imagination_from_Wonka
+[2024.08.12-20.57.24:334][ 46]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Pure_Imagination_from_Wonka.Pure_Imagination_from_Wonka
+[2024.08.12-20.57.27:513][ 94]AssetReimport: Importing new asset /Game/Audio/Pure_Imagination_from_Wonka.
