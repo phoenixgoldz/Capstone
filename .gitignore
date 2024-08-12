@@ -74,3 +74,6 @@ DerivedDataCache/*
 CloudScape.png
 /Saved/Logs
 /Saved
+*.umap
+Content/CandyRushGrandPrix/Models/Sugar_Rush_Diet_cola_mountain/scenes/OBJ/M_Diet_cola_mountain_crystal_blinnSG_6663BDDC483912C55F2604900CBD1C26.uasset
+*.uasset
