@@ -4698,3 +4698,113 @@ Script Stack (0 frames) :
 [2024.08.12-20.42.37:858][464]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
 [2024.08.12-20.42.37:937][465]LogPlayLevel: Display: Destroying online subsystem :Context_33
 [2024.08.12-20.42.42:300][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.08.12-20.47.29:830][568]AssetReimport: New page: Outstanding source content changes 8:47:29 AM
+[2024.08.12-20.47.29:911][569]LogAudioEditor: Performing atomic reimport of [C:/Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/273695-Robotic-Game-Item-8.wav]
+[2024.08.12-20.47.29:912][569]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/273695-Robotic-Game-Item-8.wav)
+[2024.08.12-20.47.29:938][569]LogAudioEditor: -- imported successfully
+[2024.08.12-20.47.29:970][569]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/273695-Robotic-Game-Item-8.273695-Robotic-Game-Item-8: Chunk0=28 bytes, Chunk1-N=256k
+[2024.08.12-20.47.33:115][635]AssetReimport: Reimported asset 273695-Robotic-Game-Item-8 from C:/Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/273695-Robotic-Game-Item-8.wav.
+[2024.08.12-20.49.45:926][737]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\Trevor Hicks\Downloads\Timothée Chalamet - Pure Imagination from Wonka.wav)
+[2024.08.12-20.49.46:007][737]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_-1.000000_SR1_-1.000000_SR2_-1.000000_SR3_-1.000000_SR4_-1.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_-1_END wave Timothée_Chalamet_-_Pure_Imagination_from_Wonka...
+[2024.08.12-20.49.47:094][737]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/Timothée_Chalamet_-_Pure_Imagination_from_Wonka.Timothée_Chalamet_-_Pure_Imagination_from_Wonka: Chunk0=28 bytes, Chunk1-N=256k
+[2024.08.12-20.49.47:122][737]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_-1.000000_SR1_-1.000000_SR2_-1.000000_SR3_-1.000000_SR4_-1.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_CSZE_65536_LCF_false_ZCS_0_MCSO_-1_END wave Timothée_Chalamet_-_Pure_Imagination_from_Wonka...
+[2024.08.12-20.49.48:256][742]LogAudio: Display: Chunk sizes for SoundWave /Game/Audio/Timothée_Chalamet_-_Pure_Imagination_from_Wonka.Timothée_Chalamet_-_Pure_Imagination_from_Wonka: Chunk0=28 bytes, Chunk1-N=256k
+[2024.08.12-20.50.24:208][170]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Audio/Timothée_Chalamet_-_Pure_Imagination_from_Wonka.Timothée_Chalamet_-_Pure_Imagination_from_Wonka
+[2024.08.12-20.50.37:395][352]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.12-20.50.37:753][352]LogSavePackage: Moving output files for package: /Game/Audio/Timothée_Chalamet_-_Pure_Imagination_from_Wonka
+[2024.08.12-20.50.37:754][352]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/Timothée_Chalamet_-_Pure_Imagina9106D965439C7E59D7B79796575917BB.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/Timothée_Chalamet_-_Pure_Imagination_from_Wonka.uasset'
+[2024.08.12-20.50.37:800][352]LogFileHelpers: InternalPromptForCheckoutAndSave took 404 ms (total: 17.8 sec)
+[2024.08.12-20.50.37:801][352]AssetCheck: New page: Asset Save: Timothée_Chalamet_-_Pure_Imagination_from_Wonka
+[2024.08.12-20.50.37:801][352]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/Timothée_Chalamet_-_Pure_Imagination_from_Wonka.Timothée_Chalamet_-_Pure_Imagination_from_Wonka
+[2024.08.12-20.50.39:104][369]LogSlate: Window 'Timothée_Chalamet_-_Pure_Imagination_from_Wonka' being destroyed
+[2024.08.12-20.51.10:167][628]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:PersistentLevel.DietColaMountain
+[2024.08.12-20.51.10:168][628]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.12-20.51.10:168][628]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.12-20.51.10:655][632]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.12-20.51.10:667][632]LoadErrors: The Skeleton  SK_Gokart_Skeleton1 is missing bones that SkeletalMesh  SK_Gokart needs. They will be added now. Please save the Skeleton!
+[2024.08.12-20.51.11:378][638]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.12-20.51.13:147][656]LogSlate: Window 'Message Log' being destroyed
+[2024.08.12-20.51.37:238][891]BlueprintLog: New page: Compile DietColaMountain
+[2024.08.12-20.51.37:293][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.08.12-20.51.37:307][891]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.12-20.51.37:477][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.08.12-20.51.37:499][891]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/DietColaMountain
+[2024.08.12-20.51.37:500][891]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/DietColaMountain33E071D74D5B6F85004FF5ACB6D249B0.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/DietColaMountain.umap'
+[2024.08.12-20.51.37:508][891]LogFileHelpers: Saving map 'DietColaMountain' took 0.076
+[2024.08.12-20.51.37:548][891]LogFileHelpers: InternalPromptForCheckoutAndSave took 241 ms (total: 18.1 sec)
+[2024.08.12-20.51.37:555][891]AssetCheck: New page: Asset Save: DietColaMountain
+[2024.08.12-20.51.37:555][891]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain
+[2024.08.12-20.52.21:894][388]BlueprintLog: New page: Compile DietColaMountain
+[2024.08.12-20.52.21:941][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.08.12-20.52.21:958][388]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.12-20.52.22:229][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.08.12-20.52.22:263][388]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/DietColaMountain
+[2024.08.12-20.52.22:264][388]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/DietColaMountain4924F3EF424A999C3135BE9B68D1B66F.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/DietColaMountain.umap'
+[2024.08.12-20.52.22:277][388]LogFileHelpers: Saving map 'DietColaMountain' took 0.117
+[2024.08.12-20.52.22:319][388]LogFileHelpers: InternalPromptForCheckoutAndSave took 361 ms (total: 18.4 sec)
+[2024.08.12-20.52.22:323][388]AssetCheck: New page: Asset Save: DietColaMountain
+[2024.08.12-20.52.22:323][388]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain
+[2024.08.12-20.52.25:078][418]LogSlate: Window 'DietColaMountain' being destroyed
+[2024.08.12-20.52.25:250][418]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.08.12-20.52.25:250][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.12-20.52.36:509][597]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:PersistentLevel.DietColaMountain
+[2024.08.12-20.52.36:510][597]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.12-20.52.36:510][597]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.12-20.52.57:596][837]BlueprintLog: New page: Compile DietColaMountain
+[2024.08.12-20.52.57:703][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.08.12-20.52.57:719][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.12-20.52.57:916][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.08.12-20.52.57:947][837]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/DietColaMountain
+[2024.08.12-20.52.57:948][837]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/DietColaMountainD1261D4145B22210D2335B8E478623EE.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/DietColaMountain.umap'
+[2024.08.12-20.52.57:961][837]LogFileHelpers: Saving map 'DietColaMountain' took 0.113
+[2024.08.12-20.52.58:003][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 284 ms (total: 18.7 sec)
+[2024.08.12-20.52.58:013][837]AssetCheck: New page: Asset Save: DietColaMountain
+[2024.08.12-20.52.58:013][837]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain
+[2024.08.12-20.52.59:031][848]LogSlate: Window 'DietColaMountain' being destroyed
+[2024.08.12-20.52.59:190][848]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.08.12-20.52.59:190][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.12-20.53.04:632][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.08.12-20.53.05:834][981]LogSlate: Window 'Save Content' being destroyed
+[2024.08.12-20.53.05:908][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.12-20.53.06:086][981]LogSavePackage: Moving output files for package: /Game/Audio/273695-Robotic-Game-Item-8
+[2024.08.12-20.53.06:087][981]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/273695-Robotic-Game-Item-836D67280479711F19B4B8D8C5F768AAC.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Audio/273695-Robotic-Game-Item-8.uasset'
+[2024.08.12-20.53.06:143][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 234 ms (total: 18.9 sec)
+[2024.08.12-20.53.06:264][981]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.12-20.53.06:265][981]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu
+[2024.08.12-20.53.06:265][981]Cmd: MAP LOAD FILE="../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.08.12-20.53.06:265][981]LightingResults: New page: Lighting Build
+[2024.08.12-20.53.06:265][981]LoadErrors: New page: Loading map: MainMenu.umap
+[2024.08.12-20.53.06:332][981]LogWorld: UWorld::CleanupWorld for DietColaMountain, bSessionEnded=true, bCleanupResources=true
+[2024.08.12-20.53.06:332][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.12-20.53.06:332][981]MapCheck: New page: Map Check
+[2024.08.12-20.53.06:332][981]LightingResults: New page: Lighting Build
+[2024.08.12-20.53.06:352][981]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.12-20.53.06:361][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.08.12-20.53.06:366][981]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.08.12-20.53.06:366][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.12-20.53.06:387][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.08.12-20.53.06:410][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.08.12-20.53.06:422][981]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2024.08.12-20.53.06:422][981]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.12-20.53.06:423][981]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.12-20.53.06:423][981]LogAIModule: Creating AISystem for world MainMenu
+[2024.08.12-20.53.06:468][981]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.08.12-20.53.06:492][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.08.12-20.53.06:503][981]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.08.12-20.53.06:503][981]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.164ms to complete.
+[2024.08.12-20.53.06:551][981]AssetCheck: New page: Asset Save: 273695-Robotic-Game-Item-8
+[2024.08.12-20.53.06:551][981]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Audio/273695-Robotic-Game-Item-8.273695-Robotic-Game-Item-8
+[2024.08.12-20.53.10:421][ 64]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2024.08.12-20.53.10:422][ 64]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.12-20.53.10:422][ 64]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.12-20.53.18:850][255]BlueprintLog: New page: Compile MainMenu
+[2024.08.12-20.53.18:896][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.08.12-20.53.18:918][255]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.12-20.53.19:146][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.08.12-20.53.19:159][255]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/MainMenu
+[2024.08.12-20.53.19:160][255]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/MainMenu41E1711C42ED7520BE4FE9AD5620F0D1.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/MainMenu.umap'
+[2024.08.12-20.53.19:172][255]LogFileHelpers: Saving map 'MainMenu' took 0.092
+[2024.08.12-20.53.19:214][255]LogFileHelpers: InternalPromptForCheckoutAndSave took 295 ms (total: 19.2 sec)
+[2024.08.12-20.53.19:222][255]AssetCheck: New page: Asset Save: MainMenu
+[2024.08.12-20.53.19:222][255]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu
+[2024.08.12-20.53.21:540][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
