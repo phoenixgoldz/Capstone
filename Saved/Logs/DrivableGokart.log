@@ -3078,3 +3078,14 @@ Script Stack (0 frames) :
 [2024.08.13-16.13.53:888][882]AssetCheck: New page: Asset Save: BP_MysteryBox
 [2024.08.13-16.13.53:888][882]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Items/BP_MysteryBox.BP_MysteryBox
 [2024.08.13-16.13.55:198][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.08.13-16.14.49:798][129]AssetReimport: New page: Outstanding source content changes 4:14:49 AM
+[2024.08.13-16.14.49:872][130]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Images/QuestionMark.png)
+[2024.08.13-16.14.49:874][130]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.08.13-16.14.49:987][131]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.13-16.14.50:241][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/QuestionMark" FILE="../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Images/QuestionMark.uasset" SILENT=true
+[2024.08.13-16.14.50:246][131]LogSavePackage: Moving output files for package: /Game/Images/QuestionMark
+[2024.08.13-16.14.50:246][131]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/QuestionMarkA4D3D1C045A45D35FDEEF4ADD707AD25.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/Images/QuestionMark.uasset'
+[2024.08.13-16.14.50:327][131]LogFileHelpers: InternalPromptForCheckoutAndSave took 340 ms (total: 15.2 sec)
+[2024.08.13-16.14.50:347][132]AssetCheck: New page: Asset Save: QuestionMark
+[2024.08.13-16.14.50:347][132]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/QuestionMark.QuestionMark
+[2024.08.13-16.14.53:606][190]AssetReimport: Importing new asset /Game/Images/QuestionMark.
