@@ -2261,3 +2261,557 @@ Script Stack (0 frames) :
 [2024.08.14-22.42.44:147][167]LogAssetTools: Warning: Two factories registered with same priority : AvfFileMediaSourceFactory_0 and WmfFileMediaSourceFactory_0
 [2024.08.14-22.42.44:160][167]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 C:\Users\Trevor Hicks\Downloads\CANDY LAND LOOP Video.mp4)
 [2024.08.14-22.42.53:004][388]LogAssetEditorSubsystem: Opening Asset editor for FileMediaSource /Game/CandyRushGrandPrix/Movies/CANDY_LAND_LOOP_Video.CANDY_LAND_LOOP_Video
+[2024.08.14-22.46.58:492][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-22.46.58:612][978]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Movies/NewMediaPlayer
+[2024.08.14-22.46.58:612][978]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/NewMediaPlayer94BFE9524D2290CA4C2D289504F4FCBA.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Movies/NewMediaPlayer.uasset'
+[2024.08.14-22.46.58:655][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 3.66 sec)
+[2024.08.14-22.46.58:656][978]AssetCheck: New page: Asset Save: NewMediaPlayer
+[2024.08.14-22.46.58:656][978]LogContentValidation: Display: Validating /Script/MediaAssets.MediaPlayer /Game/CandyRushGrandPrix/Movies/NewMediaPlayer.NewMediaPlayer
+[2024.08.14-22.47.11:807][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-22.47.11:943][542]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Movies/NewMediaPlayer
+[2024.08.14-22.47.11:943][542]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/NewMediaPlayer04CE6F064F4956098EF5B09A063F5BC3.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Movies/NewMediaPlayer.uasset'
+[2024.08.14-22.47.11:987][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 3.84 sec)
+[2024.08.14-22.47.11:989][542]AssetCheck: New page: Asset Save: NewMediaPlayer
+[2024.08.14-22.47.11:989][542]LogContentValidation: Display: Validating /Script/MediaAssets.MediaPlayer /Game/CandyRushGrandPrix/Movies/NewMediaPlayer.NewMediaPlayer
+[2024.08.14-22.47.36:330][825]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.08.14-22.47.36:341][825]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.08.14-22.47.36:354][826]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.08.14-22.47.43:830][275]LogContentBrowser: Attempting asset rename: NewMaterial -> MainVdieo
+[2024.08.14-22.47.43:831][275]LogContentBrowser: End creating deferred item NewMaterial
+[2024.08.14-22.47.46:060][331]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/CandyRushGrandPrix/Movies/MainVdieo.MainVdieo
+[2024.08.14-22.47.46:095][331]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.14-22.47.46:095][331]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.14-22.47.46:261][331]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.14-22.47.46:261][331]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.14-22.47.46:261][331]MaterialEditorStats: Shader Count: 0
+[2024.08.14-22.47.46:266][331]LogViewport: Scene viewport resized to 612x653, mode Windowed.
+[2024.08.14-22.47.46:818][354]LogShaderCompilers: Display: ================================================
+[2024.08.14-22.47.46:818][354]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.08.14-22.47.46:818][354]LogShaderCompilers: Display: Total job queries 40, among them cache hits 6 (15.00%)
+[2024.08.14-22.47.46:819][354]LogShaderCompilers: Display: Tracking 31 distinct input hashes that result in 30 distinct outputs (96.77%)
+[2024.08.14-22.47.46:819][354]LogShaderCompilers: Display: RAM used: 59.92 KiB of 1.60 GiB budget. Usage: 0.00%
+[2024.08.14-22.47.46:819][354]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.08.14-22.47.46:819][354]LogShaderCompilers: Display: Shaders Compiled: 3
+[2024.08.14-22.47.46:819][354]LogShaderCompilers: Display: Jobs assigned 6, completed 3 (50.00%)
+[2024.08.14-22.47.46:819][354]LogShaderCompilers: Display: Average time worker was idle: 1517.09 s
+[2024.08.14-22.47.46:819][354]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.08 s
+[2024.08.14-22.47.46:819][354]LogShaderCompilers: Display: Job execution time: average 1.27 s, max 1.74 s
+[2024.08.14-22.47.46:819][354]LogShaderCompilers: Display: Job life time (pending + execution): average 1.31 s, max 1.76
+[2024.08.14-22.47.46:819][354]LogShaderCompilers: Display: Shader code size: average 5.341 KiB, min 1.355 KiB, max 9.629 KiB
+[2024.08.14-22.47.46:819][354]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.27 s
+[2024.08.14-22.47.46:819][354]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.08.14-22.47.46:819][354]LogShaderCompilers: Display: Average processing rate: 1.32 jobs/sec
+[2024.08.14-22.47.46:819][354]LogShaderCompilers: Display: Total thread time: 2.544 s
+[2024.08.14-22.47.46:819][354]LogShaderCompilers: Display: Total thread preprocess time: 1.37 s
+[2024.08.14-22.47.46:819][354]LogShaderCompilers: Display: Percentage time preprocessing: 53.84%
+[2024.08.14-22.47.46:819][354]LogShaderCompilers: Display: Effective parallelization: 1.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.08.14-22.47.46:819][354]LogShaderCompilers: Display: Top 3 most expensive shader types by average time:
+[2024.08.14-22.47.46:819][354]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 1.21 sec, max 1.21 sec, min 1.21 sec)
+[2024.08.14-22.47.46:819][354]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.19 sec, max 1.19 sec, min 1.19 sec)
+[2024.08.14-22.47.46:819][354]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.15 sec, max 0.15 sec, min 0.15 sec)
+[2024.08.14-22.47.46:819][354]LogShaderCompilers: Display: Top 3 shader types by total compile time:
+[2024.08.14-22.47.46:819][354]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 47.39% of total time (compiled    1 times, average 1.21 sec, max 1.21 sec, min 1.21 sec)
+[2024.08.14-22.47.46:819][354]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 46.61% of total time (compiled    1 times, average 1.19 sec, max 1.19 sec, min 1.19 sec)
+[2024.08.14-22.47.46:819][354]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 6.00% of total time (compiled    1 times, average 0.15 sec, max 0.15 sec, min 0.15 sec)
+[2024.08.14-22.47.46:819][354]LogShaderCompilers: Display: ================================================
+[2024.08.14-22.47.47:155][369]MaterialEditorStats: Base pass shader: 141 instructions
+[2024.08.14-22.47.47:156][369]MaterialEditorStats: Base pass vertex shader: 118 instructions
+[2024.08.14-22.47.47:156][369]MaterialEditorStats: Texture samplers: 2/16
+[2024.08.14-22.47.47:156][369]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.08.14-22.47.47:156][369]MaterialEditorStats: Shader Count: 4
+[2024.08.14-22.48.03:158][689]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.08.14-22.48.03:158][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.14-22.48.07:514][802]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.08.14-22.48.07:514][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.14-22.48.07:528][802]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.08.14-22.48.07:528][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.14-22.48.11:234][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.08.14-22.48.12:336][865]LogSlate: Window 'Delete Assets' being destroyed
+[2024.08.14-22.48.12:444][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.08.14-22.48.12:466][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.08.14-22.48.12:482][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.08.14-22.48.23:581][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.08.14-22.48.23:585][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-22.48.23:708][966]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/WBP-LapCounter
+[2024.08.14-22.48.23:708][966]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/WBP-LapCounter52FCA88C494ABE634BCCB18DCAE73F8D.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/WBP-LapCounter.uasset'
+[2024.08.14-22.48.23:713][966]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Movies/NewMediaPlayer_Video
+[2024.08.14-22.48.23:713][966]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/NewMediaPlayer_Video30E831E94745B4ECB3F5978D91D6AEB4.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Movies/NewMediaPlayer_Video.uasset'
+[2024.08.14-22.48.23:715][966]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Movies/CANDY_LAND_LOOP_Video
+[2024.08.14-22.48.23:715][966]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/CANDY_LAND_LOOP_Video9D1BAA29471252462F33039D6A163B66.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Movies/CANDY_LAND_LOOP_Video.uasset'
+[2024.08.14-22.48.23:736][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 3.99 sec)
+[2024.08.14-22.48.23:738][966]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.14-22.48.23:738][966]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/WBP-LapCounter.WBP-LapCounter
+[2024.08.14-22.48.23:739][966]LogContentValidation: Display: Validating /Script/MediaAssets.MediaTexture /Game/CandyRushGrandPrix/Movies/NewMediaPlayer_Video.NewMediaPlayer_Video
+[2024.08.14-22.48.23:739][966]LogContentValidation: Display: Validating /Script/MediaAssets.FileMediaSource /Game/CandyRushGrandPrix/Movies/CANDY_LAND_LOOP_Video.CANDY_LAND_LOOP_Video
+[2024.08.14-22.48.27:749][ 99]LogContentBrowser: Deferred new asset file creation: NewMediaPlayer_Video_Mat
+[2024.08.14-22.48.27:773][ 99]LogContentBrowser: Creating deferred item: NewMediaPlayer_Video_Mat
+[2024.08.14-22.48.27:784][100]LogContentBrowser: Renaming the item being created (Deferred Item: NewMediaPlayer_Video_Mat).
+[2024.08.14-22.48.29:476][158]LogContentBrowser: Attempting asset rename: NewMediaPlayer_Video_Mat -> NewMediaPlayer_Video_Mat
+[2024.08.14-22.48.29:524][158]LogContentBrowser: End creating deferred item NewMediaPlayer_Video_Mat
+[2024.08.14-22.48.31:153][224]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/CandyRushGrandPrix/Movies/NewMediaPlayer_Video_Mat.NewMediaPlayer_Video_Mat
+[2024.08.14-22.48.31:157][224]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.14-22.48.31:157][224]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.14-22.48.31:398][224]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.14-22.48.31:399][224]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.14-22.48.31:399][224]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.14-22.48.31:399][224]MaterialEditorStats: Shader Count: 0
+[2024.08.14-22.48.31:402][224]LogViewport: Scene viewport resized to 612x653, mode Windowed.
+[2024.08.14-22.48.31:473][226]MaterialEditorStats: Base pass shader: 144 instructions
+[2024.08.14-22.48.31:473][226]MaterialEditorStats: Base pass vertex shader: 122 instructions
+[2024.08.14-22.48.31:473][226]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.14-22.48.31:473][226]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.14-22.48.31:473][226]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.14-22.48.31:473][226]MaterialEditorStats: Shader Count: 4
+[2024.08.14-22.48.38:011][461]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.14-22.48.38:011][461]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.14-22.48.38:011][461]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.14-22.48.38:011][461]MaterialEditorStats: Shader Count: 0
+[2024.08.14-22.48.38:591][479]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.14-22.48.38:592][479]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.14-22.48.38:592][479]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.14-22.48.38:592][479]MaterialEditorStats: Shader Count: 1
+[2024.08.14-22.48.39:195][495]MaterialEditorStats: Base pass shader: 145 instructions
+[2024.08.14-22.48.39:195][495]MaterialEditorStats: Base pass vertex shader: 122 instructions
+[2024.08.14-22.48.39:195][495]MaterialEditorStats: Texture samplers: 3/16
+[2024.08.14-22.48.39:195][495]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.14-22.48.39:195][495]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.14-22.48.39:195][495]MaterialEditorStats: Shader Count: 4
+[2024.08.14-22.48.39:327][498]LogMaterialEditor: Saving and Compiling material NewMediaPlayer_Video_Mat
+[2024.08.14-22.48.40:039][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.08.14-22.48.40:736][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.08.14-22.48.40:779][498]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-22.48.42:214][498]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Movies/NewMediaPlayer_Video_Mat
+[2024.08.14-22.48.42:215][498]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/NewMediaPlayer_Video_MatEAF9BBED40DEC5E71A6EFEA67BC5B5BA.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Movies/NewMediaPlayer_Video_Mat.uasset'
+[2024.08.14-22.48.42:256][498]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.47 sec (total: 5.47 sec)
+[2024.08.14-22.48.42:256][498]AssetCheck: New page: Asset Save: NewMediaPlayer_Video_Mat
+[2024.08.14-22.48.42:256][498]LogContentValidation: Display: Validating /Script/Engine.Material /Game/CandyRushGrandPrix/Movies/NewMediaPlayer_Video_Mat.NewMediaPlayer_Video_Mat
+[2024.08.14-22.48.42:260][498]MaterialEditorStats: Base pass shader: 145 instructions
+[2024.08.14-22.48.42:260][498]MaterialEditorStats: Base pass vertex shader: 122 instructions
+[2024.08.14-22.48.42:260][498]MaterialEditorStats: MaxSampler: 194 instructions
+[2024.08.14-22.48.42:260][498]MaterialEditorStats: Texture samplers: 4/16
+[2024.08.14-22.48.42:260][498]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.14-22.48.42:260][498]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.14-22.48.42:260][498]MaterialEditorStats: Shader Count: 16
+[2024.08.14-22.49.00:697][794]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.08.14-22.49.00:698][794]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.14-22.49.00:698][794]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.14-22.49.00:775][794]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.14-22.49.00:775][794]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.14-22.49.51:324][753]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+[2024.08.14-22.49.51:324][753]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+[2024.08.14-22.49.51:324][753]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2024.08.14-22.49.51:324][753]MaterialEditorStats: Texture samplers: 0/16
+[2024.08.14-22.49.51:324][753]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.14-22.49.51:324][753]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.14-22.49.51:324][753]MaterialEditorStats: Shader Count: 0
+[2024.08.14-22.49.51:343][754]MaterialEditorStats: Default UI Pixel Shader: 25 instructions
+[2024.08.14-22.49.51:343][754]MaterialEditorStats: Default UI Vertex Shader: 26 instructions
+[2024.08.14-22.49.51:343][754]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+[2024.08.14-22.49.51:343][754]MaterialEditorStats: Texture samplers: 1/16
+[2024.08.14-22.49.51:343][754]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.14-22.49.51:343][754]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.14-22.49.51:343][754]MaterialEditorStats: Shader Count: 2
+[2024.08.14-22.50.05:740][587]BlueprintLog: New page: Compile MainMenuWidget
+[2024.08.14-22.50.05:778][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.08.14-22.50.05:914][587]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-22.50.06:077][587]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget
+[2024.08.14-22.50.06:078][587]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/MainMenuWidget52E6EAB846F09475942BC0A7E15E9354.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.uasset'
+[2024.08.14-22.50.06:132][587]LogFileHelpers: InternalPromptForCheckoutAndSave took 218 ms (total: 5.69 sec)
+[2024.08.14-22.50.06:140][587]AssetCheck: New page: Asset Save: MainMenuWidget
+[2024.08.14-22.50.06:140][587]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.08.14-22.50.33:945][684]BlueprintLog: New page: Compile MainMenuWidget
+[2024.08.14-22.50.33:980][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.08.14-22.50.34:117][684]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-22.50.34:285][684]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget
+[2024.08.14-22.50.34:285][684]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/MainMenuWidget63B2AD6C47CBA84C6C4FC1BE5D20BB86.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.uasset'
+[2024.08.14-22.50.34:340][684]LogFileHelpers: InternalPromptForCheckoutAndSave took 223 ms (total: 5.91 sec)
+[2024.08.14-22.50.34:348][684]AssetCheck: New page: Asset Save: MainMenuWidget
+[2024.08.14-22.50.34:348][684]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.08.14-22.50.36:092][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.08.14-22.50.36:101][707]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-22.50.37:234][707]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Movies/NewMediaPlayer_Video_Mat
+[2024.08.14-22.50.37:234][707]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/NewMediaPlayer_Video_MatCCA982B7445AB8CFA959419EAA9E00A2.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Movies/NewMediaPlayer_Video_Mat.uasset'
+[2024.08.14-22.50.37:276][707]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.17 sec (total: 7.09 sec)
+[2024.08.14-22.50.37:278][707]AssetCheck: New page: Asset Save: NewMediaPlayer_Video_Mat
+[2024.08.14-22.50.37:278][707]LogContentValidation: Display: Validating /Script/Engine.Material /Game/CandyRushGrandPrix/Movies/NewMediaPlayer_Video_Mat.NewMediaPlayer_Video_Mat
+[2024.08.14-22.50.37:279][707]MaterialEditorStats: Default UI Pixel Shader: 25 instructions
+[2024.08.14-22.50.37:279][707]MaterialEditorStats: Default UI Vertex Shader: 26 instructions
+[2024.08.14-22.50.37:279][707]MaterialEditorStats: Instanced UI Vertex Shader: 26 instructions
+[2024.08.14-22.50.37:279][707]MaterialEditorStats: Texture samplers: 2/16
+[2024.08.14-22.50.37:279][707]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.08.14-22.50.37:279][707]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.08.14-22.50.37:279][707]MaterialEditorStats: Shader Count: 11
+[2024.08.14-22.51.25:603][290]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.14-22.51.25:613][290]LoadErrors: The Skeleton  SK_Gokart_Skeleton1 is missing bones that SkeletalMesh  SK_Gokart needs. They will be added now. Please save the Skeleton!
+[2024.08.14-22.51.27:147][335]LogSlate: Window 'Message Log' being destroyed
+[2024.08.14-22.51.29:114][405]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2024.08.14-22.51.29:114][405]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.14-22.51.29:114][405]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.14-22.52.08:687][758]BlueprintLog: New page: Compile MainMenu
+[2024.08.14-22.52.08:720][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.08.14-22.52.08:734][758]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-22.52.08:853][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.08.14-22.52.08:862][758]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/MainMenu
+[2024.08.14-22.52.08:862][758]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/MainMenu28F78FDC4612E9CE81872CBF81A7A8B8.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/MainMenu.umap'
+[2024.08.14-22.52.08:870][758]LogFileHelpers: Saving map 'MainMenu' took 0.064
+[2024.08.14-22.52.08:889][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 7.24 sec)
+[2024.08.14-22.52.08:898][758]AssetCheck: New page: Asset Save: MainMenu
+[2024.08.14-22.52.08:898][758]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu
+[2024.08.14-22.53.08:172][756]BlueprintLog: New page: Compile MainMenu
+[2024.08.14-22.53.08:200][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.08.14-22.53.08:212][756]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-22.53.08:352][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.08.14-22.53.08:360][756]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/MainMenu
+[2024.08.14-22.53.08:360][756]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/MainMenu145D69BA42E4292DD1ABF7926C9E9674.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/MainMenu.umap'
+[2024.08.14-22.53.08:368][756]LogFileHelpers: Saving map 'MainMenu' took 0.060
+[2024.08.14-22.53.08:387][756]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 7.42 sec)
+[2024.08.14-22.53.08:389][756]AssetCheck: New page: Asset Save: MainMenu
+[2024.08.14-22.53.08:389][756]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu
+[2024.08.14-22.53.24:061][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2024.08.14-22.54.48:849][852]LogViewport: Scene viewport resized to 1954x783, mode Windowed.
+[2024.08.14-22.55.04:632][641]LogContentBrowser: Attempting asset rename: NewMediaPlayer -> MainVideoPlayer
+[2024.08.14-22.55.04:675][641]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-22.55.04:779][641]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Movies/MainVideoPlayer
+[2024.08.14-22.55.04:779][641]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/MainVideoPlayerEA5AA3384094E77CED5F13845550087B.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Movies/MainVideoPlayer.uasset'
+[2024.08.14-22.55.04:782][641]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Movies/NewMediaPlayer
+[2024.08.14-22.55.04:783][641]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/NewMediaPlayerCB04B15F4D3D22D290EC4AB8E97F6396.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Movies/NewMediaPlayer.uasset'
+[2024.08.14-22.55.04:823][641]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 7.57 sec)
+[2024.08.14-22.55.04:825][641]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.14-22.55.04:825][641]LogContentValidation: Display: Validating /Script/MediaAssets.MediaPlayer /Game/CandyRushGrandPrix/Movies/MainVideoPlayer.MainVideoPlayer
+[2024.08.14-22.55.04:825][641]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/CandyRushGrandPrix/Movies/NewMediaPlayer.NewMediaPlayer
+[2024.08.14-22.55.15:617][186]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.14-22.55.15:630][186]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.08.14-22.55.15:630][186]LogPlayLevel: [PlayLevel] Compiling MainMenu before play...
+[2024.08.14-22.55.15:657][186]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-22.55.15:815][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.08.14-22.55.15:830][186]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/MainMenu
+[2024.08.14-22.55.15:831][186]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/MainMenuA012DA9B41440140451B85BAF7916F25.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/MainMenu.umap'
+[2024.08.14-22.55.15:842][186]LogFileHelpers: Saving map 'MainMenu' took 0.080
+[2024.08.14-22.55.15:862][186]LogFileHelpers: InternalPromptForCheckoutAndSave took 204 ms (total: 7.77 sec)
+[2024.08.14-22.55.15:879][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.08.14-22.55.15:880][186]LogPlayLevel: PlayLevel: Blueprint regeneration took 250 ms (1 blueprints)
+[2024.08.14-22.55.15:880][186]PIE: New page: PIE session: MainMenu (Aug 14, 2024, 10:55:15 AM)
+[2024.08.14-22.55.15:880][186]LogPlayLevel: Creating play world package: /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu
+[2024.08.14-22.55.15:882][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001629s)
+[2024.08.14-22.55.15:882][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu to /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu.MainMenu (0.001668s)
+[2024.08.14-22.55.15:894][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.08.14-22.55.15:896][186]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.14-22.55.15:897][186]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.14-22.55.15:897][186]LogAIModule: Creating AISystem for world MainMenu
+[2024.08.14-22.55.15:897][186]LogPlayLevel: PIE: World Init took: (0.001447s)
+[2024.08.14-22.55.15:897][186]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.08.14-22.55.15:897][186]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.14-22.55.15:897][186]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.14-22.55.15:897][186]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.14-22.55.15:897][186]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.14-22.55.15:897][186]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.08.14-22.55.15:897][186]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.14-22.55.15:897][186]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.08.14-22.55.15:897][186]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.14-22.55.15:898][186]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.14-22.55.15:898][186]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.14-22.55.15:898][186]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.14-22.55.15:901][186]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.14-22.55.15:925][186]LogAudioMixer: Display: Using Audio Hardware Device Headphones (3- MUZ3007)
+[2024.08.14-22.55.15:926][186]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.14-22.55.15:926][186]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.14-22.55.15:926][186]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.14-22.55.15:927][186]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.08.14-22.55.15:927][186]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.08.14-22.55.15:929][186]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.08.14-22.55.15:929][186]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.08.14-22.55.15:929][186]LogInit: FAudioDevice initialized with ID 11.
+[2024.08.14-22.55.15:929][186]LogAudio: Display: Audio Device (ID: 11) registered with world 'MainMenu'.
+[2024.08.14-22.55.15:929][186]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.08.14-22.55.15:933][186]LogLoad: Game class is 'GM_MainMenu_C'
+[2024.08.14-22.55.15:934][186]LogWorld: Bringing World /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2024.08.14-16.55.15
+[2024.08.14-22.55.15:934][186]LogWorld: Bringing up level for play took: 0.000654
+[2024.08.14-22.55.15:936][186]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2024.08.14-22.55.15:938][186]LogOutputDevice: Warning: 
+
+Script Stack (2 frames) :
+/Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu_C.ExecuteUbergraph_MainMenu
+/Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu_C.ReceiveBeginPlay
+
+[2024.08.14-22.55.15:962][186]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.024 s
+[2024.08.14-22.55.15:962][186]LogOutputDevice: Error: === Handled ensure: ===
+[2024.08.14-22.55.15:962][186]LogOutputDevice: Error: 
+[2024.08.14-22.55.15:962][186]LogOutputDevice: Error: Ensure condition failed: LocalPlayer  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\GameFramework\SaveGame.cpp] [Line: 62] 
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: 
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: Stack: 
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ffeac891ee9 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ffeb0314502 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ffeb03175b8 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ffeb02ea7b8 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ffeb02b9da1 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ffeb02ea1e1 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ffeb02ea7b8 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ffeb02e9777 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ffeaffdd280 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ffeb02e828f UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ffeabb5aacd UnrealEditor-Engine.dll!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ffeabb2f325 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ffeabb35e49 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ffeadf6e236 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ffeac8552f1 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ffeadd93f11 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ffeac8833e8 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ffea88fb5fd UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ffea89315f0 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ffea88fc2dc UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ffea8959b22 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ffea895dcdb UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ffea895d30e UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ffea81b4e94 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ffea8e0ea06 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ff78a208af2 UnrealEditor.exe!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ff78a22d28c UnrealEditor.exe!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ff78a22d37a UnrealEditor.exe!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ff78a230854 UnrealEditor.exe!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ff78a246984 UnrealEditor.exe!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007ff78a249d7a UnrealEditor.exe!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007fff55d4257d KERNEL32.DLL!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: [Callstack] 0x00007fff5782af28 ntdll.dll!UnknownFunction []
+[2024.08.14-22.55.15:963][186]LogOutputDevice: Error: 
+[2024.08.14-22.55.15:971][186]LogStats:                SubmitErrorReport -  0.000 s
+[2024.08.14-22.55.16:819][186]LogStats:                    SendNewReport -  0.849 s
+[2024.08.14-22.55.16:819][186]LogStats:             FDebug::EnsureFailed -  0.881 s
+[2024.08.14-22.55.16:819][186]LogPlayerManagement: Error: AsyncLoadOrCreateSaveGameForLocalPlayer called with null or remote player controller!
+[2024.08.14-22.55.16:819][186]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.08.14-22.55.16:819][186]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.08.14-22.55.16:820][186]PIE: Server logged in
+[2024.08.14-22.55.16:821][186]PIE: Play in editor total start time 1.192 seconds.
+[2024.08.14-22.55.16:823][186]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Timothée_Chalamet_-_Pure_Imagination_from_Wonka'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.08.14-22.55.16:864][187]AssetCheck: New page: Asset Save: MainMenu
+[2024.08.14-22.55.16:864][187]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu
+[2024.08.14-22.55.26:036][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.14-22.55.26:036][535]LogWorld: BeginTearingDown for /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu
+[2024.08.14-22.55.26:036][535]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.08.14-22.55.26:036][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.14-22.55.26:040][535]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.14-22.55.26:048][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.14-22.55.26:066][535]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.14-22.55.26:067][535]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.08.14-22.55.26:067][535]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.08.14-22.55.26:070][535]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.08.14-22.55.26:079][535]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.08.14-22.55.26:145][536]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.08.14-22.55.46:656][432]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.14-22.56.03:582][ 72]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.14-22.56.15:053][512]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.14-22.58.27:138][802]LogSlate: Took 0.007003 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.08.14-22.58.44:416][493]LogEditorTransaction: Undo Changed Anchors
+[2024.08.14-22.58.44:740][497]LogEditorTransaction: Undo Move Widget
+[2024.08.14-22.58.45:221][509]LogEditorTransaction: Undo Move Widget
+[2024.08.14-23.01.46:481][904]BlueprintLog: New page: Compile MainMenuWidget
+[2024.08.14-23.01.46:522][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.08.14-23.01.46:656][904]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-23.01.46:814][904]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget
+[2024.08.14-23.01.46:814][904]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/MainMenuWidget533B75F14C24AE2E3DD2EEABC11A35CD.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.uasset'
+[2024.08.14-23.01.46:835][904]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 7.95 sec)
+[2024.08.14-23.01.46:844][904]AssetCheck: New page: Asset Save: MainMenuWidget
+[2024.08.14-23.01.46:844][904]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.08.14-23.01.48:347][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.08.14-23.02.35:010][305]BlueprintLog: New page: Compile MainMenuWidget
+[2024.08.14-23.02.35:036][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.08.14-23.02.35:163][305]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-23.02.35:291][305]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget
+[2024.08.14-23.02.35:293][305]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/MainMenuWidget4513A73F403AEA4B2EF484B017649AD7.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.uasset'
+[2024.08.14-23.02.35:313][305]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 8.10 sec)
+[2024.08.14-23.02.35:321][305]AssetCheck: New page: Asset Save: MainMenuWidget
+[2024.08.14-23.02.35:321][305]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.08.14-23.02.53:527][291]LogEditorTransaction: Undo Edit font size
+[2024.08.14-23.04.05:925][604]LogEditorTransaction: Undo Edit Size
+[2024.08.14-23.04.07:476][649]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 138649
+[2024.08.14-23.04.07:478][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.14-23.04.07:545][650]LogSlate: Took 0.006903 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.08.14-23.04.07:551][650]LogSlate: Took 0.005687 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.08.14-23.04.07:559][650]LogSlate: Took 0.006618 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.08.14-23.04.07:568][650]LogSlate: Took 0.005448 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.08.14-23.04.07:576][650]LogSlate: Took 0.005786 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.08.14-23.04.12:666][876]BlueprintLog: New page: Compile MainMenuWidget
+[2024.08.14-23.04.12:705][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.08.14-23.04.12:719][876]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-23.04.12:851][876]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget
+[2024.08.14-23.04.12:852][876]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/MainMenuWidget11DD4EB34452B2BF73E76BBBBC70B68F.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.uasset'
+[2024.08.14-23.04.12:873][876]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 8.25 sec)
+[2024.08.14-23.04.12:874][876]AssetCheck: New page: Asset Save: MainMenuWidget
+[2024.08.14-23.04.12:874][876]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.08.14-23.05.13:660][181]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.14-23.05.16:741][278]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.14-23.05.28:281][671]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.14-23.05.33:902][881]LogPropertyNode: Warning: One or more of the properties in category "Appearance" was not copied:
+Font
+Size
+[2024.08.14-23.05.34:440][913]LogDerivedDataCache: C:/Users/Trevor Hicks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.162 and deleted 0 files with total size 0 MiB and 70 empty folders. Scanned 6302 files in 8346 folders with total size 662 MiB.
+[2024.08.14-23.05.50:725][678]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.14-23.05.57:986][ 16]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.14-23.06.05:827][375]LogSlate: Window 'Color Picker' being destroyed
+[2024.08.14-23.06.32:702][461]BlueprintLog: New page: Compile MainMenuWidget
+[2024.08.14-23.06.32:739][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.08.14-23.06.32:856][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-23.06.32:968][461]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget
+[2024.08.14-23.06.32:968][461]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/MainMenuWidgetB9D9AC0E464F761134A064B62373B434.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.uasset'
+[2024.08.14-23.06.32:989][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 8.39 sec)
+[2024.08.14-23.06.32:996][461]AssetCheck: New page: Asset Save: MainMenuWidget
+[2024.08.14-23.06.32:996][461]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.08.14-23.06.33:485][478]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-23.06.33:636][478]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget
+[2024.08.14-23.06.33:636][478]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/MainMenuWidget1DD8161F4B44F533B72710A9CEAE53F7.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.uasset'
+[2024.08.14-23.06.33:671][478]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 8.57 sec)
+[2024.08.14-23.06.33:673][478]AssetCheck: New page: Asset Save: MainMenuWidget
+[2024.08.14-23.06.33:673][478]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.08.14-23.06.35:055][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.08.14-23.06.40:104][742]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.08.14-23.06.40:104][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.14-23.06.40:117][742]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.08.14-23.06.40:117][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.14-23.06.40:175][742]LogViewport: Scene viewport resized to 1264x657, mode Windowed.
+[2024.08.14-23.06.41:090][775]LogSlate: Took 0.004340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.08.14-23.06.44:639][954]LogSlate: Took 0.005711 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.08.14-23.06.54:615][275]LogSlate: Took 0.000222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display: ================================================
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display: Total job queries 101, among them cache hits 30 (29.70%)
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display: Tracking 69 distinct input hashes that result in 56 distinct outputs (81.16%)
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display: RAM used: 144.13 KiB of 1.60 GiB budget. Usage: 0.01%
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display: Shaders Compiled: 33
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display: Jobs assigned 35, completed 33 (94.29%)
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display: Average time worker was idle: 306.94 s
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 0.77 s
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display: Job execution time: average 0.76 s, max 1.74 s
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display: Job life time (pending + execution): average 0.87 s, max 1.76
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display: Shader code size: average 5.083 KiB, min 1.223 KiB, max 10.844 KiB
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.03 s
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display: Jobs were issued in 35 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display: Average processing rate: 4.69 jobs/sec
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display: Total thread time: 17.586 s
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display: Total thread preprocess time: 2.562 s
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display: Percentage time preprocessing: 14.57%
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display: Effective parallelization: 2.50 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    1 times, average 0.83 sec, max 0.83 sec, min 0.83 sec)
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 0.81 sec, max 0.81 sec, min 0.81 sec)
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    1 times, average 0.80 sec, max 0.80 sec, min 0.80 sec)
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    1 times, average 0.77 sec, max 0.77 sec, min 0.77 sec)
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 0.76 sec, max 0.76 sec, min 0.76 sec)
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.82% of total time (compiled    6 times, average 0.61 sec, max 1.19 sec, min 0.43 sec)
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.69% of total time (compiled    4 times, average 0.73 sec, max 1.21 sec, min 0.49 sec)
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.63% of total time (compiled    2 times, average 0.58 sec, max 0.66 sec, min 0.50 sec)
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display:                                             FDebugViewModePS - 5.34% of total time (compiled    2 times, average 0.47 sec, max 0.59 sec, min 0.35 sec)
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display:                                             FDebugViewModeVS - 4.86% of total time (compiled    2 times, average 0.43 sec, max 0.56 sec, min 0.30 sec)
+[2024.08.14-23.07.49:476][556]LogShaderCompilers: Display: ================================================
+[2024.08.14-23.07.51:123][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.08.14-23.07.51:818][580]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.14-23.07.51:823][580]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CandyRushGrandPrix/Levels/MP-KartSelection.MP-KartSelection
+[2024.08.14-23.07.51:824][580]LightingResults: New page: Lighting Build
+[2024.08.14-23.07.51:824][580]LoadErrors: New page: Loading map: MP-KartSelection.umap
+[2024.08.14-23.07.51:934][580]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.08.14-23.07.51:934][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.14-23.07.51:987][580]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.08.14-23.07.51:987][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.14-23.07.51:987][580]MapCheck: New page: Map Check
+[2024.08.14-23.07.51:987][580]LightingResults: New page: Lighting Build
+[2024.08.14-23.07.52:007][580]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.14-23.07.52:011][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.08.14-23.07.52:017][580]LogWorld: UWorld::CleanupWorld for MP-KartSelection, bSessionEnded=true, bCleanupResources=true
+[2024.08.14-23.07.52:017][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.14-23.07.52:032][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.08.14-23.07.52:049][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.08.14-23.07.52:061][580]LogAudio: Display: Audio Device (ID: 1) registered with world 'MP-KartSelection'.
+[2024.08.14-23.07.52:061][580]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.14-23.07.52:061][580]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.14-23.07.52:097][580]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.08.14-23.07.52:115][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.08.14-23.07.52:121][580]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.08.14-23.07.52:121][580]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.185ms to complete.
+[2024.08.14-23.07.52:174][580]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.14-23.07.58:553][688]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/CandyRushGrandPrix/Levels/MP-KartSelection.MP-KartSelection:PersistentLevel.MP-KartSelection
+[2024.08.14-23.07.58:554][688]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.14-23.07.58:554][688]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.14-23.08.00:291][713]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.08.14-23.08.00:292][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.14-23.08.15:233][225]BlueprintLog: New page: Compile MP-KartSelection
+[2024.08.14-23.08.15:268][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.08.14-23.08.15:279][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-23.08.15:409][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.08.14-23.08.15:428][225]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/MP-KartSelection
+[2024.08.14-23.08.15:428][225]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/MP-KartSelectionB9D6EC3245E09200DF4231B5F4C05055.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/MP-KartSelection.umap'
+[2024.08.14-23.08.15:435][225]LogFileHelpers: Saving map 'MP-KartSelection' took 0.067
+[2024.08.14-23.08.15:457][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 178 ms (total: 8.75 sec)
+[2024.08.14-23.08.15:461][225]AssetCheck: New page: Asset Save: MP-KartSelection
+[2024.08.14-23.08.15:461][225]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/MP-KartSelection.MP-KartSelection
+[2024.08.14-23.08.33:501][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-23.08.33:697][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.08.14-23.08.33:715][ 74]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/MP-KartSelection
+[2024.08.14-23.08.33:715][ 74]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/MP-KartSelection283B5B6F41A68F0B9BF24C99CF21EC49.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/MP-KartSelection.umap'
+[2024.08.14-23.08.33:721][ 74]LogFileHelpers: Saving map 'MP-KartSelection' took 0.068
+[2024.08.14-23.08.33:742][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 241 ms (total: 8.99 sec)
+[2024.08.14-23.08.33:745][ 74]AssetCheck: New page: Asset Save: MP-KartSelection
+[2024.08.14-23.08.33:745][ 74]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/MP-KartSelection.MP-KartSelection
+[2024.08.14-23.08.46:393][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.08.14-23.08.46:549][724]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.14-23.08.46:550][724]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CandyRushGrandPrix/Levels/LevelSelect.LevelSelect
+[2024.08.14-23.08.46:551][724]LightingResults: New page: Lighting Build
+[2024.08.14-23.08.46:551][724]LoadErrors: New page: Loading map: LevelSelect.umap
+[2024.08.14-23.08.46:674][724]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2024.08.14-23.08.46:674][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.14-23.08.46:726][724]LogWorld: UWorld::CleanupWorld for MP-KartSelection, bSessionEnded=true, bCleanupResources=true
+[2024.08.14-23.08.46:726][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.14-23.08.46:726][724]MapCheck: New page: Map Check
+[2024.08.14-23.08.46:726][724]LightingResults: New page: Lighting Build
+[2024.08.14-23.08.46:741][724]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.14-23.08.46:744][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.08.14-23.08.46:753][724]LogWorld: UWorld::CleanupWorld for LevelSelect, bSessionEnded=true, bCleanupResources=true
+[2024.08.14-23.08.46:753][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.14-23.08.46:773][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.08.14-23.08.46:791][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.08.14-23.08.46:798][724]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelSelect'.
+[2024.08.14-23.08.46:799][724]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.14-23.08.46:799][724]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.14-23.08.46:799][724]LogAIModule: Creating AISystem for world LevelSelect
+[2024.08.14-23.08.46:839][724]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.08.14-23.08.46:860][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2024.08.14-23.08.46:872][724]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.08.14-23.08.46:873][724]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.148ms to complete.
+[2024.08.14-23.08.49:674][817]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/CandyRushGrandPrix/Levels/LevelSelect.LevelSelect:PersistentLevel.LevelSelect
+[2024.08.14-23.08.49:675][817]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.14-23.08.49:675][817]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.14-23.09.43:006][ 27]BlueprintLog: New page: Compile LevelSelect
+[2024.08.14-23.09.43:038][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2024.08.14-23.09.43:048][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-23.09.43:177][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.08.14-23.09.43:184][ 27]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/LevelSelect
+[2024.08.14-23.09.43:184][ 27]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/LevelSelectACD8C07D492C7BCD494336B6233AC4CC.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/LevelSelect.umap'
+[2024.08.14-23.09.43:191][ 27]LogFileHelpers: Saving map 'LevelSelect' took 0.056
+[2024.08.14-23.09.43:213][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 9.16 sec)
+[2024.08.14-23.09.43:214][ 27]AssetCheck: New page: Asset Save: LevelSelect
+[2024.08.14-23.09.43:214][ 27]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/LevelSelect.LevelSelect
+[2024.08.14-23.09.45:234][121]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2024.08.14-23.09.45:234][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.14-23.09.51:741][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.08.14-23.09.51:905][435]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.14-23.09.51:907][435]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu
+[2024.08.14-23.09.51:907][435]Cmd: MAP LOAD FILE="../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.08.14-23.09.51:907][435]LightingResults: New page: Lighting Build
+[2024.08.14-23.09.51:907][435]LoadErrors: New page: Loading map: MainMenu.umap
+[2024.08.14-23.09.51:954][435]LogWorld: UWorld::CleanupWorld for LevelSelect, bSessionEnded=true, bCleanupResources=true
+[2024.08.14-23.09.51:954][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.14-23.09.51:955][435]MapCheck: New page: Map Check
+[2024.08.14-23.09.51:955][435]LightingResults: New page: Lighting Build
+[2024.08.14-23.09.51:975][435]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.14-23.09.51:978][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.08.14-23.09.51:981][435]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.08.14-23.09.51:981][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.14-23.09.52:004][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.08.14-23.09.52:025][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.08.14-23.09.52:036][435]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2024.08.14-23.09.52:036][435]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.14-23.09.52:036][435]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.14-23.09.52:037][435]LogAIModule: Creating AISystem for world MainMenu
+[2024.08.14-23.09.52:080][435]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.08.14-23.09.52:104][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.08.14-23.09.52:114][435]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.08.14-23.09.52:114][435]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.153ms to complete.
