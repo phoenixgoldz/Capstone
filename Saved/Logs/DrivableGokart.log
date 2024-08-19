@@ -1333,3 +1333,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.08.19-04.57.30:108][597]LogSlate: Window 'Content Browser' being destroyed
 [2024.08.19-05.05.10:641][187]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
 [2024.08.19-05.07.06:420][953]LogSlate: External Image Picker: DecompressImage failed
+[2024.08.19-05.11.42:972][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
