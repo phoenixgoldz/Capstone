@@ -3614,3 +3614,127 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2024.08.21-20.51.25:202][504]LogFileHelpers: InternalPromptForCheckoutAndSave took 223 ms (total: 1.18 sec)
 [2024.08.21-20.51.25:204][504]AssetCheck: New page: Asset Save: MainMenu
 [2024.08.21-20.51.25:205][504]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu
+[2024.08.21-20.51.47:803][607]LogSlate: Window 'MainMenu' being destroyed
+[2024.08.21-20.51.47:928][607]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-20.51.47:928][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-20.53.50:811][285]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.21-20.53.50:827][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.21-20.53.50:827][285]PIE: New page: PIE session: MainMenu (Aug 21, 2024, 8:53:50 AM)
+[2024.08.21-20.53.50:827][285]LogPlayLevel: Creating play world package: /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu
+[2024.08.21-20.53.50:830][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002000s)
+[2024.08.21-20.53.50:830][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu to /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu.MainMenu (0.002046s)
+[2024.08.21-20.53.50:880][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2024.08.21-20.53.50:888][285]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-20.53.50:889][285]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.21-20.53.50:889][285]LogAIModule: Creating AISystem for world MainMenu
+[2024.08.21-20.53.50:890][285]LogPlayLevel: PIE: World Init took: (0.002126s)
+[2024.08.21-20.53.50:890][285]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.08.21-20.53.50:890][285]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.21-20.53.50:890][285]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.21-20.53.50:890][285]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.21-20.53.50:890][285]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.21-20.53.50:891][285]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.21-20.53.50:891][285]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.21-20.53.50:891][285]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.21-20.53.50:891][285]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.21-20.53.50:891][285]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.21-20.53.50:891][285]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.21-20.53.50:891][285]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.21-20.53.50:895][285]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.21-20.53.50:932][285]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.08.21-20.53.50:933][285]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.21-20.53.50:933][285]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.21-20.53.50:933][285]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.21-20.53.50:933][285]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.08.21-20.53.50:934][285]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.08.21-20.53.50:937][285]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.08.21-20.53.50:937][285]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.08.21-20.53.50:937][285]LogInit: FAudioDevice initialized with ID 4.
+[2024.08.21-20.53.50:937][285]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMenu'.
+[2024.08.21-20.53.50:937][285]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.08.21-20.53.50:942][285]LogLoad: Game class is 'GM_MainMenu_C'
+[2024.08.21-20.53.50:943][285]LogWorld: Bringing World /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2024.08.21-14.53.50
+[2024.08.21-20.53.50:943][285]LogWorld: Bringing up level for play took: 0.000475
+[2024.08.21-20.53.50:946][285]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.08.21-20.53.50:950][285]LogOutputDevice: Warning: 
+
+Script Stack (2 frames) :
+/Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu_C.ExecuteUbergraph_MainMenu
+/Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu_C.ReceiveBeginPlay
+
+[2024.08.21-20.53.50:980][285]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.030 s
+[2024.08.21-20.53.50:980][285]LogOutputDevice: Error: === Handled ensure: ===
+[2024.08.21-20.53.50:980][285]LogOutputDevice: Error: 
+[2024.08.21-20.53.50:980][285]LogOutputDevice: Error: Ensure condition failed: LocalPlayer  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\GameFramework\SaveGame.cpp] [Line: 62] 
+[2024.08.21-20.53.50:980][285]LogOutputDevice: Error: 
+[2024.08.21-20.53.50:980][285]LogOutputDevice: Error: Stack: 
+[2024.08.21-20.53.50:980][285]LogOutputDevice: Error: [Callstack] 0x00007ff8ec551ee9 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.08.21-20.53.50:980][285]LogOutputDevice: Error: [Callstack] 0x00007ff9575d4502 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.21-20.53.50:980][285]LogOutputDevice: Error: [Callstack] 0x00007ff9575d75b8 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.21-20.53.50:980][285]LogOutputDevice: Error: [Callstack] 0x00007ff9575aa7b8 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.21-20.53.50:980][285]LogOutputDevice: Error: [Callstack] 0x00007ff957579da1 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.21-20.53.50:980][285]LogOutputDevice: Error: [Callstack] 0x00007ff9575aa1e1 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.21-20.53.50:980][285]LogOutputDevice: Error: [Callstack] 0x00007ff9575aa7b8 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.21-20.53.50:980][285]LogOutputDevice: Error: [Callstack] 0x00007ff9575a9777 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.21-20.53.50:980][285]LogOutputDevice: Error: [Callstack] 0x00007ff95729d280 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.21-20.53.50:980][285]LogOutputDevice: Error: [Callstack] 0x00007ff9575a828f UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.08.21-20.53.50:980][285]LogOutputDevice: Error: [Callstack] 0x00007ff8eb81aacd UnrealEditor-Engine.dll!UnknownFunction []
+[2024.08.21-20.53.50:980][285]LogOutputDevice: Error: [Callstack] 0x00007ff8eb7ef325 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.08.21-20.53.50:980][285]LogOutputDevice: Error: [Callstack] 0x00007ff8eb7f5e49 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.08.21-20.53.50:980][285]LogOutputDevice: Error: [Callstack] 0x00007ff8edc2e236 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.08.21-20.53.50:981][285]LogOutputDevice: Error: [Callstack] 0x00007ff8ec5152f1 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.08.21-20.53.50:981][285]LogOutputDevice: Error: [Callstack] 0x00007ff8eda53f11 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.08.21-20.53.50:981][285]LogOutputDevice: Error: [Callstack] 0x00007ff8ec5433e8 UnrealEditor-Engine.dll!UnknownFunction []
+[2024.08.21-20.53.50:981][285]LogOutputDevice: Error: [Callstack] 0x00007ff8e311b5fd UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.08.21-20.53.50:981][285]LogOutputDevice: Error: [Callstack] 0x00007ff8e31515f0 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.08.21-20.53.50:981][285]LogOutputDevice: Error: [Callstack] 0x00007ff8e311c2dc UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.08.21-20.53.50:981][285]LogOutputDevice: Error: [Callstack] 0x00007ff8e3179b22 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.08.21-20.53.50:981][285]LogOutputDevice: Error: [Callstack] 0x00007ff8e317dcdb UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.08.21-20.53.50:981][285]LogOutputDevice: Error: [Callstack] 0x00007ff8e317d30e UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.08.21-20.53.50:981][285]LogOutputDevice: Error: [Callstack] 0x00007ff8e29d4e94 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.08.21-20.53.50:981][285]LogOutputDevice: Error: [Callstack] 0x00007ff8e362ea06 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2024.08.21-20.53.50:981][285]LogOutputDevice: Error: [Callstack] 0x00007ff60c518af2 UnrealEditor.exe!UnknownFunction []
+[2024.08.21-20.53.50:981][285]LogOutputDevice: Error: [Callstack] 0x00007ff60c53d28c UnrealEditor.exe!UnknownFunction []
+[2024.08.21-20.53.50:981][285]LogOutputDevice: Error: [Callstack] 0x00007ff60c53d37a UnrealEditor.exe!UnknownFunction []
+[2024.08.21-20.53.50:981][285]LogOutputDevice: Error: [Callstack] 0x00007ff60c540854 UnrealEditor.exe!UnknownFunction []
+[2024.08.21-20.53.50:981][285]LogOutputDevice: Error: [Callstack] 0x00007ff60c556984 UnrealEditor.exe!UnknownFunction []
+[2024.08.21-20.53.50:981][285]LogOutputDevice: Error: [Callstack] 0x00007ff60c559d7a UnrealEditor.exe!UnknownFunction []
+[2024.08.21-20.53.50:981][285]LogOutputDevice: Error: [Callstack] 0x00007ff9b03a257d KERNEL32.DLL!UnknownFunction []
+[2024.08.21-20.53.50:981][285]LogOutputDevice: Error: [Callstack] 0x00007ff9b186af28 ntdll.dll!UnknownFunction []
+[2024.08.21-20.53.50:981][285]LogOutputDevice: Error: 
+[2024.08.21-20.53.50:989][285]LogStats:                SubmitErrorReport -  0.000 s
+[2024.08.21-20.53.51:710][285]LogStats:                    SendNewReport -  0.721 s
+[2024.08.21-20.53.51:710][285]LogStats:             FDebug::EnsureFailed -  0.761 s
+[2024.08.21-20.53.51:710][285]LogPlayerManagement: Error: AsyncLoadOrCreateSaveGameForLocalPlayer called with null or remote player controller!
+[2024.08.21-20.53.51:712][285]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.08.21-20.53.51:712][285]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.08.21-20.53.51:712][285]PIE: Server logged in
+[2024.08.21-20.53.51:713][285]PIE: Play in editor total start time 0.887 seconds.
+[2024.08.21-20.53.51:730][285]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Timothée_Chalamet_-_Pure_Imagination_from_Wonka'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.08.21-20.53.55:478][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.21-20.53.55:478][390]LogWorld: BeginTearingDown for /Game/CandyRushGrandPrix/Levels/UEDPIE_0_MainMenu
+[2024.08.21-20.53.55:478][390]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-20.53.55:478][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-20.53.55:512][390]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.21-20.53.55:528][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-20.53.55:544][390]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.21-20.53.55:544][390]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.08.21-20.53.55:545][390]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.08.21-20.53.55:548][390]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.08.21-20.53.55:556][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.21-20.53.55:559][390]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.08.21-20.53.55:608][391]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.08.21-20.54.00:158][498]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.08.21-20.54.00:158][498]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-20.54.00:158][498]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.21-20.54.00:235][498]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-20.54.00:235][498]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.21-20.54.05:960][630]LogSlate: Took 0.001682 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.08.21-20.54.18:255][887]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.21-20.54.18:536][887]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget
+[2024.08.21-20.54.18:536][887]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/MainMenuWidget02A3916C466A7596DFCECDB3209A2E49.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.uasset'
+[2024.08.21-20.54.18:585][887]LogFileHelpers: InternalPromptForCheckoutAndSave took 330 ms (total: 1.51 sec)
+[2024.08.21-20.54.18:589][887]AssetCheck: New page: Asset Save: MainMenuWidget
+[2024.08.21-20.54.18:589][887]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
+[2024.08.21-20.54.19:380][905]BlueprintLog: New page: Compile MainMenuWidget
+[2024.08.21-20.54.19:418][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
