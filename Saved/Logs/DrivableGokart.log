@@ -4150,3 +4150,148 @@ Script Stack (2 frames) :
 [2024.08.21-21.25.29:436][361]Cmd: MAP CHECKDEP NOCLEARLOG
 [2024.08.21-21.25.29:436][361]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.157ms to complete.
 [2024.08.21-21.30.34:863][ 69]LogDerivedDataCache: C:/Users/Trevor Hicks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.310 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7572 files in 9695 folders with total size 793 MiB.
+[2024.08.21-21.42.23:080][441]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-21.42.23:115][443]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-21.42.26:883][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.08.21-21.42.27:378][627]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-21.42.27:384][627]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CandyRushGrandPrix/Levels/MP-KartSelection.MP-KartSelection
+[2024.08.21-21.42.27:386][627]LightingResults: New page: Lighting Build
+[2024.08.21-21.42.27:386][627]LoadErrors: New page: Loading map: MP-KartSelection.umap
+[2024.08.21-21.42.27:432][627]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-21.42.27:432][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-21.42.27:433][627]MapCheck: New page: Map Check
+[2024.08.21-21.42.27:433][627]LightingResults: New page: Lighting Build
+[2024.08.21-21.42.27:480][627]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.21-21.42.27:484][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.08.21-21.42.27:489][627]LogWorld: UWorld::CleanupWorld for MP-KartSelection, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-21.42.27:490][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-21.42.27:511][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.08.21-21.42.27:532][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.08.21-21.42.27:552][627]LogAudio: Display: Audio Device (ID: 1) registered with world 'MP-KartSelection'.
+[2024.08.21-21.42.27:552][627]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-21.42.27:552][627]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.21-21.42.27:607][627]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.08.21-21.42.27:632][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.08.21-21.42.27:643][627]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.08.21-21.42.27:644][627]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.244ms to complete.
+[2024.08.21-21.42.27:680][627]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-21.42.36:825][954]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/CandyRushGrandPrix/Levels/MP-KartSelection.MP-KartSelection:PersistentLevel.MP-KartSelection
+[2024.08.21-21.42.36:826][954]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-21.42.36:826][954]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.21-21.43.07:765][657]BlueprintLog: New page: Compile MP-KartSelection
+[2024.08.21-21.43.07:814][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.08.21-21.43.15:965][894]LogSlate: Window 'MP-KartSelection' being destroyed
+[2024.08.21-21.43.16:014][894]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-21.43.16:014][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-21.43.18:765][ 16]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/CandyRushGrandPrix/Levels/MP-KartSelection.MP-KartSelection:PersistentLevel.MP-KartSelection
+[2024.08.21-21.43.18:765][ 16]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-21.43.18:765][ 16]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.21-21.43.23:074][146]LogSlate: Window 'MP-KartSelection' being destroyed
+[2024.08.21-21.43.23:121][146]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-21.43.23:121][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display: ================================================
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display: Total job queries 94, among them cache hits 34 (36.17%)
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display: Tracking 57 distinct input hashes that result in 53 distinct outputs (92.98%)
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display: RAM used: 1.29 MiB of 1.60 GiB budget. Usage: 0.08%
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display: Shaders Compiled: 13
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display: Jobs assigned 16, completed 13 (81.25%)
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display: Average time worker was idle: 888.29 s
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.09 s
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display: Job execution time: average 0.44 s, max 0.76 s
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display: Job life time (pending + execution): average 0.49 s, max 0.77
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display: Shader code size: average 33.233 KiB, min 29.648 KiB, max 36.539 KiB
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.15 s
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display: Jobs were issued in 16 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display: Average processing rate: 6.04 jobs/sec
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display: Total thread time: 3.117 s
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display: Total thread preprocess time: 0.387 s
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display: Percentage time preprocessing: 12.42%
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display: Effective parallelization: 1.45 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.32 sec, max 0.43 sec, min 0.22 sec)
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.26 sec, max 0.31 sec, min 0.20 sec)
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.26 sec, max 0.29 sec, min 0.19 sec)
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    4 times, average 0.15 sec, max 0.25 sec, min 0.10 sec)
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 31.06% of total time (compiled    3 times, average 0.32 sec, max 0.43 sec, min 0.22 sec)
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 25.48% of total time (compiled    3 times, average 0.26 sec, max 0.31 sec, min 0.20 sec)
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display:                                                 FLumenCardVS - 24.67% of total time (compiled    3 times, average 0.26 sec, max 0.29 sec, min 0.19 sec)
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 18.80% of total time (compiled    4 times, average 0.15 sec, max 0.25 sec, min 0.10 sec)
+[2024.08.21-21.43.34:266][611]LogShaderCompilers: Display: ================================================
+[2024.08.21-21.43.37:302][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.08.21-21.43.38:924][662]LogSlate: Window 'Save Content' being destroyed
+[2024.08.21-21.43.38:984][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.21-21.43.39:186][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.08.21-21.43.39:220][662]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/MP-KartSelection
+[2024.08.21-21.43.39:221][662]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/MP-KartSelection5AE5628844DE3F59D04944982089D940.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/MP-KartSelection.umap'
+[2024.08.21-21.43.39:231][662]LogFileHelpers: Saving map 'MP-KartSelection' took 0.113
+[2024.08.21-21.43.39:267][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 283 ms (total: 4.02 sec)
+[2024.08.21-21.43.39:400][662]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-21.43.39:401][662]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CandyRushGrandPrix/Levels/LevelSelect.LevelSelect
+[2024.08.21-21.43.39:401][662]LightingResults: New page: Lighting Build
+[2024.08.21-21.43.39:401][662]LoadErrors: New page: Loading map: LevelSelect.umap
+[2024.08.21-21.43.39:424][662]LogWorld: UWorld::CleanupWorld for MP-KartSelection, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-21.43.39:424][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-21.43.39:424][662]MapCheck: New page: Map Check
+[2024.08.21-21.43.39:424][662]LightingResults: New page: Lighting Build
+[2024.08.21-21.43.39:439][662]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.21-21.43.39:444][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.08.21-21.43.39:446][662]LogWorld: UWorld::CleanupWorld for LevelSelect, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-21.43.39:446][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-21.43.39:460][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.08.21-21.43.39:475][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.08.21-21.43.39:482][662]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelSelect'.
+[2024.08.21-21.43.39:482][662]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-21.43.39:482][662]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.21-21.43.39:483][662]LogAIModule: Creating AISystem for world LevelSelect
+[2024.08.21-21.43.39:515][662]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.08.21-21.43.39:532][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.08.21-21.43.39:537][662]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.08.21-21.43.39:537][662]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.149ms to complete.
+[2024.08.21-21.43.39:563][662]AssetCheck: New page: Asset Save: MP-KartSelection
+[2024.08.21-21.43.42:772][773]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-21.43.42:772][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-21.43.42:784][773]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-21.43.42:785][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-21.43.45:304][812]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/CandyRushGrandPrix/Levels/LevelSelect.LevelSelect:PersistentLevel.LevelSelect
+[2024.08.21-21.43.45:304][812]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-21.43.45:304][812]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.21-21.43.54:026][904]BlueprintLog: New page: Compile LevelSelect
+[2024.08.21-21.43.54:128][904]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.08.21-21.44.06:017][ 69]LogSlate: Window 'LevelSelect' being destroyed
+[2024.08.21-21.44.06:142][ 69]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-21.44.06:142][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-21.44.11:723][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.08.21-21.44.13:976][157]LogSlate: Window 'Save Content' being destroyed
+[2024.08.21-21.44.14:012][157]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.21-21.44.14:142][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.08.21-21.44.14:149][157]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/LevelSelect
+[2024.08.21-21.44.14:149][157]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/LevelSelect4713DC3D40371759E3CBF080E17F1649.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/LevelSelect.umap'
+[2024.08.21-21.44.14:156][157]LogFileHelpers: Saving map 'LevelSelect' took 0.049
+[2024.08.21-21.44.14:176][157]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 4.19 sec)
+[2024.08.21-21.44.14:293][157]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-21.44.14:294][157]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu
+[2024.08.21-21.44.14:294][157]Cmd: MAP LOAD FILE="../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.08.21-21.44.14:294][157]LightingResults: New page: Lighting Build
+[2024.08.21-21.44.14:294][157]LoadErrors: New page: Loading map: MainMenu.umap
+[2024.08.21-21.44.14:316][157]LogWorld: UWorld::CleanupWorld for LevelSelect, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-21.44.14:316][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-21.44.14:316][157]MapCheck: New page: Map Check
+[2024.08.21-21.44.14:316][157]LightingResults: New page: Lighting Build
+[2024.08.21-21.44.14:331][157]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.21-21.44.14:333][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.08.21-21.44.14:335][157]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-21.44.14:335][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-21.44.14:351][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.08.21-21.44.14:367][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.08.21-21.44.14:375][157]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2024.08.21-21.44.14:375][157]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-21.44.14:375][157]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.21-21.44.14:376][157]LogAIModule: Creating AISystem for world MainMenu
+[2024.08.21-21.44.14:402][157]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.08.21-21.44.14:420][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.08.21-21.44.14:425][157]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.08.21-21.44.14:425][157]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.125ms to complete.
+[2024.08.21-21.44.14:452][157]AssetCheck: New page: Asset Save: LevelSelect
