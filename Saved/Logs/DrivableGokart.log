@@ -3544,3 +3544,73 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 	WBP_Options_C /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:WBP_Options_C_7
 	Function /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options_C:ExecuteUbergraph_WBP_Options:0917
 [2024.08.21-20.49.35:455][486]PIE: Error: Infinite loop detected. Blueprint:  WBP_Options Function:  Branch Call Stack:  Show
+[2024.08.21-20.50.18:099][614]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	WBP_Options_C /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:WBP_Options_C_7
+	Function /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options_C:ExecuteUbergraph_WBP_Options:0917
+[2024.08.21-20.50.18:100][614]PIE: Error: Infinite loop detected. Blueprint:  WBP_Options Function:  Branch Call Stack:  Show
+[2024.08.21-20.50.57:142][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.08.21-20.50.58:984][836]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-20.50.58:984][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-20.50.58:994][836]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-20.50.58:994][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-20.51.01:939][973]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	WBP_Options_C /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:WBP_Options_C_8
+	Function /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options_C:ExecuteUbergraph_WBP_Options:0917
+[2024.08.21-20.51.01:939][973]PIE: Error: Infinite loop detected. Blueprint:  WBP_Options Function:  Branch Call Stack:  Show
+[2024.08.21-20.51.04:489][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2024.08.21-20.51.04:611][ 59]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-20.51.04:613][ 59]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu
+[2024.08.21-20.51.04:613][ 59]Cmd: MAP LOAD FILE="../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.08.21-20.51.04:613][ 59]LightingResults: New page: Lighting Build
+[2024.08.21-20.51.04:616][ 59]LoadErrors: New page: Loading map: MainMenu.umap
+[2024.08.21-20.51.04:665][ 59]LogWorld: UWorld::CleanupWorld for DietColaMountain, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-20.51.04:665][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-20.51.04:665][ 59]MapCheck: New page: Map Check
+[2024.08.21-20.51.04:665][ 59]LightingResults: New page: Lighting Build
+[2024.08.21-20.51.04:683][ 59]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.21-20.51.04:690][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.08.21-20.51.04:694][ 59]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-20.51.04:694][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-20.51.04:714][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.08.21-20.51.04:733][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.08.21-20.51.04:744][ 59]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2024.08.21-20.51.04:744][ 59]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-20.51.04:744][ 59]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.21-20.51.04:745][ 59]LogAIModule: Creating AISystem for world MainMenu
+[2024.08.21-20.51.04:779][ 59]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.08.21-20.51.04:800][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.08.21-20.51.04:809][ 59]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.08.21-20.51.04:809][ 59]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2024.08.21-20.51.09:683][301]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-20.51.09:727][302]LogShaderCompilers: Display: ================================================
+[2024.08.21-20.51.09:727][302]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.08.21-20.51.09:727][302]LogShaderCompilers: Display: Total job queries 38, among them cache hits 21 (55.26%)
+[2024.08.21-20.51.09:727][302]LogShaderCompilers: Display: Tracking 17 distinct input hashes that result in 16 distinct outputs (94.12%)
+[2024.08.21-20.51.09:727][302]LogShaderCompilers: Display: RAM used: 512.13 KiB of 1.60 GiB budget. Usage: 0.03%
+[2024.08.21-20.51.09:727][302]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.08.21-20.51.09:727][302]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.08.21-20.51.09:727][302]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.08.21-20.51.09:727][302]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.08.21-20.51.09:727][302]LogShaderCompilers: Display: ================================================
+[2024.08.21-20.51.09:750][303]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-20.51.09:791][304]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-20.51.09:876][307]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-20.51.09:883][307]LoadErrors: The Skeleton  SK_Gokart_Skeleton1 is missing bones that SkeletalMesh  SK_Gokart needs. They will be added now. Please save the Skeleton!
+[2024.08.21-20.51.10:253][314]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-20.51.11:649][349]LogSlate: Window 'Message Log' being destroyed
+[2024.08.21-20.51.14:910][390]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2024.08.21-20.51.14:911][390]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-20.51.14:911][390]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.21-20.51.19:792][454]BlueprintLog: New page: Compile MainMenu
+[2024.08.21-20.51.19:843][454]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.08.21-20.51.22:875][487]BlueprintLog: New page: Compile MainMenu
+[2024.08.21-20.51.22:906][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.08.21-20.51.24:973][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.08.21-20.51.24:978][504]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.21-20.51.25:139][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.08.21-20.51.25:148][504]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/MainMenu
+[2024.08.21-20.51.25:148][504]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/MainMenu658315DB44123435D7FFE5AEBE14ABF3.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/MainMenu.umap'
+[2024.08.21-20.51.25:155][504]LogFileHelpers: Saving map 'MainMenu' took 0.057
+[2024.08.21-20.51.25:202][504]LogFileHelpers: InternalPromptForCheckoutAndSave took 223 ms (total: 1.18 sec)
+[2024.08.21-20.51.25:204][504]AssetCheck: New page: Asset Save: MainMenu
+[2024.08.21-20.51.25:205][504]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu
