@@ -3738,3 +3738,415 @@ Script Stack (2 frames) :
 [2024.08.21-20.54.18:589][887]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.MainMenuWidget
 [2024.08.21-20.54.19:380][905]BlueprintLog: New page: Compile MainMenuWidget
 [2024.08.21-20.54.19:418][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.08.21-20.57.33:144][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.08.21-20.57.33:452][215]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/CandyRushGrandPrix/Models/untitled) ...
+[2024.08.21-20.57.33:523][215]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-20.57.33:574][215]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CandyRushGrandPrix/Levels/CottonCandySkies.CottonCandySkies
+[2024.08.21-20.57.33:574][215]LightingResults: New page: Lighting Build
+[2024.08.21-20.57.33:575][215]LoadErrors: New page: Loading map: CottonCandySkies.umap
+[2024.08.21-20.57.33:602][215]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-20.57.33:602][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-20.57.33:602][215]MapCheck: New page: Map Check
+[2024.08.21-20.57.33:602][215]LightingResults: New page: Lighting Build
+[2024.08.21-20.57.33:619][215]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.21-20.57.33:623][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.08.21-20.57.33:630][215]LogWorld: UWorld::CleanupWorld for CottonCandySkies, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-20.57.33:631][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-20.57.33:653][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.08.21-20.57.33:670][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.08.21-20.57.33:726][215]LogAudio: Display: Audio Device (ID: 1) registered with world 'CottonCandySkies'.
+[2024.08.21-20.57.33:726][215]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-20.57.33:726][215]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.21-20.57.33:726][215]LogAIModule: Creating AISystem for world CottonCandySkies
+[2024.08.21-20.57.33:813][215]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.08.21-20.57.33:834][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.08.21-20.57.33:840][215]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.08.21-20.57.33:840][215]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.144ms to complete.
+[2024.08.21-20.57.33:907][215]LogShaderCompilers: Display: ================================================
+[2024.08.21-20.57.33:907][215]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.08.21-20.57.33:908][215]LogShaderCompilers: Display: Total job queries 52, among them cache hits 21 (40.38%)
+[2024.08.21-20.57.33:908][215]LogShaderCompilers: Display: Tracking 31 distinct input hashes that result in 29 distinct outputs (93.55%)
+[2024.08.21-20.57.33:908][215]LogShaderCompilers: Display: RAM used: 813.25 KiB of 1.60 GiB budget. Usage: 0.05%
+[2024.08.21-20.57.33:908][215]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.08.21-20.57.33:908][215]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.08.21-20.57.33:908][215]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.08.21-20.57.33:908][215]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.08.21-20.57.33:908][215]LogShaderCompilers: Display: ================================================
+[2024.08.21-20.57.34:136][216]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.08.21-20.57.47:619][624]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/CandyRushGrandPrix/Levels/CottonCandySkies.CottonCandySkies:PersistentLevel.CottonCandySkies
+[2024.08.21-20.57.47:620][624]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-20.57.47:620][624]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.21-20.59.07:679][895]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-20.59.37:351][ 29]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-20.59.37:479][ 32]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-20.59.47:159][361]BlueprintLog: New page: Compile CottonCandySkies
+[2024.08.21-20.59.47:210][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.08.21-20.59.52:771][601]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-20.59.54:369][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.08.21-20.59.55:891][625]LogSlate: Window 'Save Content' being destroyed
+[2024.08.21-20.59.55:956][625]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.21-20.59.56:142][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.08.21-20.59.56:331][625]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/CottonCandySkies
+[2024.08.21-20.59.56:332][625]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/CottonCandySkiesAA0DFBB64E9A27B9AF2457B9751C8CE0.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/CottonCandySkies.umap'
+[2024.08.21-20.59.56:346][625]LogFileHelpers: Saving map 'CottonCandySkies' took 0.255
+[2024.08.21-20.59.56:382][625]LogFileHelpers: InternalPromptForCheckoutAndSave took 426 ms (total: 1.93 sec)
+[2024.08.21-20.59.56:547][625]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-20.59.56:565][625]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain
+[2024.08.21-20.59.56:565][625]LightingResults: New page: Lighting Build
+[2024.08.21-20.59.56:565][625]LoadErrors: New page: Loading map: DietColaMountain.umap
+[2024.08.21-20.59.56:631][625]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-20.59.56:631][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-20.59.56:658][625]LogWorld: UWorld::CleanupWorld for CottonCandySkies, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-20.59.56:658][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-20.59.56:659][625]MapCheck: New page: Map Check
+[2024.08.21-20.59.56:659][625]LightingResults: New page: Lighting Build
+[2024.08.21-20.59.56:676][625]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.21-20.59.56:688][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.08.21-20.59.56:694][625]LogWorld: UWorld::CleanupWorld for DietColaMountain, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-20.59.56:694][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-20.59.56:711][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.08.21-20.59.56:730][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.08.21-20.59.56:758][625]LogAudio: Display: Audio Device (ID: 1) registered with world 'DietColaMountain'.
+[2024.08.21-20.59.56:758][625]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-20.59.56:758][625]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.21-20.59.56:759][625]LogAIModule: Creating AISystem for world DietColaMountain
+[2024.08.21-20.59.56:852][625]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.08.21-20.59.56:872][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.08.21-20.59.56:878][625]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.08.21-20.59.56:878][625]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.103ms to complete.
+[2024.08.21-20.59.56:919][625]AssetCheck: New page: Asset Save: CottonCandySkies
+[2024.08.21-21.00.00:367][712]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:PersistentLevel.DietColaMountain
+[2024.08.21-21.00.00:367][712]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-21.00.00:367][712]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.21-21.00.18:759][911]BlueprintLog: New page: Compile DietColaMountain
+[2024.08.21-21.00.18:791][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.08.21-21.00.26:094][ 10]BlueprintLog: New page: Compile DietColaMountain
+[2024.08.21-21.00.26:123][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.08.21-21.00.35:458][128]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.08.21-21.00.35:468][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.21-21.00.35:468][128]PIE: New page: PIE session: DietColaMountain (Aug 21, 2024, 9:00:35 AM)
+[2024.08.21-21.00.35:468][128]LogPlayLevel: Creating play world package: /Game/CandyRushGrandPrix/Levels/UEDPIE_0_DietColaMountain
+[2024.08.21-21.00.35:494][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026247s)
+[2024.08.21-21.00.35:495][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain to /Game/CandyRushGrandPrix/Levels/UEDPIE_0_DietColaMountain.DietColaMountain (0.026296s)
+[2024.08.21-21.00.35:512][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.08.21-21.00.35:514][128]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-21.00.35:514][128]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.21-21.00.35:514][128]LogAIModule: Creating AISystem for world DietColaMountain
+[2024.08.21-21.00.35:516][128]LogPlayLevel: PIE: World Init took: (0.001497s)
+[2024.08.21-21.00.35:516][128]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.08.21-21.00.35:516][128]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.21-21.00.35:516][128]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.21-21.00.35:516][128]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.21-21.00.35:516][128]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.21-21.00.35:516][128]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.21-21.00.35:516][128]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.21-21.00.35:516][128]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.21-21.00.35:516][128]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.21-21.00.35:516][128]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.21-21.00.35:516][128]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.21-21.00.35:516][128]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.21-21.00.35:519][128]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.21-21.00.35:551][128]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.08.21-21.00.35:551][128]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.21-21.00.35:551][128]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.21-21.00.35:551][128]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.21-21.00.35:552][128]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.08.21-21.00.35:552][128]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.08.21-21.00.35:554][128]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.08.21-21.00.35:554][128]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.08.21-21.00.35:554][128]LogInit: FAudioDevice initialized with ID 5.
+[2024.08.21-21.00.35:554][128]LogAudio: Display: Audio Device (ID: 5) registered with world 'DietColaMountain'.
+[2024.08.21-21.00.35:554][128]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.08.21-21.00.35:598][128]LogLoad: Game class is 'GM_RacingGame_C'
+[2024.08.21-21.00.35:602][128]LogWorld: Bringing World /Game/CandyRushGrandPrix/Levels/UEDPIE_0_DietColaMountain.DietColaMountain up for play (max tick rate 60) at 2024.08.21-15.00.35
+[2024.08.21-21.00.35:602][128]LogWorld: Bringing up level for play took: 0.003807
+[2024.08.21-21.00.35:604][128]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.08.21-21.00.35:608][128]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.08.21-21.00.35:609][128]PIE: Server logged in
+[2024.08.21-21.00.35:610][128]PIE: Play in editor total start time 0.142 seconds.
+[2024.08.21-21.00.35:611][128]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.35:611][128]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.35:613][128]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Willy_Wonka_s_Cotton_Candy_Dream'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.08.21-21.00.35:633][129]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.35:633][129]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.35:836][130]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.35:836][130]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.35:906][131]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.35:906][131]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.35:971][132]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.35:971][132]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:038][133]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:038][133]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:105][134]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:105][134]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:171][135]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:171][135]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:239][136]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:239][136]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:305][137]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:305][137]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:371][138]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:371][138]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:439][139]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:440][139]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:506][140]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:506][140]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:571][141]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:571][141]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:639][142]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:639][142]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:705][143]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:706][143]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:771][144]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:771][144]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:838][145]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:838][145]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:905][146]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:905][146]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:971][147]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.36:971][147]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:038][148]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:038][148]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:105][149]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:105][149]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:172][150]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:172][150]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:239][151]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:239][151]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:305][152]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:305][152]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:373][153]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:373][153]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:439][154]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:439][154]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:505][155]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:505][155]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:572][156]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:572][156]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:639][157]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:639][157]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:705][158]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:705][158]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:772][159]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:773][159]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:839][160]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:839][160]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:906][161]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:906][161]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:976][162]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.37:976][162]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.38:039][163]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.38:039][163]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.38:105][164]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.38:105][164]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.38:175][165]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.38:175][165]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.38:238][166]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.38:239][166]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.38:305][167]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.38:305][167]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.38:372][168]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.38:373][168]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.38:439][169]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.38:439][169]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.38:506][170]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.38:506][170]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.38:572][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.38:572][171]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.38:638][172]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.38:639][172]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.38:704][173]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.38:705][173]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.38:772][174]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Track". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.38:772][174]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Branch Graph:  Get Track Progress Function:  Get Track Progress Blueprint:  BP_CandyKart
+[2024.08.21-21.00.38:798][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.21-21.00.38:798][174]LogWorld: BeginTearingDown for /Game/CandyRushGrandPrix/Levels/UEDPIE_0_DietColaMountain
+[2024.08.21-21.00.38:798][174]LogWorld: UWorld::CleanupWorld for DietColaMountain, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-21.00.38:799][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-21.00.38:884][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.21-21.00.38:891][174]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-21.00.38:912][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.21-21.00.38:912][174]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.08.21-21.00.38:912][174]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.08.21-21.00.38:915][174]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.08.21-21.00.38:927][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.08.21-21.00.39:313][175]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.08.21-21.00.42:912][201]LogSlate: Window 'Message Log' being destroyed
+[2024.08.21-21.00.43:080][201]LogSlate: Window 'Message Log' being destroyed
+[2024.08.21-21.00.44:673][215]LogSlate: Window 'DietColaMountain' being destroyed
+[2024.08.21-21.00.44:825][215]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-21.00.44:825][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-21.00.58:046][624]LogContentBrowser: Deferred new asset file creation: BP_TrackSpline1
+[2024.08.21-21.00.58:076][624]LogContentBrowser: Creating deferred item: BP_TrackSpline1
+[2024.08.21-21.00.58:132][625]LogContentBrowser: Renaming the item being created (Deferred Item: BP_TrackSpline1).
+[2024.08.21-21.01.08:497][219]LogContentBrowser: Attempting asset rename: BP_TrackSpline1 -> BP_OpenTrackSpline
+[2024.08.21-21.01.08:521][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.08.21-21.01.08:533][219]LogContentBrowser: End creating deferred item BP_TrackSpline1
+[2024.08.21-21.01.15:273][417]LogContentBrowser: Attempting asset rename: BP_TrackSpline -> BP_ClosedTrackSpline
+[2024.08.21-21.01.15:341][417]LogMetaData: Removing '/Game/CandyRushGrandPrix/Blueprints/BP_ClosedTrackSpline.BP_ClosedTrackSpline:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/CandyRushGrandPrix/Blueprints/BP_TrackSpline.PackageMetaData'
+[2024.08.21-21.01.15:341][417]LogMetaData: Removing '/Game/CandyRushGrandPrix/Blueprints/BP_ClosedTrackSpline.BP_ClosedTrackSpline_C' ref from Metadata '/Game/CandyRushGrandPrix/Blueprints/BP_TrackSpline.PackageMetaData'
+[2024.08.21-21.01.15:341][417]LogMetaData: Removing '/Game/CandyRushGrandPrix/Blueprints/BP_ClosedTrackSpline.SKEL_BP_ClosedTrackSpline_C:UserConstructionScript' ref from Metadata '/Game/CandyRushGrandPrix/Blueprints/BP_TrackSpline.PackageMetaData'
+[2024.08.21-21.01.15:341][417]LogMetaData: Removing '/Game/CandyRushGrandPrix/Blueprints/BP_ClosedTrackSpline.SKEL_BP_ClosedTrackSpline_C' ref from Metadata '/Game/CandyRushGrandPrix/Blueprints/BP_TrackSpline.PackageMetaData'
+[2024.08.21-21.01.15:356][417]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.21-21.01.15:478][417]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/CandyRushGrandPrix/Blueprints/BP_ClosedTrackSpline does not exist, will not scan.
+[2024.08.21-21.01.15:485][417]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/BP_ClosedTrackSpline
+[2024.08.21-21.01.15:485][417]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_ClosedTrackSpline7FAE05044975A1F8220006B6BAD2386F.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_ClosedTrackSpline.uasset'
+[2024.08.21-21.01.15:494][417]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/BP_TrackSpline
+[2024.08.21-21.01.15:495][417]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_TrackSpline5343C3F141AC6379268461AA10952A9D.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_TrackSpline.uasset'
+[2024.08.21-21.01.15:549][417]LogFileHelpers: InternalPromptForCheckoutAndSave took 193 ms (total: 2.13 sec)
+[2024.08.21-21.01.15:551][417]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.21-21.01.15:551][417]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_ClosedTrackSpline.BP_ClosedTrackSpline
+[2024.08.21-21.01.15:551][417]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/CandyRushGrandPrix/Blueprints/BP_TrackSpline.BP_TrackSpline
+[2024.08.21-21.01.15:551][417]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/CandyRushGrandPrix/Blueprints/BP_TrackSpline.BP_TrackSpline_C
+[2024.08.21-21.01.15:551][417]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/CandyRushGrandPrix/Blueprints/BP_TrackSpline.Default__BP_TrackSpline_C
+[2024.08.21-21.01.17:486][478]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CandyRushGrandPrix/Blueprints/BP_OpenTrackSpline.BP_OpenTrackSpline_C
+[2024.08.21-21.01.17:486][478]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CandyRushGrandPrix/Blueprints/BP_OpenTrackSpline.BP_OpenTrackSpline_C
+[2024.08.21-21.01.17:489][478]LogActorFactory: Actor Factory spawned Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_OpenTrackSpline.BP_OpenTrackSpline as actor: BP_OpenTrackSpline_C /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:PersistentLevel.BP_OpenTrackSpline_C_0
+[2024.08.21-21.01.17:490][478]LogActorFactory: Actor Factory spawned Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_OpenTrackSpline.BP_OpenTrackSpline as actor: BP_OpenTrackSpline_C /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:PersistentLevel.BP_OpenTrackSpline_C_0
+[2024.08.21-21.01.17:496][478]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.08.21-21.01.18:164][498]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CandyRushGrandPrix/Blueprints/BP_OpenTrackSpline.BP_OpenTrackSpline_C
+[2024.08.21-21.01.18:164][498]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CandyRushGrandPrix/Blueprints/BP_OpenTrackSpline.BP_OpenTrackSpline_C
+[2024.08.21-21.01.18:167][498]LogActorFactory: Actor Factory spawned Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_OpenTrackSpline.BP_OpenTrackSpline as actor: BP_OpenTrackSpline_C /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:PersistentLevel.BP_OpenTrackSpline_C_1
+[2024.08.21-21.01.18:169][498]LogActorFactory: Actor Factory spawned Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_OpenTrackSpline.BP_OpenTrackSpline as actor: BP_OpenTrackSpline_C /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:PersistentLevel.BP_OpenTrackSpline_C_1
+[2024.08.21-21.01.25:783][821]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_OpenTrackSpline.BP_OpenTrackSpline
+[2024.08.21-21.01.25:784][821]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-21.01.25:784][821]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.21-21.01.32:690][912]BlueprintLog: New page: Compile BP_OpenTrackSpline
+[2024.08.21-21.01.32:792][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.08.21-21.01.35:406][939]LogSlate: Window 'BP_OpenTrackSpline' being destroyed
+[2024.08.21-21.01.35:521][939]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-21.01.35:521][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-21.07.59:000][139]Cmd: TRANSACTION UNDO
+[2024.08.21-21.07.59:001][139]LogEditorTransaction: Undo Move Elements
+[2024.08.21-21.17.22:089][855]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.21-21.17.22:405][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.08.21-21.17.22:530][855]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/DietColaMountain
+[2024.08.21-21.17.22:532][855]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/DietColaMountain6E638F27499501C0A08327B83E60B407.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/DietColaMountain.umap'
+[2024.08.21-21.17.22:542][855]LogFileHelpers: Saving map 'DietColaMountain' took 0.311
+[2024.08.21-21.17.22:567][855]LogFileHelpers: InternalPromptForCheckoutAndSave took 477 ms (total: 2.60 sec)
+[2024.08.21-21.17.22:570][855]AssetCheck: New page: Asset Save: DietColaMountain
+[2024.08.21-21.17.22:570][855]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain
+[2024.08.21-21.17.52:052][368]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	WBP_Options_C /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:WBP_Options_C_0
+	Function /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options_C:ExecuteUbergraph_WBP_Options:0917
+[2024.08.21-21.17.52:052][368]PIE: Error: Infinite loop detected. Blueprint:  WBP_Options Function:  Branch Call Stack:  Show
+[2024.08.21-21.18.02:594][673]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CandyRushGrandPrix/CheckPoints/BP-Laps.BP-Laps_C
+[2024.08.21-21.18.02:595][673]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CandyRushGrandPrix/CheckPoints/BP-Laps.BP-Laps_C
+[2024.08.21-21.18.02:608][673]LogActorFactory: Actor Factory spawned Blueprint /Game/CandyRushGrandPrix/CheckPoints/BP-Laps.BP-Laps as actor: BP-Laps_C /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:PersistentLevel.BP-Laps_C_1
+[2024.08.21-21.18.02:623][673]LogActorFactory: Actor Factory spawned Blueprint /Game/CandyRushGrandPrix/CheckPoints/BP-Laps.BP-Laps as actor: BP-Laps_C /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:PersistentLevel.BP-Laps_C_1
+[2024.08.21-21.18.03:539][696]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CandyRushGrandPrix/CheckPoints/BP-Laps.BP-Laps_C
+[2024.08.21-21.18.03:539][696]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CandyRushGrandPrix/CheckPoints/BP-Laps.BP-Laps_C
+[2024.08.21-21.18.03:544][696]LogActorFactory: Actor Factory spawned Blueprint /Game/CandyRushGrandPrix/CheckPoints/BP-Laps.BP-Laps as actor: BP-Laps_C /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:PersistentLevel.BP-Laps_C_2
+[2024.08.21-21.18.03:554][696]LogActorFactory: Actor Factory spawned Blueprint /Game/CandyRushGrandPrix/CheckPoints/BP-Laps.BP-Laps as actor: BP-Laps_C /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:PersistentLevel.BP-Laps_C_2
+[2024.08.21-21.18.27:922][995]Cmd: DELETE
+[2024.08.21-21.18.27:922][995]Cmd: ACTOR DELETE
+[2024.08.21-21.18.27:930][995]LogEditorActor: Deleted Actor: BP-Laps_C
+[2024.08.21-21.18.27:966][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.08.21-21.18.27:973][995]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2024.08.21-21.18.31:177][ 59]LogContentBrowser: Deferred new asset file creation: BP-Laps1
+[2024.08.21-21.18.31:213][ 59]LogContentBrowser: Creating deferred item: BP-Laps1
+[2024.08.21-21.18.31:230][ 60]LogContentBrowser: Renaming the item being created (Deferred Item: BP-Laps1).
+[2024.08.21-21.18.37:059][245]LogContentBrowser: Attempting asset rename: BP-Laps1 -> BP-OpenLaps1
+[2024.08.21-21.18.37:108][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.08.21-21.18.37:119][245]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1 does not exist, will not scan.
+[2024.08.21-21.18.37:148][245]LogContentBrowser: End creating deferred item BP-Laps1
+[2024.08.21-21.18.37:153][245]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-21.18.38:222][277]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.BP-OpenLaps1
+[2024.08.21-21.18.38:223][277]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-21.18.38:223][277]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.21-21.18.40:202][296]LogViewport: Scene viewport resized to 1180x930, mode Windowed.
+[2024.08.21-21.20.21:587][710]BlueprintLog: New page: Compile BP-OpenLaps1
+[2024.08.21-21.20.21:719][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.08.21-21.20.54:879][190]BlueprintLog: New page: Compile BP-OpenLaps1
+[2024.08.21-21.20.54:984][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2024.08.21-21.20.58:415][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.08.21-21.20.58:421][223]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.21-21.20.58:599][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.08.21-21.20.58:685][223]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/DietColaMountain
+[2024.08.21-21.20.58:685][223]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/DietColaMountain7FBEB61244CD548A2AF9EBB8C30156BF.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/DietColaMountain.umap'
+[2024.08.21-21.20.58:693][223]LogFileHelpers: Saving map 'DietColaMountain' took 0.136
+[2024.08.21-21.20.58:702][223]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-21.20.58:782][223]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart
+[2024.08.21-21.20.58:783][223]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_CandyKart1F9FC5F5480FE29BA494C5A68CC6C925.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_CandyKart.uasset'
+[2024.08.21-21.20.58:787][223]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/BP_OpenTrackSpline
+[2024.08.21-21.20.58:787][223]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP_OpenTrackSplineBE9E329A477CF83D7827A3AD230316F9.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_OpenTrackSpline.uasset'
+[2024.08.21-21.20.58:810][223]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1
+[2024.08.21-21.20.58:810][223]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/BP-OpenLaps1410DF5104131BE60A1B1F4A2E116CD6D.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.uasset'
+[2024.08.21-21.20.58:855][223]LogFileHelpers: InternalPromptForCheckoutAndSave took 433 ms (total: 3.04 sec)
+[2024.08.21-21.20.58:859][223]AssetCheck: New page: Asset Save: multiple assets
+[2024.08.21-21.20.58:859][223]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain
+[2024.08.21-21.20.58:859][223]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_CandyKart.BP_CandyKart
+[2024.08.21-21.20.58:859][223]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/Blueprints/BP_OpenTrackSpline.BP_OpenTrackSpline
+[2024.08.21-21.20.58:859][223]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.BP-OpenLaps1
+[2024.08.21-21.21.01:439][259]LogSlate: Window 'BP-OpenLaps1' being destroyed
+[2024.08.21-21.21.01:565][259]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-21.21.01:565][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-21.21.03:277][300]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.BP-OpenLaps1_C
+[2024.08.21-21.21.03:277][300]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.BP-OpenLaps1_C
+[2024.08.21-21.21.03:288][300]LogActorFactory: Actor Factory spawned Blueprint /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.BP-OpenLaps1 as actor: BP-OpenLaps1_C /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:PersistentLevel.BP-OpenLaps1_C_0
+[2024.08.21-21.21.03:297][300]LogActorFactory: Actor Factory spawned Blueprint /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.BP-OpenLaps1 as actor: BP-OpenLaps1_C /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:PersistentLevel.BP-OpenLaps1_C_0
+[2024.08.21-21.21.04:479][345]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.BP-OpenLaps1_C
+[2024.08.21-21.21.04:479][345]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.BP-OpenLaps1_C
+[2024.08.21-21.21.04:491][345]LogActorFactory: Actor Factory spawned Blueprint /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.BP-OpenLaps1 as actor: BP-OpenLaps1_C /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:PersistentLevel.BP-OpenLaps1_C_1
+[2024.08.21-21.21.04:500][345]LogActorFactory: Actor Factory spawned Blueprint /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.BP-OpenLaps1 as actor: BP-OpenLaps1_C /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:PersistentLevel.BP-OpenLaps1_C_1
+[2024.08.21-21.23.02:569][485]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.BP-OpenLaps1_C
+[2024.08.21-21.23.02:569][485]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.BP-OpenLaps1_C
+[2024.08.21-21.23.02:579][485]LogActorFactory: Actor Factory spawned Blueprint /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.BP-OpenLaps1 as actor: BP-OpenLaps1_C /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:PersistentLevel.BP-OpenLaps1_C_2
+[2024.08.21-21.23.02:590][485]LogActorFactory: Actor Factory spawned Blueprint /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.BP-OpenLaps1 as actor: BP-OpenLaps1_C /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:PersistentLevel.BP-OpenLaps1_C_2
+[2024.08.21-21.23.03:438][512]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.BP-OpenLaps1_C
+[2024.08.21-21.23.03:438][512]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.BP-OpenLaps1_C
+[2024.08.21-21.23.03:448][512]LogActorFactory: Actor Factory spawned Blueprint /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.BP-OpenLaps1 as actor: BP-OpenLaps1_C /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:PersistentLevel.BP-OpenLaps1_C_3
+[2024.08.21-21.23.03:457][512]LogActorFactory: Actor Factory spawned Blueprint /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.BP-OpenLaps1 as actor: BP-OpenLaps1_C /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:PersistentLevel.BP-OpenLaps1_C_3
+[2024.08.21-21.24.32:998][789]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.BP-OpenLaps1_C
+[2024.08.21-21.24.32:998][789]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.BP-OpenLaps1_C
+[2024.08.21-21.24.33:011][789]LogActorFactory: Actor Factory spawned Blueprint /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.BP-OpenLaps1 as actor: BP-OpenLaps1_C /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:PersistentLevel.BP-OpenLaps1_C_4
+[2024.08.21-21.24.33:025][789]LogActorFactory: Actor Factory spawned Blueprint /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.BP-OpenLaps1 as actor: BP-OpenLaps1_C /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:PersistentLevel.BP-OpenLaps1_C_4
+[2024.08.21-21.24.33:918][818]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.BP-OpenLaps1_C
+[2024.08.21-21.24.33:918][818]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.BP-OpenLaps1_C
+[2024.08.21-21.24.33:929][818]LogActorFactory: Actor Factory spawned Blueprint /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.BP-OpenLaps1 as actor: BP-OpenLaps1_C /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:PersistentLevel.BP-OpenLaps1_C_5
+[2024.08.21-21.24.33:938][818]LogActorFactory: Actor Factory spawned Blueprint /Game/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.BP-OpenLaps1 as actor: BP-OpenLaps1_C /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain:PersistentLevel.BP-OpenLaps1_C_5
+[2024.08.21-21.24.42:513][207]Cmd: TRANSACTION UNDO
+[2024.08.21-21.24.42:513][207]LogEditorTransaction: Undo Scale Elements
+[2024.08.21-21.24.56:095][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.08.21-21.24.56:110][592]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.21-21.24.56:300][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.08.21-21.24.56:393][592]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/DietColaMountain
+[2024.08.21-21.24.56:394][592]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/DietColaMountain85713AEF4823A4E081A4AABD43B27A8D.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/DietColaMountain.umap'
+[2024.08.21-21.24.56:402][592]LogFileHelpers: Saving map 'DietColaMountain' took 0.143
+[2024.08.21-21.24.56:465][592]LogFileHelpers: InternalPromptForCheckoutAndSave took 354 ms (total: 3.39 sec)
+[2024.08.21-21.24.56:468][592]AssetCheck: New page: Asset Save: DietColaMountain
+[2024.08.21-21.24.56:468][592]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain
+[2024.08.21-21.25.17:450][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.08.21-21.25.17:460][137]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.21-21.25.17:633][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.08.21-21.25.17:734][137]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Levels/DietColaMountain
+[2024.08.21-21.25.17:735][137]LogSavePackage: Moving '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Saved/DietColaMountainE3127B944C6BE0A3EC59A6A8283FEFB0.tmp' to '../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/DietColaMountain.umap'
+[2024.08.21-21.25.17:744][137]LogFileHelpers: Saving map 'DietColaMountain' took 0.155
+[2024.08.21-21.25.17:806][137]LogFileHelpers: InternalPromptForCheckoutAndSave took 346 ms (total: 3.74 sec)
+[2024.08.21-21.25.17:810][137]AssetCheck: New page: Asset Save: DietColaMountain
+[2024.08.21-21.25.17:810][137]LogContentValidation: Display: Validating /Script/Engine.World /Game/CandyRushGrandPrix/Levels/DietColaMountain.DietColaMountain
+[2024.08.21-21.25.28:958][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.08.21-21.25.29:195][361]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-21.25.29:197][361]LogAssetEditorSubsystem: Opening Asset editor for World /Game/CandyRushGrandPrix/Levels/MainMenu.MainMenu
+[2024.08.21-21.25.29:197][361]Cmd: MAP LOAD FILE="../../../../../../Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.08.21-21.25.29:197][361]LightingResults: New page: Lighting Build
+[2024.08.21-21.25.29:205][361]LoadErrors: New page: Loading map: MainMenu.umap
+[2024.08.21-21.25.29:263][361]LogWorld: UWorld::CleanupWorld for DietColaMountain, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-21.25.29:264][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-21.25.29:264][361]MapCheck: New page: Map Check
+[2024.08.21-21.25.29:264][361]LightingResults: New page: Lighting Build
+[2024.08.21-21.25.29:285][361]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.21-21.25.29:293][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.08.21-21.25.29:300][361]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.08.21-21.25.29:300][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.21-21.25.29:323][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.08.21-21.25.29:344][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.08.21-21.25.29:356][361]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2024.08.21-21.25.29:356][361]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.21-21.25.29:356][361]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.21-21.25.29:357][361]LogAIModule: Creating AISystem for world MainMenu
+[2024.08.21-21.25.29:404][361]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.08.21-21.25.29:427][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.08.21-21.25.29:436][361]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.08.21-21.25.29:436][361]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.157ms to complete.
+[2024.08.21-21.30.34:863][ 69]LogDerivedDataCache: C:/Users/Trevor Hicks/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.310 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7572 files in 9695 folders with total size 793 MiB.
