@@ -2,6 +2,7 @@
 .vs/
 
 # Compiled Object files
+*.pptx
 
 
 # Precompiled Headers
