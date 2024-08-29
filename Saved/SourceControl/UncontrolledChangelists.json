@@ -5,30 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Trevor Hicks/Downloads/Capstone-main/Capstone-main/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset",
-				"C:/Users/Trevor Hicks/Downloads/Capstone-main/Capstone-main/Content/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.uasset",
-				"C:/Users/Trevor Hicks/Downloads/Capstone-main/Capstone-main/Content/CandyRushGrandPrix/Blueprints/CustomCursor/WB_PointerCursor.uasset",
-				"C:/Users/Trevor Hicks/Downloads/Capstone-main/Capstone-main/Content/CandyRushGrandPrix/Blueprints/CustomCursor/WB_HoveredCursor.uasset",
-				"C:/Users/Trevor Hicks/Downloads/Capstone-main/Capstone-main/Content/CandyRushGrandPrix/Blueprints/BP_CandyKart.uasset",
-				"C:/Users/Trevor Hicks/Downloads/Capstone-main/Capstone-main/Content/Items/BP_ProjectileBase.uasset",
-				"C:/Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/DietColaMountain.umap",
-				"C:/Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/RoadSplineBP/BP_RoadSpline.uasset",
-				"C:/Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset",
-				"C:/Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/MainMenu.umap",
-				"C:/Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/MainMenuWidget.uasset",
-				"C:/Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/CottonCandySkies.umap",
-				"C:/Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_ClosedTrackSpline.uasset",
-				"C:/Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_TrackSpline.uasset",
-				"C:/Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_CandyKart.uasset",
-				"C:/Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Blueprints/BP_OpenTrackSpline.uasset",
-				"C:/Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/CheckPoints/BP-OpenLaps1.uasset",
-				"C:/Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/MP-KartSelection.umap",
-				"C:/Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/LevelSelect.umap",
-				"C:/Users/plays/Downloads/Capstone-main/Capstone-main/Content/Gokart/Maps/GoKartMap1.umap",
-				"C:/Users/plays/Downloads/Capstone-main/Capstone-main/Content/Gokart/Maps/GoKartMap.umap",
-				"C:/Users/plays/Downloads/Capstone-main/Capstone-main/Content/CandyRushGrandPrix/Blueprints/GI-GoKart.uasset",
-				"C:/Users/plays/Downloads/Capstone-main/Capstone-main/Content/CandyRushGrandPrix/Blueprints/BP_CandyKart.uasset",
-				"C:/Users/plays/Downloads/Capstone-main/Capstone-main/Content/Items/BP_ProjectileBase.uasset"
+				"C:/Users/Trevor Hicks/Downloads/DrivableGokart/Content/CandyRushGrandPrix/Levels/MainMenu.umap",
+				"C:/Users/Trevor Hicks/Downloads/DrivableGokart/Content/CandyRushGrandPrix/Levels/MP-KartSelection.umap",
+				"C:/Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/MainMenu_BuiltData.uasset",
+				"C:/Users/Trevor Hicks/Desktop/Neumont College/Third Year/Summer 2024/Capstone/Content/CandyRushGrandPrix/Levels/MainMenu.umap"
 			]
 		}
 	]
