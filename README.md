@@ -1,6 +1,8 @@
 ### README for **Candy Rush Grand Prix**
 
 ---
+ Join the discord server if you wish to collaborate 
+ # **https://discord.com/invite/R7sbSP4V3k**
 
 # **Candy Rush Grand Prix**
 
