@@ -1,0 +1,64 @@
+Candy Rush Grand Prix - Development Task List
+
+1. Game Mechanics & Items
+
+•	Develop Offensive Items: Add more candy-themed offensive items (e.g., candy cane missiles, chocolate syrup slicks, lollipop bombs).
+
+•	Develop Defensive Items: Create defensive items (e.g., gumdrop shields, marshmallow barriers, licorice whips to deflect projectiles).
+
+•	Item Interaction System: Implement a system for using and interacting with items during races.
+
+•	Balance item frequency and effectiveness.
+
+2. Character Development
+
+•	Create Playable Characters: Design and model more candy-themed chibi characters.
+
+•	Implement animations (idle, driving, special moves).
+
+•	Character Selection Screen: Develop a character selection screen, allowing players to choose their character before a race.
+
+•	Integrate character stats and special abilities if applicable.
+
+3. Race Tracks
+
+•	Design Additional Race Tracks: Create at least 3 more candy-themed race tracks (e.g., Gummy Bear Grove, Licorice Lagoon, Cotton Candy Clouds).
+
+•	Track Variants: Implement track variants (e.g., reverse mode, mirror mode) for increased replayability.
+
+•	Environmental Hazards: Add environmental hazards to each track (e.g., falling candy canes, sticky syrup pits).
+
+4. Main Hub & Adventure Mode
+
+•	Design Main Hub World: Create a candy-themed overworld where players can select levels by driving their kart to different doorways.
+
+•	Unlockable Tracks System: Implement a key collection and unlocking system tied to race completion.
+
+5. User Interface
+
+•	Upgrade Main Menu: Refine the main menu to include options for Adventure Mode, Quick Race, and more.
+
+•	HUD Enhancements: Update the in-race HUD to show player position, items held, and lap information.
+
+6. Multiplayer Functionality
+
+•	Local Multiplayer Support: Ensure up to 4 players can race together on the same device with split-screen.
+
+•	Leaderboard System: Implement a local leaderboard that tracks high scores and best lap times.
+
+7. Polish and Optimization
+
+•	Improve Visual Effects: Add particle effects, lighting adjustments, and animations for a more immersive experience.
+
+•	Sound Design: Integrate sound effects for items, character actions, and track hazards.
+
+•	Add thematic background music for each track.
+
+•	Optimize Performance: Optimize assets and code to ensure smooth gameplay across different hardware setups.
+
+8. Testing and QA
+
+•	Playtesting: Conduct regular playtests to refine gameplay mechanics, track designs, and item interactions.
+
+•	Bug Fixing: Address any bugs or glitches reported during testing.
+
