@@ -39,6 +39,10 @@
 		{
 			"Name": "NiagaraFluids",
 			"Enabled": true
+		},
+		{
+			"Name": "RLPlugin",
+			"Enabled": true
 		}
 	]
 }
