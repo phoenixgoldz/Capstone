@@ -1238,3 +1238,152 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.09.19-06.01.49:076][804]LogContentBrowser: End creating deferred item NewFolder
 [2024.09.19-06.03.31:631][654]LogDerivedDataCache: C:/Users/Trevor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.214 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4831 files in 6795 folders with total size 1033 MiB.
 [2024.09.19-06.03.42:944][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.09.19-06.05.00:950][624]AssetReimport: New page: Outstanding source content changes 6:05:00 PM
+[2024.09.19-06.05.00:958][624]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.09.19-06.05.01:045][625]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/chunkplayerico.png)
+[2024.09.19-06.05.01:052][625]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/Nillaplayerico.png)
+[2024.09.19-06.05.01:055][625]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/Moltenplayerico.png)
+[2024.09.19-06.05.01:059][625]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/IceburgRockyPlayerico.png)
+[2024.09.19-06.05.01:155][626]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/GummiPlayerico.png)
+[2024.09.19-06.05.01:158][626]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/FrostBiteplayerico.png)
+[2024.09.19-06.05.01:161][626]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/DashPlayerico.png)
+[2024.09.19-06.05.01:171][626]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.19-06.05.01:304][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/chunkplayerico" FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/chunkplayerico.uasset" SILENT=true
+[2024.09.19-06.05.01:312][626]LogPackageLocalizationCache: Processed 51 localized package path(s) for 1 prioritized culture(s) in 0.007459 seconds
+[2024.09.19-06.05.01:653][626]LogSavePackage: Moving output files for package: /Game/Images/chunkplayerico
+[2024.09.19-06.05.01:653][626]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/chunkplayerico919EDCCF4A934F5FD15280A6B9B41E44.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/chunkplayerico.uasset'
+[2024.09.19-06.05.01:657][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/Nillaplayerico" FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/Nillaplayerico.uasset" SILENT=true
+[2024.09.19-06.05.01:660][626]LogSavePackage: Moving output files for package: /Game/Images/Nillaplayerico
+[2024.09.19-06.05.01:660][626]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/NillaplayericoEEB513A94D29A5C5890DD1BA8016F890.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/Nillaplayerico.uasset'
+[2024.09.19-06.05.01:664][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/Moltenplayerico" FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/Moltenplayerico.uasset" SILENT=true
+[2024.09.19-06.05.01:669][626]LogSavePackage: Moving output files for package: /Game/Images/Moltenplayerico
+[2024.09.19-06.05.01:669][626]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/Moltenplayerico6B18117849170E5A7D2710A1638734DE.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/Moltenplayerico.uasset'
+[2024.09.19-06.05.01:673][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/IceburgRockyPlayerico" FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/IceburgRockyPlayerico.uasset" SILENT=true
+[2024.09.19-06.05.01:678][626]LogSavePackage: Moving output files for package: /Game/Images/IceburgRockyPlayerico
+[2024.09.19-06.05.01:678][626]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/IceburgRockyPlayerico47E89476415BB2773BDC098574BDFDB2.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/IceburgRockyPlayerico.uasset'
+[2024.09.19-06.05.01:683][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/GummiPlayerico" FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/GummiPlayerico.uasset" SILENT=true
+[2024.09.19-06.05.01:688][626]LogSavePackage: Moving output files for package: /Game/Images/GummiPlayerico
+[2024.09.19-06.05.01:688][626]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/GummiPlayerico70354BEB42FB494E3D4CB9BDC6822B03.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/GummiPlayerico.uasset'
+[2024.09.19-06.05.01:692][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/FrostBiteplayerico" FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/FrostBiteplayerico.uasset" SILENT=true
+[2024.09.19-06.05.01:694][626]LogSavePackage: Moving output files for package: /Game/Images/FrostBiteplayerico
+[2024.09.19-06.05.01:695][626]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/FrostBiteplayerico8F3BED464BF7DC45591A4189B411A66B.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/FrostBiteplayerico.uasset'
+[2024.09.19-06.05.01:698][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/DashPlayerico" FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/DashPlayerico.uasset" SILENT=true
+[2024.09.19-06.05.01:704][626]LogSavePackage: Moving output files for package: /Game/Images/DashPlayerico
+[2024.09.19-06.05.01:705][626]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/DashPlayericoFD39418E48DA8E1F680C13BFFD196C67.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/DashPlayerico.uasset'
+[2024.09.19-06.05.01:722][626]LogFileHelpers: InternalPromptForCheckoutAndSave took 549 ms
+[2024.09.19-06.05.01:748][627]AssetCheck: New page: Asset Save: multiple assets
+[2024.09.19-06.05.01:748][627]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/chunkplayerico.chunkplayerico
+[2024.09.19-06.05.01:748][627]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Nillaplayerico.Nillaplayerico
+[2024.09.19-06.05.01:748][627]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/Moltenplayerico.Moltenplayerico
+[2024.09.19-06.05.01:748][627]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/IceburgRockyPlayerico.IceburgRockyPlayerico
+[2024.09.19-06.05.01:748][627]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/GummiPlayerico.GummiPlayerico
+[2024.09.19-06.05.01:748][627]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/FrostBiteplayerico.FrostBiteplayerico
+[2024.09.19-06.05.01:748][627]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/DashPlayerico.DashPlayerico
+[2024.09.19-06.05.04:724][923]AssetReimport: Importing new asset /Game/Images/chunkplayerico.
+[2024.09.19-06.05.04:724][923]AssetReimport: Importing new asset /Game/Images/Nillaplayerico.
+[2024.09.19-06.05.04:724][923]AssetReimport: Importing new asset /Game/Images/Moltenplayerico.
+[2024.09.19-06.05.04:724][923]AssetReimport: Importing new asset /Game/Images/IceburgRockyPlayerico.
+[2024.09.19-06.05.04:724][923]AssetReimport: Importing new asset /Game/Images/GummiPlayerico.
+[2024.09.19-06.05.04:724][923]AssetReimport: Importing new asset /Game/Images/FrostBiteplayerico.
+[2024.09.19-06.05.04:724][923]AssetReimport: Importing new asset /Game/Images/DashPlayerico.
+[2024.09.19-06.05.09:796][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.09.19-06.05.10:853][490]LogSlate: Window 'Delete Assets' being destroyed
+[2024.09.19-06.05.10:873][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.09.19-06.05.10:879][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.09.19-06.05.10:885][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.09.19-06.05.18:952][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.19-06.05.19:063][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/PlayerIcons/chunkplayerico" FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/PlayerIcons/chunkplayerico.uasset" SILENT=true
+[2024.09.19-06.05.19:071][384]LogSavePackage: Moving output files for package: /Game/Images/PlayerIcons/chunkplayerico
+[2024.09.19-06.05.19:071][384]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/chunkplayericoF3123A604634B46013F018989533210D.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/PlayerIcons/chunkplayerico.uasset'
+[2024.09.19-06.05.19:072][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/PlayerIcons/DashPlayerico" FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/PlayerIcons/DashPlayerico.uasset" SILENT=true
+[2024.09.19-06.05.19:079][384]LogSavePackage: Moving output files for package: /Game/Images/PlayerIcons/DashPlayerico
+[2024.09.19-06.05.19:079][384]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/DashPlayericoDE4E487F4FE6FD491831B29F050A3711.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/PlayerIcons/DashPlayerico.uasset'
+[2024.09.19-06.05.19:087][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 685 ms)
+[2024.09.19-06.05.19:096][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.09.19-06.05.19:102][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.09.19-06.05.19:109][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.19-06.05.19:163][384]AssetCheck: New page: Asset Save: multiple assets
+[2024.09.19-06.05.19:163][384]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/PlayerIcons/chunkplayerico.chunkplayerico
+[2024.09.19-06.05.19:163][384]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/PlayerIcons/DashPlayerico.DashPlayerico
+[2024.09.19-06.05.30:021][558]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.19-06.05.30:126][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/PlayerIcons/FrostBiteplayerico" FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/PlayerIcons/FrostBiteplayerico.uasset" SILENT=true
+[2024.09.19-06.05.30:129][558]LogSavePackage: Moving output files for package: /Game/Images/PlayerIcons/FrostBiteplayerico
+[2024.09.19-06.05.30:129][558]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/FrostBiteplayerico6E389DC4443C85C57A5357BC183BCC4B.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/PlayerIcons/FrostBiteplayerico.uasset'
+[2024.09.19-06.05.30:130][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/PlayerIcons/GummiPlayerico" FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/PlayerIcons/GummiPlayerico.uasset" SILENT=true
+[2024.09.19-06.05.30:137][558]LogSavePackage: Moving output files for package: /Game/Images/PlayerIcons/GummiPlayerico
+[2024.09.19-06.05.30:137][558]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/GummiPlayerico854D934040516D011A53BF833542C151.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/PlayerIcons/GummiPlayerico.uasset'
+[2024.09.19-06.05.30:138][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/PlayerIcons/IceburgRockyPlayerico" FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/PlayerIcons/IceburgRockyPlayerico.uasset" SILENT=true
+[2024.09.19-06.05.30:143][558]LogSavePackage: Moving output files for package: /Game/Images/PlayerIcons/IceburgRockyPlayerico
+[2024.09.19-06.05.30:143][558]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/IceburgRockyPlayerico7CE258864318D7D37953F48D9D5728F7.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/PlayerIcons/IceburgRockyPlayerico.uasset'
+[2024.09.19-06.05.30:145][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/PlayerIcons/Moltenplayerico" FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/PlayerIcons/Moltenplayerico.uasset" SILENT=true
+[2024.09.19-06.05.30:151][558]LogSavePackage: Moving output files for package: /Game/Images/PlayerIcons/Moltenplayerico
+[2024.09.19-06.05.30:151][558]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/Moltenplayerico95D9A61A4A0E8CA1381D808788ABF78A.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/PlayerIcons/Moltenplayerico.uasset'
+[2024.09.19-06.05.30:152][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/PlayerIcons/Nillaplayerico" FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/PlayerIcons/Nillaplayerico.uasset" SILENT=true
+[2024.09.19-06.05.30:155][558]LogSavePackage: Moving output files for package: /Game/Images/PlayerIcons/Nillaplayerico
+[2024.09.19-06.05.30:156][558]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/Nillaplayerico32045F994A2BCF8E33BD94AF5B0D37E4.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/PlayerIcons/Nillaplayerico.uasset'
+[2024.09.19-06.05.30:166][558]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 830 ms)
+[2024.09.19-06.05.30:182][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.09.19-06.05.30:188][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.09.19-06.05.30:191][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.09.19-06.05.30:251][558]AssetCheck: New page: Asset Save: multiple assets
+[2024.09.19-06.05.30:251][558]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/PlayerIcons/FrostBiteplayerico.FrostBiteplayerico
+[2024.09.19-06.05.30:251][558]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/PlayerIcons/GummiPlayerico.GummiPlayerico
+[2024.09.19-06.05.30:251][558]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/PlayerIcons/IceburgRockyPlayerico.IceburgRockyPlayerico
+[2024.09.19-06.05.30:251][558]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/PlayerIcons/Moltenplayerico.Moltenplayerico
+[2024.09.19-06.05.30:251][558]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/PlayerIcons/Nillaplayerico.Nillaplayerico
+[2024.09.19-06.05.47:105][522]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.09.19-06.05.47:138][522]LogContentBrowser: Creating deferred item: NewFolder
+[2024.09.19-06.05.47:149][523]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.09.19-06.05.50:585][936]LogContentBrowser: Attempting asset rename: NewFolder -> backgrounds
+[2024.09.19-06.05.50:586][936]LogContentBrowser: End creating deferred item NewFolder
+[2024.09.19-06.05.56:389][603]LogTexture: Display: Building textures: /Game/Images/Media.Media (BGRA8, 750x471 x1x1x1) (Required Memory Estimate: 10.393654 MB), EncodeSpeed: Fast
+[2024.09.19-06.06.04:765][529]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.09.19-06.06.06:936][748]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.19-06.06.07:089][748]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/AdventureGM/StartGameWidget
+[2024.09.19-06.06.07:090][748]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/StartGameWidgetC564DA204AC49810B665BEA74546C3DA.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Blueprints/AdventureGM/StartGameWidget.uasset'
+[2024.09.19-06.06.07:104][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CandyRushGrandPrix/UI/WBP_LevelSelect" FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/UI/WBP_LevelSelect.uasset" SILENT=true
+[2024.09.19-06.06.07:123][748]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/UI/WBP_LevelSelect
+[2024.09.19-06.06.07:124][748]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/WBP_LevelSelect3B86F42641F33053591358BC99277B22.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/UI/WBP_LevelSelect.uasset'
+[2024.09.19-06.06.07:154][748]LogWindows: WindowsPlatformFeatures enabled
+[2024.09.19-06.06.07:253][748]LogSavePackage: Moving output files for package: /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options
+[2024.09.19-06.06.07:253][748]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/WBP_Options8CA111494BFC7C2590E748BC15B3109E.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.uasset'
+[2024.09.19-06.06.07:255][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/backgrounds/CandyCastle" FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/backgrounds/CandyCastle.uasset" SILENT=true
+[2024.09.19-06.06.07:267][748]LogSavePackage: Moving output files for package: /Game/Images/backgrounds/CandyCastle
+[2024.09.19-06.06.07:267][748]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/CandyCastle73CADB284A9A21C4CC8979B00545B83E.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/backgrounds/CandyCastle.uasset'
+[2024.09.19-06.06.07:269][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/backgrounds/image-720x370" FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/backgrounds/image-720x370.uasset" SILENT=true
+[2024.09.19-06.06.07:279][748]LogSavePackage: Moving output files for package: /Game/Images/backgrounds/image-720x370
+[2024.09.19-06.06.07:279][748]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/image-720x3708539FEE14BCF527E6DB4099CD7C0BE43.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/backgrounds/image-720x370.uasset'
+[2024.09.19-06.06.07:280][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/backgrounds/Landscapebkg" FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/backgrounds/Landscapebkg.uasset" SILENT=true
+[2024.09.19-06.06.07:282][748]LogSavePackage: Moving output files for package: /Game/Images/backgrounds/Landscapebkg
+[2024.09.19-06.06.07:282][748]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/Landscapebkg171A0B3C4016F56B8DAD529F055E458D.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/backgrounds/Landscapebkg.uasset'
+[2024.09.19-06.06.07:283][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/backgrounds/Landscapebkg_Mat" FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/backgrounds/Landscapebkg_Mat.uasset" SILENT=true
+[2024.09.19-06.06.07:284][748]LogSavePackage: Moving output files for package: /Game/Images/backgrounds/Landscapebkg_Mat
+[2024.09.19-06.06.07:284][748]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/Landscapebkg_MatFB1A72854D38659F6FB7B79E39D18519.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/backgrounds/Landscapebkg_Mat.uasset'
+[2024.09.19-06.06.07:285][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/Landscapebkg_Mat" FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/Landscapebkg_Mat.uasset" SILENT=true
+[2024.09.19-06.06.07:285][748]LogSavePackage: Moving output files for package: /Game/Images/Landscapebkg_Mat
+[2024.09.19-06.06.07:286][748]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/Landscapebkg_Mat67CD3832405DA07886061184F12A9AD3.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/Landscapebkg_Mat.uasset'
+[2024.09.19-06.06.07:287][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/backgrounds/Media" FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/backgrounds/Media.uasset" SILENT=true
+[2024.09.19-06.06.07:296][748]LogSavePackage: Moving output files for package: /Game/Images/backgrounds/Media
+[2024.09.19-06.06.07:296][748]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/Media1DE165C3459DE19EC0EE8C8C45300F4C.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/backgrounds/Media.uasset'
+[2024.09.19-06.06.07:297][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/backgrounds/Media__5_" FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/backgrounds/Media__5_.uasset" SILENT=true
+[2024.09.19-06.06.07:299][748]LogSavePackage: Moving output files for package: /Game/Images/backgrounds/Media__5_
+[2024.09.19-06.06.07:299][748]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/Media__5_31B59377492FAEF33C980393DDDE79B5.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/backgrounds/Media__5_.uasset'
+[2024.09.19-06.06.07:300][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Images/backgrounds/Media__6_" FILE="C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/backgrounds/Media__6_.uasset" SILENT=true
+[2024.09.19-06.06.07:301][748]LogSavePackage: Moving output files for package: /Game/Images/backgrounds/Media__6_
+[2024.09.19-06.06.07:301][748]LogSavePackage: Moving 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/Media__6_B7F7A3FE423A64EED808959915940FBA.tmp' to 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Images/backgrounds/Media__6_.uasset'
+[2024.09.19-06.06.07:310][748]LogFileHelpers: InternalPromptForCheckoutAndSave took 375 ms (total: 1.20 sec)
+[2024.09.19-06.06.07:325][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.09.19-06.06.07:329][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.09.19-06.06.07:333][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.09.19-06.06.07:395][748]AssetCheck: New page: Asset Save: multiple assets
+[2024.09.19-06.06.07:395][748]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/AdventureGM/StartGameWidget.StartGameWidget
+[2024.09.19-06.06.07:396][748]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/UI/WBP_LevelSelect.WBP_LevelSelect
+[2024.09.19-06.06.07:396][748]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/CandyRushGrandPrix/Blueprints/MenuBP/WBP_Options.WBP_Options
+[2024.09.19-06.06.07:398][748]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/backgrounds/CandyCastle.CandyCastle
+[2024.09.19-06.06.07:398][748]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/backgrounds/image-720x370.image-720x370
+[2024.09.19-06.06.07:398][748]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/backgrounds/Landscapebkg.Landscapebkg
+[2024.09.19-06.06.07:398][748]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Images/backgrounds/Landscapebkg_Mat.Landscapebkg_Mat
+[2024.09.19-06.06.07:398][748]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Images/Landscapebkg_Mat.Landscapebkg_Mat
+[2024.09.19-06.06.07:398][748]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/backgrounds/Media.Media
+[2024.09.19-06.06.07:398][748]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/backgrounds/Media__5_.Media__5_
+[2024.09.19-06.06.07:398][748]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Images/backgrounds/Media__6_.Media__6_
