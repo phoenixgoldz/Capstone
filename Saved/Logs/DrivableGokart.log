@@ -1236,3 +1236,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.09.19-06.01.45:922][425]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
 [2024.09.19-06.01.49:076][804]LogContentBrowser: Attempting asset rename: NewFolder -> PlayerIcons
 [2024.09.19-06.01.49:076][804]LogContentBrowser: End creating deferred item NewFolder
+[2024.09.19-06.03.31:631][654]LogDerivedDataCache: C:/Users/Trevor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.214 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4831 files in 6795 folders with total size 1033 MiB.
+[2024.09.19-06.03.42:944][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
