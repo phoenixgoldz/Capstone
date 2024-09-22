@@ -1,8 +1,9 @@
 
+
 # Candy Rush Grand Prix
 
 ## Overview
-Candy Rush Grand Prix is a candy-themed go-kart racing game inspired by the classic Diddy Kong Racing adventure mode. Players can explore various candy biomes, each offering unique challenges and aesthetics, centered around the majestic Candy Castle Central.
+Candy Rush Grand Prix is a candy-themed go-kart racing game inspired by the classic Diddy Kong Racing adventure mode. Players can explore various candy biomes, each offering unique challenges and aesthetics, centered around the majestic Candy Castle Central. The adventure mode offers exploration, discovery, and intense races through candy-themed worlds.
 
 ## Funding
 This project is currently seeking funding to further develop features, enhance game mechanics, and support the creative team. Interested sponsors or donors can contact us through our Discord server or directly via email provided in our GitHub profile.
@@ -14,28 +15,32 @@ Join our development community on Discord to discuss game development, suggest n
 ## Contributing
 Interested in contributing to Candy Rush Grand Prix? Contributors are welcome to propose enhancements, fix bugs, or improve documentation. Please feel free to send a pull request or open an issue.
 
-# In Planning Stages and Development 
+# In Planning Stages and Development
 
 ## Biomes
-- **Candy Castle Central (in development)**: The main hub connecting all biomes.
-- **Peppermint Candy Forest (planned)**: Features icy paths and towering peppermint trees.
-- **Cotton Candy Skies (planned)**: Sky-high racing on fluffy cotton candy clouds.
-- **Licorice Lagoon (planned)**: Dark waters and sticky licorice obstacles.
-- **Frosted Sugar Mountain (planned)**: Slippery slopes with snowy peaks.
-- **Chocolate Swamp (planned)**: Muddy, chocolate-filled landscapes.
+- **Candy Castle Central (in development)**: The main hub connecting all biomes, where players can navigate to different biomes.
+- **Peppermint Candy Forest (planned)**: Features icy paths, towering peppermint trees, and slippery slopes.
+- **Licorice Lagoon (planned)**: Dark waters with slick licorice bridges and obstacles that stick to your kart.
+- **Toffee Tundra (planned)**: Frosty toffee-covered landscapes with snowy mountains and frozen roads.
 - **Gummy Bear Valley (planned)**: Colorful and bouncy terrain filled with giant gummy bears.
+- **Bubblegum Dunes (planned)**: A desert-like biome with roads made of stretched bubblegum that expands and contracts.
+- **Lollipop Lushlands (planned)**: A vibrant landscape of towering lollipop trees, rainbow paths, and swirling gusts of wind.
+- **Caramel Caves (planned)**: A cavernous network filled with sticky caramel pits, molten geysers, and narrow, winding roads.
 
 ## Game Features
-- **Local/Online Multiplayer (planned)**: Race with up to 4 friends in split-screen mode or Online up to 8 players.
-- **Battle Modes (planned)**: Compete against others in a online or local player in a Candy filled arena.
-- **Adventure Mode Story(in development)**: Explore the Candy Castle Central and unlock new tracks and vehicles.
-- **Items and Power-ups (need more)**: Use candy-themed items to boost your kart or hinder your opponents.
+- **Local/Online Multiplayer (planned)**: Race with up to 4 friends in split-screen mode or up to 8 players online.
+- **Battle Modes (planned)**: Compete in online or local play in candy-filled arenas with sweet power-ups.
+- **Adventure Mode Story (in development)**: Explore Candy Castle Central and unlock new tracks and vehicles by collecting biome keys and defeating biome bosses.
+- **Items and Power-ups (in development)**: Use candy-themed items, such as the Gumdrop Shield, to boost your kart or hinder opponents.
+- **Candy Kart Customization (in development)**: Players can customize their karts and candy trails for a more personalized racing experience.
+- **Interactive Biome Puzzles (planned)**: Solve biome-specific puzzles to unlock new areas and races.
 
 ## Installation
 To play Candy Rush Grand Prix, clone this repository and import it into Unreal Engine 5.3.
 ```bash
-git clone https://github.com/yourusername/candyrushgrandprix.git
+git clone https://github.com/phoenixgoldz/candyrushgrandprix.git
 ```
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+This project is licensed under the MIT License - see the
+ [LICENSE.md](LICENSE) file for details.
