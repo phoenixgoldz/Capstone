@@ -1,4 +1,4 @@
-![Candy Rush Grand Prix Logo](assets/logo.png)
+![Candy Rush Grand Prix Logo](Content/Images/52fa5d66-18ae-40e1-b403-51283ed4d3d9.webp)
 
 
 # Candy Rush Grand Prix
