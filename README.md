@@ -1,10 +1,9 @@
 ![Candy Rush Grand Prix Logo](Content/Images/52fa5d66-18ae-40e1-b403-51283ed4d3d9.webp)
 
-
 # Candy Rush Grand Prix
 
 ## Overview
-Candy Rush Grand Prix is a candy-themed go-kart racing game inspired by the classic Diddy Kong Racing adventure mode. Players can explore various candy biomes, each offering unique challenges and aesthetics, centered around the majestic Candy Castle Central. The adventure mode offers exploration, discovery, and intense races through candy-themed worlds.
+Candy Rush Grand Prix is a candy-themed go-kart racing game inspired by the classic Diddy Kong Racing N64 Adventure mode. Players can explore various candy biomes, each offering unique challenges and aesthetics, all centered around the majestic Candy Castle Central. The adventure mode emphasizes exploration, discovery, and intense races through candy-themed worlds, allowing players to unlock new areas and progress through an engaging storyline.
 
 ## Funding
 This project is currently seeking funding to further develop features, enhance game mechanics, and support the creative team. Interested sponsors or donors can contact us through our Discord server or directly via email provided in our GitHub profile.
@@ -40,8 +39,3 @@ Interested in contributing to Candy Rush Grand Prix? Contributors are welcome to
 To play Candy Rush Grand Prix, clone this repository and import it into Unreal Engine 5.3.
 ```bash
 git clone https://github.com/phoenixgoldz/candyrushgrandprix.git
-```
-
-## License
-This project is licensed under the MIT License - see the
- [LICENSE.md](LICENSE) file for details.
