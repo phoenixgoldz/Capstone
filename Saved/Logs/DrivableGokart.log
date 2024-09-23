@@ -1081,3 +1081,74 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.09.23-05.22.50:983][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: D597585443EA4602ECB491B9D0084AAE | Instance: 38F75D17453BAF054914019BBAE73203 (PHEONIXDESKTOP-13404).
 [2024.09.23-05.22.52:354][  0]LogSteamShared: Display: Loading Steam SDK 1.53
 [2024.09.23-05.22.52:463][  0]LogSteamShared: Steam SDK Loaded!
+[2024.09.23-05.23.02:835][  0]LogOpenImageDenoise: OIDN starting up
+[2024.09.23-05.23.03:465][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.09.23-05.23.03:630][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.09.23-05.23.03:630][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.09.23-05.23.04:674][  0]LogUProjectInfo: Found projects:
+[2024.09.23-05.23.04:857][  0]SourceControl: Revision control is disabled
+[2024.09.23-05.23.04:987][  0]SourceControl: Revision control is disabled
+[2024.09.23-05.23.05:633][  0]LogCollectionManager: Loaded 0 collections in 0.001574 seconds
+[2024.09.23-05.23.05:636][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/Collections/' took 0.00s
+[2024.09.23-05.23.05:649][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Developers/Trevor/Collections/' took 0.01s
+[2024.09.23-05.23.05:652][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/Collections/' took 0.00s
+[2024.09.23-05.23.09:167][  0]LogEngine: Initializing Engine...
+[2024.09.23-05.23.09:506][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2024.09.23-05.23.12:370][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.09.23-05.23.12:637][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.09.23-05.23.12:718][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.09.23-05.23.13:146][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.09.23-05.23.13:251][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.09.23-05.23.13:253][  0]LogInit: Texture streaming: Enabled
+[2024.09.23-05.23.13:558][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.3.2-29314046+++UE5+Release-5.3
+[2024.09.23-05.23.13:647][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.09.23-05.23.13:808][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.09.23-05.23.13:832][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.09.23-05.23.13:832][  0]LogAudio: Display: AudioInfo: 'BINKA' Registered
+[2024.09.23-05.23.13:835][  0]LogAudio: Display: AudioInfo: 'PCM' Registered
+[2024.09.23-05.23.13:835][  0]LogAudio: Display: AudioInfo: 'ADPCM' Registered
+[2024.09.23-05.23.13:835][  0]LogAudio: Display: AudioInfo: 'OGG' Registered
+[2024.09.23-05.23.13:835][  0]LogAudio: Display: AudioInfo: 'OPUS' Registered
+[2024.09.23-05.23.13:836][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.09.23-05.23.13:837][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.09.23-05.23.13:838][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.23-05.23.13:838][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.23-05.23.13:838][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.23-05.23.13:838][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.23-05.23.13:838][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.09.23-05.23.13:838][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.23-05.23.13:838][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.09.23-05.23.13:838][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.23-05.23.13:848][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.23-05.23.13:848][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.23-05.23.13:848][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.23-05.23.14:058][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.23-05.23.14:121][  0]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (Corsair HS60 PRO Surround USB Sound Adapter)
+[2024.09.23-05.23.14:125][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.23-05.23.14:170][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.23-05.23.14:170][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.23-05.23.14:174][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2024.09.23-05.23.14:174][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.09.23-05.23.14:176][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.09.23-05.23.14:176][  0]LogInit: FAudioDevice initialized with ID 1.
+[2024.09.23-05.23.14:176][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2024.09.23-05.23.14:181][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.09.23-05.23.14:181][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2024.09.23-05.23.14:200][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.09.23-05.23.14:474][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2024.09.23-05.23.14:548][  0]LogInit: Undo buffer set to 32 MB
+[2024.09.23-05.23.14:556][  0]LogInit: Transaction tracking system initialized
+[2024.09.23-05.23.14:973][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Saved/SourceControl/UncontrolledChangelists.json
+[2024.09.23-05.23.14:973][  0]LogSourceControl: Uncontrolled asset enumeration started...
+[2024.09.23-05.23.14:976][  0]LogSourceControl: Uncontrolled asset enumeration finished in 0.002902 seconds (Found 137 uncontrolled assets)
+[2024.09.23-05.23.15:213][  0]BlueprintLog: New page: Editor Load
+[2024.09.23-05.23.16:763][  0]LocalizationService: Localization service is disabled
+[2024.09.23-05.23.17:058][  0]TimingProfiler: Initialize
+[2024.09.23-05.23.17:073][  0]TimingProfiler: OnSessionChanged
+[2024.09.23-05.23.17:073][  0]LoadingProfiler: Initialize
+[2024.09.23-05.23.17:073][  0]LoadingProfiler: OnSessionChanged
+[2024.09.23-05.23.17:074][  0]NetworkingProfiler: Initialize
+[2024.09.23-05.23.17:097][  0]NetworkingProfiler: OnSessionChanged
+[2024.09.23-05.23.17:097][  0]MemoryProfiler: Initialize
+[2024.09.23-05.23.17:097][  0]MemoryProfiler: OnSessionChanged
+[2024.09.23-05.23.20:319][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Trevor/Desktop/CapstoneTest/Capstone/Content/' took 0.05s
