@@ -1072,3 +1072,12 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.09.23-05.22.36:530][  0]LogInit: XR: MultiViewport is Disabled
 [2024.09.23-05.22.36:530][  0]LogInit: XR: Mobile Multiview is Disabled
 [2024.09.23-05.22.36:530][  0]LogTurnkeySupport: Turnkey Device: Win64@PHEONIXDESKTOP: (Name=PHEONIXDESKTOP, Type=Computer, Status=Valid, MinAllowed=10.0.18362.0, MaxAllowed=, Current=10.0.22631.0, Flags="Device_InstallSoftwareValid")
+[2024.09.23-05.22.42:555][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.09.23-05.22.42:680][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.09.23-05.22.42:694][  0]LogUdpMessaging: Display: Added local interface '192.168.1.22' to multicast group '230.0.0.1:6666'
+[2024.09.23-05.22.46:033][  0]LogPython: Using Python 3.9.7
+[2024.09.23-05.22.49:695][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2024.09.23-05.22.49:769][  0]LogMetasoundEngine: MetaSound Engine Initialized
+[2024.09.23-05.22.50:983][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: D597585443EA4602ECB491B9D0084AAE | Instance: 38F75D17453BAF054914019BBAE73203 (PHEONIXDESKTOP-13404).
+[2024.09.23-05.22.52:354][  0]LogSteamShared: Display: Loading Steam SDK 1.53
+[2024.09.23-05.22.52:463][  0]LogSteamShared: Steam SDK Loaded!
