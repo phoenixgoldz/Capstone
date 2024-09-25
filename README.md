@@ -33,9 +33,9 @@ Interested in contributing to Candy Rush Grand Prix? Contributors are welcome to
 - **Adventure Mode Story (in development)**: Explore Candy Castle Central and unlock new tracks and vehicles by collecting biome keys and defeating biome bosses.
 - **Items and Power-ups (in development)**: Use candy-themed items, such as the Gumdrop Shield, to boost your kart or hinder opponents.
 - **Candy Kart Customization (in development)**: Players can customize their karts and candy trails for a more personalized racing experience.
-- **Interactive Biome Puzzles (planned)**: Solve biome-specific puzzles to unlock new areas and races.
+- **Interactive Biome Puzzles (planned)**: Solve biome-specific puzzles to unlock new areas and races after obtaining specific biome keys.
 
 ## Installation
-To play Candy Rush Grand Prix, clone this repository and import it into Unreal Engine 5.3.
+To play Candy Rush Grand Prix, clone this repository and import it into Unreal Engine 5.4
 ```bash
 git clone https://github.com/phoenixgoldz/candyrushgrandprix.git
