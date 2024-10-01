@@ -20,12 +20,15 @@ Interested in contributing to Candy Rush Grand Prix? Contributors are welcome to
 ## Biomes
 - **Candy Castle Central (in development)**: The main hub connecting all biomes, where players can navigate to different biomes.
 - **Peppermint Candy Forest (planned)**: Features icy paths, towering peppermint trees, and slippery slopes.
+![Peppermint Forest Concept]([Content/Images/PeppermintForest.jpg))
 - **Licorice Lagoon (planned)**: Dark waters with slick licorice bridges and obstacles that stick to your kart.
 - **Toffee Tundra (planned)**: Frosty toffee-covered landscapes with snowy mountains and frozen roads.
 - **Gummy Bear Valley (planned)**: Colorful and bouncy terrain filled with giant gummy bears.
 - **Bubblegum Dunes (planned)**: A desert-like biome with roads made of stretched bubblegum that expands and contracts.
+![BubbleGum Dunes Concept]([Content/Images/BubblegumDunes.jpg))
 - **Lollipop Lushlands (planned)**: A vibrant landscape of towering lollipop trees, rainbow paths, and swirling gusts of wind.
 - **Caramel Caves (planned)**: A cavernous network filled with sticky caramel pits, molten geysers, and narrow, winding roads.
+![Caramel Caves Concept]([Content/Images/CaramelCaves.jpg))
 
 ## Game Features
 - **Local/Online Multiplayer (planned)**: Race with up to 4 friends in split-screen mode or up to 8 players online.
